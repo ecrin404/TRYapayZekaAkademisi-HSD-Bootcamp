@@ -1,0 +1,1429 @@
+﻿siparis_id,musteri_id,siparis_tarihi,sehir,bolge,kategori,urun_adi,adet,birim_fiyat,indirim_orani,kargo_ucreti,odeme_turu,musteri_tipi,teslimat_gunu,musteri_puani,iade_durumu,kar_marji_orani,toplam_tutar
+SIP101125,MUS1391,2024-01-13 17:06:00,İstanbul,Marmara,Kozmetik,Nemlendirici,1,414.51,0.05,49.9,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.22,443.68
+SIP100837,MUS1347,2025-03-17 21:13:00,Gaziantep,Güneydoğu Anadolu,Spor,Dambıl Seti,2,1475.15,0.1,29.9,Banka Kartı,VIP,4.0,1.0,Hayır,0.361,2685.17
+SIP100050,MUS1066,2025-06-03 12:42:00,Kayseri,İç Anadolu,Kitap,İş Analitiği Rehberi,1,289.02,0.05,29.9,Kredi Kartı,Mevcut,6.0,2.0,Hayır,0.348,304.47
+SIP100263,MUS1008,2024-08-10 15:13:00,Antalya,Akdeniz,Kitap,Girişimcilik,5,194.78,0.0,49.9,Kapıda Ödeme,Yeni,3.0,5.0,Hayır,0.25,1023.8
+SIP100707,MUS1291,2024-08-19 08:24:00,Gaziantep,Güneydoğu Anadolu,Elektronik,Powerbank,3,841.8,0.05,39.9,Dijital Cüzdan,Mevcut,4.0,5.0,Hayır,0.28,2439.03
+SIP100687,MUS1147,2025-08-09 08:42:00,Konya,İç Anadolu,Kozmetik,Nemlendirici,2,417.02,0.0,59.9,Dijital Cüzdan,Mevcut,4.0,5.0,Hayır,0.22,893.94
+SIP101351,MUS1011,2025-02-27 11:35:00,İstanbul,Marmara,Ofis,Mouse Pad,3,169.47,0.05,29.9,Havale/EFT,VIP,3.0,2.0,Evet,0.382,512.89
+SIP101172,MUS1357,2024-07-22 13:26:00,Ankara,İç Anadolu,Ofis,Mekanik Klavye,3,2344.47,0.0,59.9,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.312,7093.31
+SIP100779,MUS1354,2025-12-05 11:19:00,İstanbul,Marmara,Kitap,Python Notları,4,219.14,0.0,29.9,Kredi Kartı,Yeni,18.0,5.0,Evet,0.408,906.46
+SIP100202,MUS1067,2024-05-11 22:53:00,Bursa,Marmara,Kozmetik,Güneş Kremi,2,424.4,0.0,29.9,Havale/EFT,Mevcut,3.0,1.0,Hayır,0.212,878.7
+SIP100254,MUS1447,2024-07-30 09:06:00,Konya,İç Anadolu,Elektronik,Bluetooth Hoparlör,1,1327.75,0.05,29.9,Banka Kartı,Mevcut,4.0,5.0,Hayır,0.283,1291.26
+SIP100120,MUS1403,2024-04-02 22:18:00,Antalya,Akdeniz,Kitap,Python Notları,3,216.44,0.0,0.0,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.189,649.32
+SIP101013,MUS1390,2025-01-21 10:30:00,İstanbul,Marmara,ofis,Not Tutucu,1,129.01,0.0,39.9,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.242,168.91
+SIP100308,MUS1317,2025-02-01 17:25:00,Trabzon,Karadeniz,Ofis,Kalem Seti,4,98.2,0.0,49.9,Banka Kartı,Yeni,2.0,5.0,Hayır,0.325,496.11
+SIP101295,MUS1404,2024-08-24 12:47:00,İstanbul,Marmara,Ev ve Yaşam,Organizer,1,251.11,0.2,29.9,Banka Kartı,Yeni,6.0,4.0,Hayır,0.339,230.79
+SIP100598,MUS1223,2025-08-08 19:03:00,İstanbul,Marmara,Elektronik,Akıllı Saat,3,2889.29,0.0,39.9,Banka Kartı,Yeni,1.0,1.0,Hayır,0.189,8707.77
+SIP101066,MUS1436,2024-02-10 10:36:00,Antalya,Akdeniz,Ofis,Defter Seti,1,144.65,0.15,39.9,Kredi Kartı,Yeni,5.0,5.0,Hayır,0.35,162.85
+SIP101009,MUS1252,2025-01-25 16:20:00,Adana,Akdeniz,Ev ve Yaşam,Organizer,5,280.12,0.0,39.9,Kredi Kartı,Mevcut,5.0,2.0,Evet,0.385,1440.5
+SIP101277,MUS1287,2024-07-31 17:52:00,Konya,İç Anadolu,Spor,Dambıl Seti,2,1618.73,0.05,29.9,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.208,3105.49
+SIP100677,MUS1148,2024-07-11 16:24:00,Adana,Akdeniz,Spor,Dambıl Seti,4,1517.65,0.0,29.9,Kapıda Ödeme,Mevcut,3.0,,Hayır,0.311,6100.5
+SIP100320,MUS1211,2025-06-10 22:43:00,Ankara,İç Anadolu,Kozmetik,Güneş Kremi,1,461.1,0.1,29.9,Kapıda Ödeme,Yeni,3.0,5.0,Hayır,0.249,444.89
+SIP100161,MUS1379,2025-09-21 17:32:00,Mersin,Akdeniz,Elektronik,Kablosuz Kulaklık,2,1537.72,0.15,59.9,Kredi Kartı,Mevcut,1.0,5.0,Hayır,0.399,2674.02
+SIP100492,MUS1169,2024-04-12 12:39:00,Ankara,İç Anadolu,Kitap,Python Notları,1,235.97,0.0,39.9,Kredi Kartı,Yeni,4.0,1.0,Hayır,0.2,275.87
+SIP101363,MUS1248,2025-07-12 15:20:00,Adana,Akdeniz,Kozmetik,Şampuan,1,194.37,0.0,49.9,Dijital Cüzdan,Yeni,4.0,3.0,Hayır,0.404,244.27
+SIP101061,MUS1294,2024-05-04 15:41:00,İstanbul,Marmara,Elektronik,Kablosuz Kulaklık,3,1445.43,0.0,39.9,Banka Kartı,Mevcut,4.0,4.0,Evet,0.407,4376.19
+SIP100391,MUS1402,2024-06-23 18:18:00,İstanbul,Marmara,Elektronik,Bluetooth Hoparlör,1,1232.33,0.0,39.9,Dijital Cüzdan,Mevcut,6.0,5.0,Hayır,0.241,1272.23
+SIP100993,MUS1226,2025-02-04 10:04:00,İstanbul,Marmara,Elektronik,Powerbank,1,815.53,0.0,39.9,Banka Kartı,Yeni,4.0,3.0,Hayır,0.203,855.43
+SIP100686,MUS1032,2025-12-12 22:38:00,Ankara,İç Anadolu,Ev ve Yaşam,Termos,1,504.31,0.2,39.9,Havale/EFT,Mevcut,2.0,4.0,Hayır,0.265,443.35
+SIP100797,MUS1231,2024-01-19 20:02:00,Antalya,Akdeniz,Kozmetik,Serum,2,487.32,0.05,0.0,Dijital Cüzdan,VIP,4.0,5.0,Hayır,0.239,925.91
+SIP100352,MUS1101,2024-09-05 15:23:00,Kocaeli,Marmara,Kitap,Girişimcilik,1,208.21,0.2,29.9,Banka Kartı,Mevcut,4.0,4.0,Hayır,0.324,196.47
+SIP100989,MUS1328,2025-04-06 10:16:00,Bursa,Marmara,Ofis,Not Tutucu,1,130.83,0.0,39.9,Kredi Kartı,Yeni,3.0,4.0,Evet,0.39,170.73
+SIP100043,MUS1056,2025-11-16 21:47:00,İstanbul,Marmara,Ofis,Not Tutucu,5,135.47,0.0,29.9,Kapıda Ödeme,Yeni,3.0,4.0,Hayır,0.383,707.25
+SIP100033,MUS1289,2025-04-13 13:59:00,İstanbul,Marmara,Kitap,İş Analitiği Rehberi,2,295.27,0.05,49.9,Havale/EFT,Yeni,4.0,4.0,Hayır,0.27,610.91
+SIP101126,MUS1406,2024-09-11 20:05:00,Mersin,Akdeniz,Elektronik,Bluetooth Hoparlör,1,1159.89,0.1,39.9,Kredi Kartı,,2.0,4.0,Hayır,0.204,1083.8
+SIP100645,MUS1131,2025-07-27 20:40:00,İzmir,Ege,Ofis,Mouse Pad,1,192.44,0.05,49.9,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.304,232.72
+SIP100886,MUS1117,2025-10-06 18:15:00,İzmir,Ege,Spor,Suluk,1,204.54,0.15,39.9,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.297,213.76
+SIP100503,MUS1090,2025-10-10 21:17:00,Ankara,İç Anadolu,Kitap,Girişimcilik,2,186.43,0.05,29.9,Kapıda Ödeme,Yeni,6.0,5.0,Hayır,0.361,384.12
+SIP101179,MUS1172,2025-02-24 13:22:00,Konya,İç Anadolu,Spor,Direnç Bandı,1,267.18,0.0,29.9,Kapıda Ödeme,Mevcut,3.0,3.0,Hayır,0.298,297.08
+SIP101334,MUS1433,2024-05-09 21:29:00,İzmir,Ege,Spor,Spor Çantası,2,859.57,0.0,29.9,Kredi Kartı,Yeni,2.0,4.0,Hayır,0.355,1749.04
+SIP100725,MUS1146,2025-05-24 10:10:00,Kocaeli,Marmara,Kitap,Zaman Yönetimi,2,154.18,0.05,49.9,Banka Kartı,Yeni,3.0,5.0,Hayır,0.385,342.84
+SIP100533,MUS1128,2024-11-19 14:22:00,Trabzon,Karadeniz,Kitap,Python Notları,2,225.82,0.0,39.9,Kredi Kartı,Yeni,4.0,5.0,Hayır,0.234,491.54
+SIP100479,MUS1099,2025-06-10 20:32:00,İstanbul,Marmara,Kozmetik,Güneş Kremi,3,455.19,0.0,49.9,Kredi Kartı,Yeni,1.0,5.0,Hayır,0.2,1415.47
+SIP100513,MUS1450,2024-06-02 17:06:00,Kayseri,İç Anadolu,Kozmetik,Şampuan,2,198.17,0.0,49.9,Kredi Kartı,VIP,4.0,5.0,Hayır,0.216,446.24
+SIP101300,MUS1030,2025-09-28 14:55:00,Antalya,Akdeniz,Elektronik,Webcam,3,892.29,0.05,49.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.388,2592.93
+SIP100387,MUS1221,2024-04-05 13:38:00,İstanbul,Marmara,Elektronik,Powerbank,2,780.72,0.0,39.9,Dijital Cüzdan,VIP,2.0,5.0,Hayır,0.328,1601.34
+SIP100283,MUS1339,2024-08-21 13:35:00,Konya,İç Anadolu,Spor,Direnç Bandı,1,259.29,0.0,29.9,Dijital Cüzdan,Mevcut,1.0,5.0,Hayır,0.337,289.19
+SIP100234,MUS1204,2025-03-03 22:53:00,Gaziantep,Güneydoğu Anadolu,Elektronik,Bluetooth Hoparlör,1,1220.47,0.05,49.9,Kredi Kartı,VIP,2.0,3.0,Hayır,0.267,1209.35
+SIP101294,MUS1144,2024-04-16 08:22:00,Ankara,İç Anadolu,Kozmetik,Serum,1,577.75,0.2,39.9,Dijital Cüzdan,Mevcut,2.0,5.0,Hayır,0.269,502.1
+SIP100147,MUS1190,2024-04-03 19:33:00,İstanbul,Marmara,Kitap,Veri Bilimi 101,1,248.03,0.0,59.9,Kredi Kartı,Mevcut,4.0,3.0,Hayır,0.388,307.93
+SIP100258,MUS1403,2025-07-23 15:03:00,Eskişehir,İç Anadolu,Kitap,Zaman Yönetimi,3,169.39,0.0,59.9,Dijital Cüzdan,VIP,3.0,4.0,Hayır,0.415,568.07
+SIP101040,MUS1386,2025-04-01 09:30:00,Trabzon,Karadeniz,Spor,Dambıl Seti,1,1554.15,0.0,49.9,Banka Kartı,,4.0,5.0,Hayır,0.217,1604.05
+SIP100669,MUS1294,2025-12-11 11:11:00,Antalya,Akdeniz,Ofis,Kalem Seti,1,107.66,0.05,59.9,Banka Kartı,Yeni,2.0,5.0,Hayır,0.246,162.18
+SIP100390,MUS1246,2025-01-04 08:27:00,Mersin,Akdeniz,Ev ve Yaşam,Termos,1,487.61,0.0,59.9,Kredi Kartı,Mevcut,2.0,3.0,Hayır,0.302,547.51
+SIP101357,MUS1360,2025-03-15 09:14:00,Antalya,Akdeniz,Spor,Suluk,2,204.16,0.0,39.9,Dijital Cüzdan,Mevcut,2.0,4.0,Hayır,0.196,448.22
+SIP100330,MUS1356,2024-01-10 08:44:00,Antalya,Akdeniz,Kozmetik,Şampuan,2,182.62,0.15,39.9,Kredi Kartı,Yeni,3.0,4.0,Hayır,0.394,350.35
+SIP100235,MUS1146,2024-02-08 08:19:00,Kocaeli,Marmara,Ev ve Yaşam,Saklama Kutusu,1,205.66,0.15,39.9,Banka Kartı,Yeni,1.0,5.0,Hayır,0.242,214.71
+SIP100663,MUS1159,2024-05-14 09:52:00,Antalya,Akdeniz,Spor,Spor Çantası,1,879.86,0.0,39.9,Kapıda Ödeme,Mevcut,2.0,4.0,Hayır,0.212,919.76
+SIP100787,MUS1043,2024-05-19 15:48:00,İstanbul,Marmara,Elektronik,Powerbank,1,825.48,0.0,29.9,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.313,855.38
+SIP100626,MUS1086,2024-10-25 15:25:00,Konya,İç Anadolu,Elektronik,Bluetooth Hoparlör,1,1284.36,0.05,49.9,Dijital Cüzdan,Mevcut,5.0,5.0,Hayır,0.271,1270.04
+SIP100058,MUS1442,2025-05-31 14:53:00,Samsun,Karadeniz,Spor,Spor Çantası,1,1015.4,0.1,39.9,Dijital Cüzdan,Mevcut,1.0,4.0,Hayır,0.375,953.76
+SIP100890,MUS1271,2024-11-07 19:47:00,İzmir,Ege,Kitap,Girişimcilik,4,216.38,,49.9,Kredi Kartı,Yeni,1.0,3.0,Hayır,0.199,915.42
+SIP101317,MUS1060,2024-09-05 20:49:00,,Akdeniz,Ev ve Yaşam,Saklama Kutusu,1,233.63,0.1,29.9,Dijital Cüzdan,Yeni,5.0,2.0,Hayır,0.385,240.17
+SIP100850,MUS1349,2025-05-25 18:06:00,İstanbul,Marmara,Elektronik,Bluetooth Hoparlör,2,1252.71,0.15,39.9,Dijital Cüzdan,Yeni,2.0,4.0,Hayır,0.209,2169.51
+SIP100792,MUS1393,2024-05-05 11:53:00,Ankara,İç Anadolu,Kozmetik,Şampuan,1,195.73,0.0,39.9,Kredi Kartı,Mevcut,2.0,4.0,Hayır,0.181,235.63
+SIP100288,MUS1253,2025-06-17 10:43:00,Eskişehir,İç Anadolu,Ev ve Yaşam,Organizer,1,275.95,0.0,39.9,Kredi Kartı,Yeni,5.0,5.0,Hayır,0.289,315.85
+SIP100882,MUS1422,2024-04-23 09:50:00,Adana,Akdeniz,Spor,Direnç Bandı,4,249.76,0.1,29.9,Banka Kartı,Mevcut,3.0,5.0,Hayır,0.306,929.04
+SIP100561,MUS1123,2025-10-23 14:53:00,İzmir,Ege,Ev ve Yaşam,Masa Lambası,2,708.02,0.1,29.9,Kredi Kartı,Yeni,4.0,5.0,Hayır,0.267,1304.34
+SIP100127,MUS1080,2025-11-17 19:44:00,İstanbul,Marmara,Spor,Suluk,1,188.3,0.0,39.9,Dijital Cüzdan,Mevcut,1.0,5.0,Hayır,0.232,228.2
+SIP100603,MUS1427,2024-04-25 19:03:00,İzmir,Ege,Kitap,Veri Bilimi 101,2,241.84,0.0,29.9,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.34,513.58
+SIP101003,MUS1196,2025-11-13 15:04:00,İstanbul,Marmara,Kitap,İş Analitiği Rehberi,2,273.31,0.1,49.9,Kredi Kartı,Mevcut,5.0,3.0,Hayır,0.19,541.86
+SIP100715,MUS1033,2024-11-10 21:50:00,İstanbul,Marmara,Ev ve Yaşam,Termos,1,552.05,0.0,39.9,,Mevcut,2.0,3.0,Hayır,0.185,591.95
+SIP100702,MUS1036,2025-02-01 13:03:00,Ankara,İç Anadolu,Elektronik,Akıllı Saat,1,2912.0,0.2,39.9,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.284,2369.5
+SIP101096,MUS1366,2025-11-12 12:07:00,İstanbul,Marmara,Ev ve Yaşam,Kahve Kupası,2,177.9,0.0,29.9,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.36,385.7
+SIP101364,MUS1267,2024-04-17 14:44:00,Bursa,Marmara,Kitap,Veri Bilimi 101,1,228.47,0.05,29.9,Kredi Kartı,Yeni,4.0,3.0,Evet,0.252,246.95
+SIP100936,MUS1100,2024-02-18 12:58:00,İstanbul,Marmara,Kitap,Python Notları,2,221.68,0.0,39.9,Kredi Kartı,Mevcut,4.0,3.0,Evet,0.36,483.26
+SIP100543,MUS1101,2024-04-12 19:17:00,İstanbul,Marmara,Kozmetik,Nemlendirici,2,385.54,0.0,59.9,Kapıda Ödeme,Mevcut,5.0,5.0,Hayır,0.374,830.98
+SIP100145,MUS1137,2025-11-22 18:35:00,Antalya,Akdeniz,Kozmetik,Serum,2,487.5,0.1,49.9,Kredi Kartı,VIP,3.0,5.0,Hayır,0.281,927.4
+SIP100373,MUS1359,2024-11-21 20:47:00,İstanbul,Marmara,Ev ve Yaşam,Organizer,2,265.5,0.0,29.9,Havale/EFT,VIP,4.0,1.0,Evet,0.24,560.9
+SIP100820,MUS1169,2025-05-23 22:05:00,Mersin,Akdeniz,Kozmetik,Güneş Kremi,1,455.99,0.0,39.9,Kredi Kartı,yeni,1.0,2.0,Hayır,0.207,495.89
+SIP100582,MUS1213,2024-03-22 15:51:00,İstanbul,Marmara,Ev ve Yaşam,Kahve Kupası,1,200.91,0.0,29.9,Banka Kartı,Mevcut,2.0,3.0,Hayır,0.274,170.76
+SIP101275,MUS1072,2025-08-19 08:40:00,Bursa,Marmara,Ev ve Yaşam,Termos,1,498.47,0.05,29.9,Dijital Cüzdan,Yeni,5.0,5.0,Evet,0.397,503.45
+SIP100743,MUS1360,2024-04-26 18:30:00,Trabzon,Karadeniz,Ev ve Yaşam,Organizer,1,253.72,0.0,39.9,Havale/EFT,Mevcut,1.0,4.0,Hayır,0.278,293.62
+SIP100807,MUS1431,2025-01-07 14:12:00,Ankara,İç Anadolu,Kozmetik,Güneş Kremi,1,451.28,0.0,49.9,Kredi Kartı,,4.0,5.0,Hayır,0.315,501.18
+SIP100467,MUS1017,2024-05-29 21:03:00,Trabzon,Karadeniz,Kitap,İş Analitiği Rehberi,5,292.58,0.15,59.9,Havale/EFT,Yeni,5.0,4.0,Hayır,0.361,1303.36
+SIP100679,MUS1310,2024-05-20 18:51:00,İzmir,Ege,Ev ve Yaşam,Termos,2,477.62,0.0,49.9,Kredi Kartı,Mevcut,,4.0,Hayır,0.323,1005.14
+SIP100667,MUS1281,2024-11-05 16:29:00,Ankara,İç Anadolu,Kitap,Veri Bilimi 101,1,227.3,0.15,39.9,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.388,233.1
+SIP101071,MUS1131,2024-09-18 12:24:00,,İç Anadolu,Elektronik,Powerbank,1,816.74,0.0,39.9,Banka Kartı,Yeni,3.0,5.0,Hayır,0.301,856.64
+SIP100854,MUS1205,2025-01-25 09:25:00,Gaziantep,Güneydoğu Anadolu,Kozmetik,Serum,3,530.1,0.05,29.9,Kredi Kartı,Yeni,6.0,5.0,Hayır,0.328,1540.69
+SIP100682,MUS1041,2025-08-04 15:45:00,Antalya,Akdeniz,Elektronik,Kablosuz Kulaklık,2,1632.03,0.1,59.9,Kart,Mevcut,4.0,2.0,Hayır,0.359,2997.55
+SIP100063,MUS1249,2025-07-13 20:38:00,Eskişehir,İç Anadolu,Spor,Spor Çantası,3,896.11,0.0,0.0,Dijital Cüzdan,Mevcut,1.0,5.0,Hayır,0.328,2688.33
+SIP100836,MUS1148,2024-08-17 19:13:00,Mersin,Akdeniz,Spor,Yoga Matı,2,737.33,0.05,39.9,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.388,1440.83
+SIP100637,MUS1313,2024-03-30 08:06:00,Mersin,Akdeniz,Ofis,Mouse Pad,1,167.61,0.0,29.9,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.283,197.51
+SIP101366,MUS1347,2025-03-04 14:00:00,Bursa,Marmara,Ev ve Yaşam,Organizer,1,272.4,0.0,29.9,Kredi Kartı,Mevcut,1.0,,Hayır,0.212,302.3
+SIP100971,MUS1117,2025-04-28 18:32:00,Samsun,Karadeniz,Kozmetik,Yüz Temizleme Jeli,1,337.35,0.0,29.9,Dijital Cüzdan,VIP,3.0,3.0,Hayır,0.35,367.25
+SIP100261,MUS1371,2024-12-04 18:05:00,İzmir,Ege,Ofis,Mekanik Klavye,2,2584.72,0.1,49.9,Dijital Cüzdan,Mevcut,1.0,5.0,Hayır,0.341,4702.4
+SIP101276,MUS1373,2025-08-04 16:55:00,Eskişehir,İç Anadolu,Ofis,Not Tutucu,1,146.83,0.0,29.9,Kredi Kartı,Yeni,4.0,4.0,Hayır,0.276,176.73
+SIP101067,MUS1337,2025-06-02 12:23:00,Gaziantep,Güneydoğu Anadolu,Elektronik,Kablosuz Kulaklık,2,1541.34,0.0,29.9,Dijital Cüzdan,,5.0,4.0,Hayır,0.274,3112.58
+SIP101368,MUS1383,2025-06-15 17:16:00,Konya,İç Anadolu,Kitap,İş Analitiği Rehberi,2,307.08,0.15,49.9,Kredi Kartı,Yeni,2.0,5.0,Hayır,0.289,571.94
+SIP101138,MUS1045,2025-03-07 16:36:00,Ankara,İç Anadolu,Elektronik,Powerbank,1,749.66,0.05,39.9,Havale/EFT,Mevcut,3.0,4.0,Hayır,0.304,752.08
+SIP100770,MUS1133,2025-12-11 21:07:00,Kayseri,İç Anadolu,Kitap,Zaman Yönetimi,1,166.83,0.05,49.9,Kredi Kartı,Mevcut,5.0,4.0,Evet,0.316,208.39
+SIP100029,MUS1030,2024-10-30 11:03:00,Gaziantep,Güneydoğu Anadolu,Ev ve Yaşam,Masa Lambası,2,683.74,0.2,59.9,Banka Kartı,Mevcut,3.0,5.0,Hayır,0.411,1153.88
+SIP100364,MUS1102,2025-08-19 17:16:00,İzmir,Ege,Kitap,Veri Bilimi 101,1,241.96,0.0,0.0,Dijital Cüzdan,Yeni,4.0,2.0,Hayır,0.304,241.96
+SIP101079,MUS1065,2025-08-29 10:16:00,Antalya,Akdeniz,Spor,Direnç Bandı,2,250.14,0.05,49.9,Kredi Kartı,Mevcut,3.0,3.0,Hayır,0.221,525.17
+SIP100052,MUS1346,2025-03-16 20:37:00,İstanbul,Marmara,Ofis,Mekanik Klavye,3,2052.67,0.1,49.9,Banka Kartı,Yeni,3.0,4.0,Hayır,0.398,5592.11
+SIP100671,MUS1072,2025-01-23 13:31:00,İstanbul,Marmara,Elektronik ,Powerbank,2,865.6,,0.0,Banka Kartı,Yeni,5.0,3.0,Hayır,0.336,1731.2
+SIP100788,MUS1116,2024-10-17 15:38:00,Ankara,İç Anadolu,Elektronik,Akıllı Saat,4,2789.09,0.0,39.9,Havale/EFT,Mevcut,5.0,5.0,Hayır,0.393,11196.26
+SIP100402,MUS1203,2024-10-09 14:09:00,Konya,İç Anadolu,Elektronik,Bluetooth Hoparlör,2,1251.52,0.0,29.9,Banka Kartı,Mevcut,2.0,5.0,Hayır,0.272,2532.94
+SIP100301,MUS1073,2024-10-29 14:58:00,Trabzon,Karadeniz,Spor,Yoga Matı,1,721.42,0.05,49.9,Dijital Cüzdan,Yeni,6.0,5.0,Hayır,0.346,735.25
+SIP101239,MUS1016,2024-05-31 14:54:00,Bursa,Marmara,Kitap,Veri Bilimi 101,2,244.83,,39.9,Kredi Kartı,Vip,4.0,1.0,Hayır,0.321,529.56
+SIP100799,MUS1338,2024-11-15 19:24:00,İstanbul,Marmara,Spor,Dambıl Seti,1,1523.96,0.05,49.9,Kredi Kartı,Yeni,4.0,5.0,Hayır,0.313,1497.66
+SIP100872,MUS1348,2024-10-24 08:31:00,Antalya,Akdeniz,Kitap,Girişimcilik,5,193.81,0.15,39.9,Kredi Kartı,Mevcut,3.0,1.0,Hayır,0.286,863.59
+SIP101326,MUS1420,2025-05-03 19:08:00,Gaziantep,Güneydoğu Anadolu,Spor,Suluk,3,198.8,0.05,39.9,Havale/EFT,Mevcut,5.0,5.0,Hayır,0.22,606.48
+SIP100731,MUS1390,2024-03-02 12:08:00,İstanbul,Marmara,Kitap,Girişimcilik,2,193.69,0.1,39.9,Kredi Kartı,Mevcut,2.0,3.0,Hayır,0.408,388.54
+SIP100607,MUS1340,2024-02-24 15:41:00,Kocaeli,Marmara,Kozmetik,Güneş Kremi,2,456.42,0.05,39.9,Dijital Cüzdan,Yeni,1.0,5.0,Hayır,0.225,907.1
+SIP100108,MUS1241,2024-01-16 19:09:00,İzmir,Ege,Kozmetik,Şampuan,1,189.97,0.05,39.9,Kredi Kartı,Mevcut,2.0,4.0,Hayır,0.408,220.37
+SIP101313,MUS1402,2025-09-15 11:51:00,Eskişehir,İç Anadolu,Elektronik,Kablosuz Kulaklık,2,1529.18,0.1,39.9,Kredi Kartı,Mevcut,6.0,3.0,Hayır,0.375,2792.42
+SIP100510,MUS1113,2024-03-28 11:28:00,Konya,İç Anadolu,Kitap,İş Analitiği Rehberi,1,285.4,0.0,0.0,Banka Kartı,Mevcut,5.0,4.0,Hayır,0.209,285.4
+SIP101238,MUS1352,2025-11-10 21:55:00,Ankara,İç Anadolu,Ofis,Kalem Seti,2,108.89,0.1,39.9,Dijital Cüzdan,Mevcut,1.0,5.0,Hayır,0.246,235.9
+SIP101380,MUS1344,2025-10-29 13:11:00,Adana,Akdeniz,Kozmetik,Şampuan,1,182.67,0.0,29.9,Kredi Kartı,Mevcut,4.0,4.0,Hayır,0.253,212.57
+SIP100777,MUS1186,2024-04-29 21:08:00,İstanbul,Marmara,Spor,Yoga Matı,1,681.47,0.0,49.9,Dijital Cüzdan,Mevcut,3.0,4.0,Hayır,0.413,731.37
+SIP100681,MUS1280,2025-05-25 21:46:00,İzmir,Ege,Elektronik,Powerbank,1,749.85,0.0,49.9,Kredi Kartı,Mevcut,2.0,3.0,Hayır,0.375,799.75
+SIP100548,MUS1378,2024-06-27 20:18:00,Antalya,Akdeniz,Kitap,Girişimcilik,2,230.54,0.1,39.9,Kredi Kartı,Mevcut,5.0,5.0,Hayır,0.192,454.87
+SIP100540,MUS1186,2025-12-06 08:00:00,Adana,Akdeniz,Spor,Suluk,3,217.68,0.05,29.9,,mevcut,4.0,4.0,Hayır,0.281,650.29
+SIP100087,MUS1391,2024-11-08 17:39:00,Ankara,İç Anadolu,Kozmetik,Şampuan,1,204.16,0.1,39.9,Kredi Kartı,VIP,2.0,4.0,Hayır,0.359,223.64
+SIP101365,MUS1412,2025-03-24 21:07:00,Gaziantep,Güneydoğu Anadolu,Ev ve Yaşam,Masa Lambası,1,694.4,0.1,39.9,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.321,664.86
+SIP100888,MUS1032,2024-03-12 09:21:00,İzmir,Ege,Elektronik,Powerbank,2,818.54,0.2,0.0,Kredi Kartı,VIP,4.0,3.0,Hayır,0.39,1309.66
+SIP100991,MUS1125,2025-11-17 19:29:00,İstanbul,Marmara,Ev ve Yaşam,Saklama Kutusu,2,209.24,0.0,0.0,Kredi Kartı,Yeni,6.0,4.0,Hayır,0.21,418.48
+SIP100223,MUS1212,2025-08-09 19:07:00,Mersin,Akdeniz,Ev ve Yaşam,Termos,1,467.94,0.1,49.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.356,471.05
+SIP100940,MUS1032,2025-03-25 20:06:00,Samsun,Karadeniz,Kozmetik,Serum,1,507.46,0.15,39.9,Banka Kartı,Mevcut,3.0,4.0,Evet,0.402,471.24
+SIP100130,MUS1403,2024-04-03 18:13:00,Ankara,İç Anadolu,Elektronik,Akıllı Saat,1,2719.52,0.1,39.9,Banka Kartı,Mevcut,6.0,2.0,Evet,0.413,2487.47
+SIP100848,MUS1384,2024-05-06 13:05:00,İstanbul,Marmara,Kitap,Python Notları,2,232.08,0.0,39.9,Kredi Kartı,Yeni,2.0,4.0,Hayır,0.339,504.06
+SIP101255,MUS1305,2024-02-25 09:03:00,Kocaeli,Marmara,Kozmetik,Şampuan,1,200.69,0.1,49.9,kredi kartı,VIP,2.0,5.0,Hayır,0.394,230.52
+SIP100931,MUS1253,2024-07-19 21:40:00,Adana,Akdeniz,Ev ve Yaşam,Termos,2,491.34,0.0,39.9,Kredi Kartı,mevcut,2.0,5.0,Hayır,0.234,1022.58
+SIP101328,MUS1266,2024-10-13 20:06:00,İstanbul,Marmara,Kitap,Girişimcilik,3,202.54,0.1,49.9,Kredi Kartı,Mevcut,5.0,5.0,Evet,0.266,596.76
+SIP100064,MUS1202,2024-06-18 21:29:00,İstanbul,Marmara,Ofis,Not Tutucu,1,131.4,0.05,49.9,Dijital Cüzdan,VIP,4.0,4.0,Hayır,0.385,174.73
+SIP100397,MUS1322,2024-02-13 14:05:00,Trabzon,Karadeniz,Ev ve Yaşam,Masa Lambası,3,685.79,0.0,39.9,Dijital Cüzdan,Mevcut,3.0,1.0,Hayır,0.373,2097.27
+SIP101308,MUS1022,2025-11-01 08:11:00,Konya,İç Anadolu,Ev ve Yaşam,Termos,2,550.5,0.0,59.9,Havale/EFT,Mevcut,3.0,5.0,Hayır,0.319,1160.9
+SIP100918,MUS1285,2024-01-20 12:35:00,Bursa,Marmara,Spor,Dambıl Seti,4,1533.08,0.0,49.9,dijital cüzdan,Mevcut,1.0,4.0,Hayır,0.231,6182.22
+SIP100727,MUS1167,2025-06-11 09:04:00,İstanbul,Marmara,Elektronik,Akıllı Saat,2,3080.35,0.0,49.9,Dijital Cüzdan,Mevcut,4.0,5.0,Hayır,0.21,6210.6
+SIP101304,MUS1165,2025-10-30 20:49:00,Ankara,İç Anadolu,Ofis,Mouse Pad,1,153.63,0.0,49.9,Banka Kartı,Yeni,7.0,5.0,Hayır,0.229,203.53
+SIP100157,MUS1309,2025-10-22 21:09:00,İstanbul,Marmara,Ofis,Mouse Pad,2,173.36,0.1,29.9,Kredi Kartı,Yeni,2.0,,Hayır,0.338,341.95
+SIP101015,MUS1247,2024-09-20 14:29:00,İstanbul,Marmara,Kitap,Python Notları,5,235.34,0.1,49.9,Kredi Kartı,Yeni,5.0,5.0,Hayır,0.3,1108.93
+SIP100867,MUS1097,2024-05-08 10:00:00,Adana,Akdeniz,Ofis,Defter Seti,1,157.83,0.0,39.9,Kredi Kartı,Mevcut,5.0,4.0,Hayır,0.301,197.73
+SIP100077,MUS1389,2024-01-11 16:12:00,Adana,Akdeniz,Ofis,Kalem Seti,2,100.82,0.0,39.9,Kredi Kartı,Mevcut,5.0,4.0,Hayır,0.265,241.54
+SIP100486,MUS1408,2025-11-07 08:30:00,Samsun,Karadeniz,Spor,Direnç Bandı,1,261.24,0.0,39.9,Kredi Kartı,Yeni,5.0,,Hayır,0.315,301.14
+SIP100448,MUS1286,2025-05-08 13:42:00,İstanbul,Marmara,Kitap,Python Notları,1,218.56,0.0,0.0,Banka Kartı,,2.0,4.0,Hayır,0.3,218.56
+SIP101065,MUS1003,2024-07-31 18:57:00,Mersin,Akdeniz,Kozmetik,Yüz Temizleme Jeli,1,320.23,0.0,39.9,Kredi Kartı,,3.0,5.0,Hayır,0.19,360.13
+SIP100708,MUS1188,2025-11-29 12:25:00,Antalya,Akdeniz,Ofis,Mouse Pad,1,190.48,0.0,39.9,Kredi Kartı,VIP,1.0,3.0,Hayır,0.33,230.38
+SIP100454,MUS1367,2024-12-05 16:49:00,İstanbul,Marmara,Ev ve Yaşam,Kahve Kupası,4,197.11,0.1,59.9,Banka Kartı,Mevcut,4.0,4.0,Hayır,0.258,769.5
+SIP100173,MUS1083,2025-03-27 15:49:00,İstanbul,Marmara,Kitap,Girişimcilik,4,203.82,0.05,59.9,Kredi Kartı,mevcut,3.0,5.0,Hayır,0.345,834.42
+SIP100215,MUS1038,2024-02-16 14:03:00,İzmir,Ege,Spor,Suluk,1,193.0,0.1,49.9,Banka Kartı,Yeni,3.0,2.0,Hayır,0.338,223.6
+SIP100209,MUS1177,2025-09-13 10:20:00,Bursa,Marmara,Ev ve Yaşam,Saklama Kutusu,1,236.34,0.0,39.9,Kapıda Ödeme,Yeni,2.0,4.0,Hayır,0.289,276.24
+SIP101234,MUS1181,2024-09-27 22:04:00,İzmir,Ege,Elektronik,Bluetooth Hoparlör,1,1158.27,,39.9,Kredi Kartı,Mevcut,4.0,5.0,Evet,0.22,1198.17
+SIP100520,MUS1285,2024-07-27 14:35:00,Konya,İç Anadolu,Kitap,Zaman Yönetimi,2,180.85,0.0,0.0,,Mevcut,4.0,2.0,Hayır,0.375,361.7
+SIP100560,MUS1288,2024-10-26 17:14:00,Bursa,Marmara,Elektronik,Akıllı Saat,1,3029.54,0.0,49.9,Havale/EFT,Mevcut,6.0,4.0,Hayır,0.325,3079.44
+SIP101150,MUS1388,2024-09-02 12:10:00,İzmir,Ege,Ofis,Defter Seti,2,144.4,0.05,49.9,Banka Kartı,Yeni,1.0,4.0,Hayır,0.275,324.26
+SIP100828,MUS1260,2025-03-08 22:58:00,Bursa,Marmara,Spor,Suluk,1,217.05,0.05,29.9,Kapıda Ödeme,Mevcut,2.0,5.0,Hayır,0.262,236.1
+SIP100003,MUS1358,2025-04-04 17:17:00,Adana,Akdeniz,spor,Dambıl Seti,2,1515.6,0.0,39.9,Kapıda Ödeme,Yeni,2.0,5.0,Hayır,0.228,3071.1
+SIP101229,MUS1137,2025-10-23 11:07:00,Bursa,Marmara,Elektronik,Kablosuz Kulaklık,2,1521.64,0.0,59.9,Kredi Kartı,Yeni,3.0,,Evet,0.3,3103.18
+SIP100443,MUS1031,2025-03-07 18:56:00,Mersin,Akdeniz,Kitap,Zaman Yönetimi,4,148.11,0.0,59.9,Havale/EFT,Yeni,6.0,3.0,Hayır,0.263,652.34
+SIP100526,MUS1315,2024-10-19 11:02:00,İstanbul,Marmara,Kitap,Girişimcilik,1,190.67,0.05,39.9,Havale/EFT,Mevcut,3.0,4.0,Hayır,0.381,221.04
+SIP100117,MUS1311,2024-10-08 08:36:00,İstanbul,Marmara,Kitap,Zaman Yönetimi,1,160.85,0.05,49.9,Kapıda Ödeme,Mevcut,1.0,5.0,Hayır,0.372,202.71
+SIP100654,MUS1398,2024-06-06 11:21:00,İstanbul,Marmara,Spor,Spor Çantası,3,874.03,0.1,29.9,Dijital Cüzdan,Mevcut,3.0,5.0,Hayır,0.357,2389.78
+SIP101301,MUS1369,2025-11-25 12:54:00,Mersin,Akdeniz,kozmetık,Şampuan,2,177.92,0.05,49.9,Dijital Cüzdan,Mevcut,2.0,5.0,Hayır,0.224,387.95
+SIP100481,MUS1223,2024-04-16 11:34:00,Kocaeli,Marmara,Kitap,Zaman Yönetimi,2,158.08,0.1,49.9,Kapıda Ödeme,Mevcut,3.0,4.0,Hayır,0.267,334.44
+SIP100212,MUS1158,2024-07-13 20:10:00,Ankara,İç Anadolu,Kozmetik,Güneş Kremi,3,470.14,0.05,49.9,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.395,1389.8
+SIP100378,MUS1328,2024-11-05 13:08:00,İzmir,Ege,Elektronik,Webcam,2,943.7,,29.9,Dijital Cüzdan,Mevcut,2.0,5.0,Hayır,0.25,1917.3
+SIP101256,MUS1262,2025-05-08 19:21:00,İstanbul,Marmara,Ofis,Kalem Seti,1,104.45,0.15,59.9,Kapıda Ödeme,Yeni,5.0,5.0,Hayır,0.31,148.68
+SIP100704,MUS1229,2024-09-22 09:02:00,Konya,İç Anadolu,Elektronik,Akıllı Saat,1,2887.51,0.0,49.9,Kredi Kartı,Mevcut,6.0,4.0,Hayır,0.301,2937.41
+SIP100483,MUS1162,2024-08-21 22:16:00,Ankara,İç Anadolu,Elektronik,Powerbank,2,853.43,0.15,39.9,Kredi Kartı,Mevcut,3.0,3.0,Hayır,0.341,1490.73
+SIP100992,MUS1052,2025-04-27 21:17:00,Gaziantep,Güneydoğu Anadolu,Spor,Dambıl Seti,1,1409.01,0.0,49.9,Kapıda Ödeme,Yeni,2.0,1.0,Evet,0.314,1458.91
+SIP100154,MUS1236,2024-04-27 14:01:00,Adana,Akdeniz,Spor,Suluk,1,187.63,0.05,49.9,Dijital Cüzdan,Yeni,3.0,5.0,Hayır,0.228,228.15
+SIP100420,MUS1287,2024-07-04 12:06:00,İstanbul,Marmara,Kitap,Girişimcilik,4,206.49,0.0,49.9,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.187,875.86
+SIP100311,MUS1318,2025-07-22 10:31:00,Konya,İç Anadolu,Kitap,Python Notları,1,223.13,0.05,39.9,Kredi Kartı,Yeni,4.0,2.0,Hayır,0.36,251.87
+SIP100479,MUS1099,2025-06-10 20:32:00,İstanbul,Marmara,Kozmetik,Güneş Kremi,3,455.19,0.0,49.9,Kredi Kartı,Yeni,1.0,5.0,Hayır,0.2,1415.47
+SIP101173,MUS1371,2025-02-02 21:00:00,İzmir,Ege,Kitap,Girişimcilik,1,205.92,0.1,49.9,Banka Kartı,VIP,,5.0,Hayır,0.263,235.23
+SIP100129,MUS1204,2024-04-11 18:23:00,İzmir,Ege,Ev ve Yaşam,Saklama Kutusu,2,242.89,0.0,0.0,Banka Kartı,VIP,5.0,4.0,Hayır,0.235,485.78
+SIP100262,MUS1390,2025-01-21 18:38:00,Mersin,Akdeniz,Elektronik,Webcam,2,872.56,0.05,59.9,Banka Kartı,Mevcut,5.0,4.0,Hayır,0.271,1717.76
+SIP101137,MUS1421,2025-01-27 14:35:00,Konya,İç Anadolu,Ev ve Yaşam,Masa Lambası,1,622.8,0.05,29.9,Kredi Kartı,Mevcut,1.0,5.0,Hayır,0.361,621.56
+SIP101127,MUS1228,2024-12-12 21:45:00,Trabzon,Karadeniz,Elektronik,Powerbank,3,828.53,0.1,39.9,Kredi Kartı,Yeni,4.0,4.0,Hayır,0.224,1700.45
+SIP100041,MUS1448,2024-08-03 18:15:00,Trabzon,Karadeniz,Elektronik,Webcam,1,937.76,0.15,49.9,Banka Kartı,Yeni,3.0,4.0,Hayır,0.406,847.0
+SIP100496,MUS1435,2024-09-26 19:56:00,İstanbul,Marmara,Kozmetik,Nemlendirici,4,413.33,0.1,0.0,Banka Kartı,Mevcut,5.0,4.0,Hayır,0.18,1487.99
+SIP100153,MUS1208,2024-01-20 15:58:00,Kayseri,İç Anadolu,Elektronik,Akıllı Saat,2,3003.34,0.0,39.9,Kredi Kartı,Yeni,2.0,4.0,Hayır,0.188,6046.58
+SIP101258,MUS1353,2025-10-05 12:46:00,Konya,İç Anadolu,Ev ve Yaşam,Saklama Kutusu,1,214.08,0.2,29.9,Dijital Cüzdan,Yeni,7.0,4.0,Hayır,0.322,201.16
+SIP100192,MUS1016,2025-11-18 18:25:00,Konya,İç Anadolu,Elektronik,Kablosuz Kulaklık,2,1510.54,0.0,49.9,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.336,3070.98
+SIP100295,MUS1079,2025-02-22 18:31:00,İzmir,Ege,Ofis,Defter Seti,2,154.24,0.0,39.9,Kredi Kartı,Yeni,3.0,4.0,Hayır,0.235,348.38
+SIP101281,MUS1299,2025-05-27 12:25:00,Antalya,Akdeniz,Kozmetik,Serum,2,490.93,0.15,49.9,Banka Kartı,,4.0,,Hayır,0.278,884.48
+SIP100178,MUS1041,2025-12-13 21:08:00,İstanbul,Marmara,Ofis,Not Tutucu,2,125.17,0.0,29.9,Havale/EFT,Mevcut,1.0,5.0,Hayır,0.34,280.24
+SIP100124,MUS1242,2025-08-21 14:52:00,Adana,Akdeniz,Kitap,İş Analitiği Rehberi,3,288.0,0.15,49.9,Banka Kartı,Mevcut,4.0,3.0,Hayır,0.186,784.3
+SIP100627,MUS1370,2025-12-07 16:57:00,İzmir,Ege,Kozmetik,Yüz Temizleme Jeli,3,324.24,0.0,0.0,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.275,972.72
+SIP101098,MUS1223,2024-02-23 18:53:00,,Marmara,Kitap,Python Notları,2,227.13,0.0,29.9,Kredi Kartı,VIP,5.0,4.0,Hayır,0.415,484.16
+SIP100587,MUS1372,2025-07-17 13:54:00,İzmir,Ege,Ofis,Mouse Pad,1,171.04,0.05,49.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.186,212.39
+SIP101202,MUS1370,2024-04-15 17:50:00,Eskişehir,İç Anadolu,Ofis,Not Tutucu,3,125.19,0.0,49.9,Havale/EFT,Yeni,2.0,4.0,Hayır,0.241,425.47
+SIP100559,MUS1387,2024-05-19 13:18:00,Ankara,İç Anadolu,Elektronik,Powerbank,2,838.38,0.0,29.9,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.272,1706.66
+SIP100296,MUS1446,2025-04-04 17:30:00,Gaziantep,Güneydoğu Anadolu,Spor,Yoga Matı,5,754.79,0.05,59.9,Banka Kartı,Mevcut,2.0,3.0,Hayır,0.37,3645.15
+SIP100437,MUS1353,2025-12-21 14:18:00,Bursa,Marmara,Ev ve Yaşam,Saklama Kutusu,1,216.18,0.15,39.9,Kredi Kartı,Mevcut,6.0,3.0,Hayır,0.297,223.65
+SIP100581,MUS1368,2025-06-22 17:44:00,Konya,İç Anadolu,Spor,Direnç Bandı,3,268.54,0.0,49.9,Banka Kartı,Yeni,3.0,4.0,Hayır,0.19,855.52
+SIP100668,MUS1223,2024-03-08 13:13:00,İstanbul,Marmara,Spor,Direnç Bandı,3,236.74,0.0,29.9,Kapıda Ödeme,Mevcut,3.0,4.0,Hayır,0.213,740.12
+SIP100949,MUS1403,2024-02-25 14:22:00,İstanbul,Marmara,Kozmetik,Serum,1,484.35,0.0,29.9,Kredi Kartı,Yeni,1.0,5.0,Hayır,0.226,514.25
+SIP100531,MUS1125,2025-08-11 12:44:00,Mersin,Akdeniz,Ofis,Kalem Seti,2,101.9,0.05,39.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.256,233.51
+SIP101010,MUS1408,2025-10-11 10:13:00,İstanbul,Marmara,Ev ve Yaşam,Termos,2,477.52,,39.9,Kredi Kartı,Yeni,4.0,2.0,Hayır,0.218,994.94
+SIP101159,MUS1161,2025-07-14 21:51:00,Mersin,Akdeniz,Ev ve Yaşam,Saklama Kutusu,4,230.43,0.0,39.9,eft,Yeni,3.0,3.0,Hayır,0.357,961.62
+SIP100361,MUS1026,2024-12-01 10:05:00,Adana,Akdeniz,Elektronik,Bluetooth Hoparlör,2,1158.6,0.0,39.9,Havale/EFT,VIP,5.0,4.0,Hayır,0.356,2357.1
+SIP101090,MUS1435,2025-10-20 16:52:00,Antalya,Akdeniz,Ev ve Yaşam,Saklama Kutusu,1,211.33,0.0,49.9,Dijital Cüzdan,VIP,4.0,2.0,Hayır,0.338,261.23
+SIP100825,MUS1202,2025-07-01 21:15:00,Samsun,Karadeniz,Ofis,Defter Seti,1,146.78,0.2,59.9,Kapıda Ödeme,Mevcut,3.0,4.0,Hayır,0.324,177.32
+SIP100916,MUS1306,2024-09-21 14:52:00,Ankara,İç Anadolu,Spor,Suluk,1,207.19,0.0,49.9,Dijital Cüzdan,Yeni,5.0,4.0,Hayır,0.198,257.09
+SIP101191,MUS1381,2025-09-24 19:34:00,Kocaeli,Marmara,Ev ve Yaşam,Termos,2,515.91,0.2,29.9,dijital cüzdan,Yeni,5.0,4.0,Hayır,0.199,855.36
+SIP101346,MUS1134,2024-09-24 18:20:00,İzmir,Ege,Kozmetik,Güneş Kremi,2,451.71,0.15,39.9,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.384,807.81
+SIP100595,MUS1028,2025-10-30 21:38:00,İzmir,Ege,Elektronik,Bluetooth Hoparlör,3,1278.0,0.1,49.9,Dijital Cüzdan,Mevcut,3.0,2.0,Hayır,0.276,3500.5
+SIP100516,MUS1218,2025-08-26 20:47:00,Bursa,Marmara,Spor,Suluk,3,191.92,0.05,59.9,Dijital Cüzdan,Mevcut,4.0,,Hayır,0.251,606.87
+SIP100125,MUS1155,2025-09-16 11:41:00,istanbul,Marmara,Kozmetik,Güneş Kremi,4,462.45,0.05,0.0,Kredi Kartı,Mevcut,5.0,4.0,Hayır,0.295,1757.31
+SIP100672,MUS1229,2024-05-30 18:09:00,Eskişehir,İç Anadolu,Kitap,Veri Bilimi 101,5,257.16,0.0,39.9,Kredi Kartı,Yeni,5.0,5.0,Hayır,0.348,1325.7
+SIP100899,MUS1040,2024-03-24 09:03:00,İstanbul,Marmara,Spor,Direnç Bandı,2,252.58,0.0,39.9,Kredi Kartı,Yeni,1.0,5.0,Hayır,0.389,545.06
+SIP100351,MUS1289,2024-11-14 13:05:00,İstanbul,Marmara,Spor,Suluk,3,231.41,0.0,49.9,Banka Kartı,Yeni,2.0,4.0,Hayır,0.35,744.13
+SIP101033,MUS1002,2025-01-22 17:03:00,Mersin,Akdeniz,Ofis,Not Tutucu,2,138.52,0.1,39.9,Dijital Cüzdan,Mevcut,5.0,4.0,Hayır,0.273,289.24
+SIP100368,MUS1323,2025-01-27 10:26:00,Bursa,Marmara,Elektronik,Webcam,1,938.08,0.0,49.9,Kredi Kartı,VIP,2.0,5.0,Hayır,0.326,987.98
+SIP100334,MUS1128,2024-12-25 14:20:00,Gaziantep,Güneydoğu Anadolu,Kozmetik,Şampuan,1,226.75,0.1,0.0,Havale/EFT,Yeni,4.0,4.0,Hayır,0.242,204.08
+SIP101181,MUS1045,2025-10-11 12:44:00,Kayseri,İç Anadolu,Kitap,Zaman Yönetimi,4,167.86,0.15,59.9,Banka Kartı,VIP,4.0,5.0,Hayır,0.417,630.62
+SIP100951,MUS1002,2024-06-15 09:29:00,Konya,İç Anadolu,Spor,Suluk,2,210.9,0.0,49.9,Dijital Cüzdan,VIP,7.0,5.0,Hayır,0.205,471.7
+SIP100505,MUS1226,2025-05-13 20:30:00,Bursa,Marmara,Ofis,Mouse Pad,2,181.92,0.0,29.9,Dijital Cüzdan,Yeni,7.0,4.0,Hayır,0.201,393.74
+SIP100919,MUS1073,2025-08-04 14:28:00,Konya,İç Anadolu,Ev ve Yaşam,Saklama Kutusu,1,243.21,0.0,39.9,Kredi Kartı,Mevcut,1.0,5.0,Hayır,0.413,283.11
+SIP100293,MUS1289,2024-11-29 14:17:00,Konya,İç Anadolu,Kozmetik,Nemlendirici,1,355.35,0.0,39.9,Kapıda Ödeme,Mevcut,3.0,4.0,Hayır,0.319,395.25
+SIP100696,MUS1093,2025-11-19 17:49:00,Antalya,Akdeniz,Spor,Dambıl Seti,1,1566.15,0.05,29.9,Kredi Kartı,Yeni,1.0,1.0,Hayır,0.398,1517.74
+SIP100455,MUS1268,2024-01-03 13:22:00,İzmir,Ege,Elektronik,Bluetooth Hoparlör,1,1302.14,0.0,49.9,Kapıda Ödeme,VIP,2.0,5.0,Hayır,0.232,1352.04
+SIP101349,MUS1026,2025-12-22 13:58:00,İstanbul,Marmara,Spor,Yoga Matı,2,746.15,0.15,29.9,Kredi Kartı,,1.0,4.0,Evet,0.38,1298.36
+SIP100793,MUS1143,2024-12-30 15:42:00,Antalya,Akdeniz,ofis,Not Tutucu,1,132.29,0.1,0.0,Banka Kartı,Mevcut,2.0,4.0,Hayır,0.392,119.06
+SIP100225,MUS1273,2025-11-09 15:33:00,Bursa,Marmara,Kozmetik,Güneş Kremi,2,458.29,0.05,29.9,Kredi Kartı,VIP,5.0,5.0,Hayır,0.204,900.65
+SIP100959,MUS1438,2025-03-15 18:15:00,Adana,Akdeniz,Ofis,Kalem Seti,4,95.48,0.0,49.9,Dijital Cüzdan,Mevcut,4.0,4.0,Hayır,0.408,431.82
+SIP100267,MUS1169,2025-07-20 22:37:00,Gaziantep,Güneydoğu Anadolu,Elektronik,Webcam,4,983.35,0.05,59.9,Banka Kartı,Mevcut,4.0,2.0,Hayır,0.32,3796.63
+SIP101208,MUS1441,2024-08-10 09:35:00,Ankara,İç Anadolu,Ev ve Yaşam,Organizer,3,258.06,0.05,49.9,Kredi Kartı,Mevcut,4.0,3.0,Hayır,0.386,785.37
+SIP101271,MUS1090,2024-08-25 20:51:00,Samsun,Karadeniz,Spor,Suluk,3,202.08,0.05,49.9,Dijital Cüzdan,Mevcut,2.0,4.0,Hayır,0.258,625.83
+SIP100968,MUS1103,2024-10-10 22:14:00,Bursa,Marmara,Kitap,Veri Bilimi 101,3,255.68,0.05,59.9,Kredi Kartı,Yeni,2.0,,Evet,0.382,788.59
+SIP100357,MUS1411,2025-03-21 18:08:00,İstanbul,Marmara,Kozmetik,Yüz Temizleme Jeli,3,299.76,0.2,39.9,Kredi Kartı,Yeni,,5.0,Hayır,0.311,759.32
+SIP100075,MUS1343,2024-03-29 12:56:00,Antalya,Akdeniz,Ofis,Mekanik Klavye,2,2095.36,0.0,29.9,Kredi Kartı,Mevcut,2.0,4.0,Hayır,0.209,4220.62
+SIP100954,MUS1016,2025-03-26 11:40:00,Antalya,Akdeniz,Ev ve Yaşam,Saklama Kutusu,1,238.07,0.0,0.0,Banka Kartı,Mevcut,3.0,3.0,Evet,0.371,238.07
+SIP100563,MUS1165,2025-10-14 15:39:00,İstanbul,Marmara,Ofis,Defter Seti,2,146.47,0.0,0.0,Kredi Kartı,Mevcut,5.0,4.0,Hayır,0.213,292.94
+SIP100204,MUS1156,2024-03-21 12:12:00,Samsun,Karadeniz,Kozmetik,Güneş Kremi,1,468.79,0.0,29.9,Banka Kartı,Mevcut,4.0,5.0,Hayır,0.29,498.69
+SIP100343,MUS1062,2025-09-18 17:03:00,Samsun,Karadeniz,Elektronik,Akıllı Saat,1,3020.07,0.0,0.0,,Mevcut,1.0,4.0,Hayır,0.304,3020.07
+SIP100826,MUS1083,2024-04-02 22:52:00,Samsun,Karadeniz,Ofis,Mouse Pad,1,178.52,0.15,49.9,Havale/EFT,Yeni,1.0,1.0,Hayır,0.258,201.64
+SIP100680,MUS1096,2025-04-10 16:27:00,Samsun,Karadeniz,Kozmetik,Nemlendirici,1,392.39,0.05,49.9,Banka Kartı,Mevcut,5.0,5.0,Hayır,0.342,422.67
+SIP100468,MUS1288,2025-09-22 21:43:00,Ankara,İç Anadolu,Spor,Yoga Matı,2,707.72,0.1,59.9,Havale/EFT,Mevcut,5.0,3.0,Hayır,0.38,1333.8
+SIP100781,MUS1387,2025-04-25 09:58:00,Konya,İç Anadolu,Kozmetik,Yüz Temizleme Jeli,2,317.05,0.2,49.9,Kredi Kartı,Yeni,3.0,,Hayır,0.307,557.18
+SIP100007,MUS1344,2024-10-11 15:40:00,Kayseri,İç Anadolu,Elektronik,Akıllı Saat,5,3202.18,0.15,49.9,Kapıda Ödeme,Yeni,2.0,4.0,Hayır,0.379,13659.16
+SIP100386,MUS1193,2024-01-21 13:16:00,İstanbul,Marmara,Elektronik ,Webcam,1,939.23,0.0,39.9,Dijital Cüzdan,,6.0,3.0,Hayır,0.233,979.13
+SIP101182,MUS1320,2025-10-27 08:39:00,Mersin,Akdeniz,Elektronik ,Kablosuz Kulaklık,1,1506.02,0.0,39.9,Dijital Cüzdan,Yeni,1.0,5.0,Hayır,0.292,1545.92
+SIP100379,MUS1115,2024-06-27 19:35:00,Trabzon,Karadeniz,Kitap,İş Analitiği Rehberi,2,265.31,0.05,29.9,Havale/EFT,VIP,4.0,3.0,Hayır,0.363,533.99
+SIP100015,MUS1153,2024-09-26 16:48:00,İzmir,Ege,Spor,Yoga Matı,4,743.03,0.15,39.9,Kredi Kartı,VIP,,4.0,Hayır,0.376,2566.2
+SIP100401,MUS1293,2025-07-02 22:22:00,Antalya,Akdeniz,Elektronik,Webcam,2,891.35,0.1,39.9,Dijital Cüzdan,Yeni,2.0,3.0,Hayır,0.232,1644.33
+SIP100952,MUS1170,2025-04-22 17:13:00,Konya,İç Anadolu,Kitap,Python Notları,3,212.45,0.0,39.9,Kredi Kartı,,1.0,,Hayır,0.301,677.25
+SIP100081,MUS1052,2025-05-10 12:46:00,Adana,Akdeniz,ev ve yaşam,Masa Lambası,4,665.98,0.0,49.9,Banka Kartı,Mevcut,2.0,4.0,Hayır,0.302,2713.82
+SIP100983,MUS1310,2024-10-09 11:00:00,Antalya,Akdeniz,Kozmetik,Şampuan,2,181.23,0.2,39.9,Dijital Cüzdan,Mevcut,2.0,5.0,Hayır,0.335,329.87
+SIP101142,MUS1076,2025-11-09 17:04:00,İzmir,Ege,Kitap,Veri Bilimi 101,1,287.23,0.0,39.9,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.33,327.13
+SIP100366,MUS1096,2025-02-08 15:01:00,İstanbul,Marmara,Kozmetik,Şampuan,1,185.93,0.0,39.9,Kredi Kartı,mevcut,6.0,5.0,Hayır,0.412,225.83
+SIP100652,MUS1155,2025-02-27 09:31:00,Ankara,İç Anadolu,Elektronik,Webcam,23,859.65,0.0,39.9,Dijital Cüzdan,Mevcut,4.0,4.0,Hayır,0.257,19811.85
+SIP101201,MUS1434,2025-03-22 16:25:00,Ankara,İç Anadolu,Kitap,Zaman Yönetimi,38,148.76,0.0,39.9,Dijital Cüzdan,yeni,3.0,5.0,Hayır,0.39,5692.78
+SIP100521,MUS1061,2024-12-18 20:45:00,Bursa,Marmara,Ofis,Kalem Seti,1,95.35,0.05,39.9,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.272,130.48
+SIP101285,MUS1245,2024-02-12 09:02:00,Bursa,Marmara,Ev ve Yaşam,Saklama Kutusu,4,224.22,0.0,39.9,Kredi Kartı,Yeni,5.0,5.0,Hayır,0.411,936.78
+SIP100948,MUS1075,2024-12-17 12:23:00,İstanbul,Marmara,Ofis,Kalem Seti,2,103.84,0.05,39.9,Dijital Cüzdan,Mevcut,3.0,4.0,Hayır,0.236,237.2
+SIP100822,MUS1217,2024-02-27 15:34:00,İzmir,Ege,Ofis,Kalem Seti,1,100.68,0.05,29.9,Kredi Kartı,VIP,2.0,3.0,Hayır,0.404,125.55
+SIP100066,MUS1130,2024-12-11 20:56:00,Ankara,İç Anadolu,Spor,Suluk,1,203.8,0.0,39.9,Kredi Kartı,Mevcut,5.0,5.0,Hayır,0.264,243.7
+SIP100981,MUS1106,2025-07-03 14:30:00,İzmir,Ege,Elektronik,Bluetooth Hoparlör,1,1196.93,0.05,29.9,Havale/EFT,Mevcut,1.0,1.0,Hayır,0.21,1166.98
+SIP100309,MUS1060,2025-09-21 17:05:00,İstanbul,Marmara,Kitap,İş Analitiği Rehberi,1,267.89,0.15,39.9,Banka Kartı,Yeni,7.0,5.0,Hayır,0.197,267.61
+SIP101286,MUS1195,2024-02-26 08:49:00,Ankara,İç Anadolu,Ev ve Yaşam,Termos,2,519.58,0.0,39.9,Havale/EFT,Yeni,1.0,4.0,Hayır,0.358,1079.06
+SIP101192,MUS1126,2024-07-10 11:41:00,Gaziantep,Güneydoğu Anadolu,Spor,Suluk,2,190.5,0.15,39.9,Dijital Cüzdan,Yeni,4.0,5.0,Hayır,0.373,363.75
+SIP100059,MUS1226,2025-10-14 12:49:00,Bursa,Marmara,Ofis,Mekanik Klavye,2,2303.76,0.1,0.0,Havale/EFT,Mevcut,4.0,4.0,Hayır,0.404,4146.77
+SIP100922,MUS1036,2025-08-22 21:32:00,İzmir,Ege,Ofis,Mekanik Klavye,1,2270.78,0.0,29.9,Kredi Kartı,Yeni,5.0,4.0,Hayır,0.26,2300.68
+SIP100089,MUS1037,2024-10-25 08:14:00,,Ege,Kozmetik,Şampuan,1,201.58,0.0,29.9,Kredi Kartı,Yeni,4.0,4.0,Hayır,0.395,231.48
+SIP100054,MUS1313,2024-08-18 20:12:00,Samsun,Karadeniz,Ev ve Yaşam,Saklama Kutusu,1,244.58,0.0,0.0,Kredi Kartı,Yeni,4.0,1.0,Hayır,0.413,244.58
+SIP100026,MUS1048,2025-07-17 09:03:00,Bursa,Marmara,Elektronik,Akıllı Saat,1,2919.36,0.0,49.9,Banka Kartı,Mevcut,1.0,5.0,Evet,0.384,2969.26
+SIP100255,MUS1072,2025-02-15 15:14:00,İstanbul,Marmara,kitap,Veri Bilimi 101,1,244.09,0.05,49.9,Banka Kartı,Mevcut,2.0,5.0,Hayır,0.377,281.79
+SIP101019,MUS1198,2025-06-05 19:31:00,Eskişehir,İç Anadolu,Kitap,İş Analitiği Rehberi,1,264.76,0.2,39.9,Banka Kartı,Mevcut,3.0,4.0,Evet,0.195,251.71
+SIP100575,MUS1179,2025-07-26 12:34:00,Eskişehir,İç Anadolu,Spor,Direnç Bandı,1,232.57,0.0,49.9,Havale/EFT,Yeni,2.0,4.0,Hayır,0.39,282.47
+SIP101086,MUS1271,2024-09-07 19:42:00,Adana,Akdeniz,Kitap,İş Analitiği Rehberi,2,287.29,0.0,49.9,Dijital Cüzdan,Mevcut,5.0,4.0,Hayır,0.406,624.48
+SIP100018,MUS1393,2024-03-21 09:46:00,Ankara,İç Anadolu,Ev ve Yaşam,Organizer,1,263.97,0.0,39.9,Kredi Kartı,Yeni,1.0,5.0,Hayır,0.237,303.87
+SIP101296,MUS1139,2025-10-27 20:29:00,İstanbul,Marmara,Ev ve Yaşam,Kahve Kupası,1,175.4,0.15,49.9,Dijital Cüzdan,Yeni,5.0,5.0,Hayır,0.189,198.99
+SIP100813,MUS1383,2025-10-03 08:33:00,Konya,İç Anadolu,Spor,Spor Çantası,1,977.33,0.0,39.9,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.295,1017.23
+SIP100834,MUS1077,2025-12-19 21:10:00,Trabzon,Karadeniz,Ev ve Yaşam,Saklama Kutusu,1,235.58,0.0,49.9,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.189,285.48
+SIP101068,MUS1252,2025-06-15 22:50:00,İstanbul,Marmara,Ofis,Defter Seti,1,148.97,0.1,39.9,Kredi Kartı,Mevcut,1.0,5.0,Hayır,0.19,173.97
+SIP100594,MUS1223,2024-03-21 20:03:00,Gaziantep,Güneydoğu Anadolu,Kozmetik,Şampuan,2,204.58,0.0,39.9,Dijital Cüzdan,Yeni,1.0,5.0,Hayır,0.267,449.06
+SIP100339,MUS1147,2024-09-25 11:02:00,İstanbul,Marmara,Elektronik,Kablosuz Kulaklık,3,1448.75,0.0,39.9,Dijital Cüzdan,VIP,2.0,4.0,Hayır,0.275,4386.15
+SIP100866,MUS1354,2025-05-13 12:39:00,Bursa,Marmara,Spor,Spor Çantası,3,887.38,0.0,39.9,Kapıda Ödeme,Mevcut,4.0,5.0,Hayır,0.365,2702.04
+SIP100097,MUS1001,2024-09-15 13:07:00,İstanbul,Marmara,Elektronik,Webcam,1,939.56,0.0,39.9,Dijital Cüzdan,Mevcut,5.0,5.0,Hayır,0.263,979.46
+SIP100986,MUS1292,2025-09-24 19:27:00,İstanbul,Marmara,Ev ve Yaşam,Masa Lambası,3,638.93,0.0,39.9,Kredi Kartı,VIP,2.0,4.0,Hayır,0.267,1956.69
+SIP100760,MUS1045,2024-10-11 11:01:00,İstanbul,Marmara,Kozmetik,Nemlendirici,1,387.82,0.1,39.9,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.367,388.94
+SIP100286,MUS1182,2025-03-17 15:35:00,İstanbul,Marmara,Elektronik,Bluetooth Hoparlör,2,1267.81,0.0,29.9,Banka Kartı,Mevcut,2.0,4.0,Evet,0.214,2565.52
+SIP100832,MUS1449,2024-12-01 20:18:00,İstanbul,Marmara,Ev ve Yaşam,Organizer,2,239.16,0.0,49.9,Kredi Kartı,mevcut,3.0,5.0,Hayır,0.296,528.22
+SIP101104,MUS1127,2024-11-07 09:17:00,Bursa,Marmara,Kitap,Veri Bilimi 101,5,256.63,0.05,39.9,Kredi Kartı,VIP,4.0,5.0,Hayır,0.313,1258.89
+SIP101379,MUS1129,2025-12-29 10:53:00,,Karadeniz,Kitap,İş Analitiği Rehberi,1,303.99,0.0,59.9,Kredi Kartı,Mevcut,1.0,4.0,Hayır,0.301,363.89
+SIP100927,MUS1181,2025-07-05 08:57:00,Kocaeli,Marmara,Kitap,Veri Bilimi 101,2,268.72,0.2,29.9,Kapıda Ödeme,Mevcut,7.0,4.0,Hayır,0.202,459.85
+SIP100250,MUS1339,2025-04-04 21:58:00,Trabzon,Karadeniz,Ofis,Not Tutucu,5,127.71,0.0,49.9,Dijital Cüzdan,Mevcut,,4.0,Hayır,0.332,688.45
+SIP100811,MUS1442,2025-11-18 20:35:00,Ankara,İç Anadolu,Kozmetik,Şampuan,1,197.14,0.0,59.9,Kredi Kartı,Yeni,6.0,2.0,Hayır,0.261,257.04
+SIP100997,MUS1086,2024-08-13 22:06:00,İstanbul,Marmara,Kitap,Veri Bilimi 101,1,275.84,0.1,0.0,Havale/EFT,Mevcut,1.0,,Hayır,0.24,248.26
+SIP100406,MUS1260,2025-01-17 21:03:00,İzmir,Ege,Spor,Spor Çantası,1,927.5,0.0,49.9,Kredi Kartı,Yeni,5.0,2.0,Hayır,0.34,977.4
+SIP100224,MUS1071,2025-09-18 22:30:00,Adana,Akdeniz,Spor,Spor Çantası,2,915.71,0.0,49.9,Dijital Cüzdan,Mevcut,1.0,5.0,Evet,0.39,1881.32
+SIP100155,MUS1203,2025-03-23 21:06:00,Mersin,Akdeniz,Ofis,Defter Seti,1,148.96,0.1,29.9,Kredi Kartı,Mevcut,6.0,5.0,Hayır,0.351,163.96
+SIP100863,MUS1388,2024-03-26 14:56:00,İstanbul,Marmara,Spor,Yoga Matı,5,701.07,0.1,39.9,Havale/EFT,Yeni,1.0,4.0,Hayır,0.355,3194.72
+SIP100377,MUS1340,2024-04-23 21:33:00,İstanbul,Marmara,Kitap,Python Notları,1,232.73,0.1,49.9,,VIP,7.0,3.0,Hayır,0.349,259.36
+SIP101021,MUS1297,2024-09-24 17:29:00,Adana,Akdeniz,Kitap,Python Notları,1,221.38,0.0,29.9,Dijital Cüzdan,Yeni,4.0,5.0,Hayır,0.208,251.28
+SIP101112,MUS1290,2024-06-19 17:17:00,Bursa,Marmara,Kozmetik,Yüz Temizleme Jeli,5,316.85,0.15,39.9,Havale/EFT,Yeni,4.0,5.0,Evet,0.294,1386.51
+SIP101006,MUS1169,2024-08-31 22:46:00,İzmir,Ege,Kitap,Veri Bilimi 101,2,246.81,0.0,59.9,Banka Kartı,VIP,4.0,3.0,Hayır,0.397,553.52
+SIP100838,MUS1128,2024-05-29 08:18:00,İstanbul,Marmara,Ev ve Yaşam,Kahve Kupası,2,165.83,0.1,39.9,Dijital Cüzdan,Yeni,3.0,4.0,Hayır,0.343,338.39
+SIP101161,MUS1021,2025-03-28 18:59:00,Bursa,Marmara,Spor,Suluk,1,194.52,0.0,49.9,Kredi Kartı,Yeni,4.0,4.0,Hayır,0.229,244.42
+SIP100944,MUS1099,2024-12-13 18:43:00,Kayseri,İç Anadolu,Kozmetik,Yüz Temizleme Jeli,4,333.63,0.0,39.9,Havale/EFT,Mevcut,3.0,4.0,Hayır,0.355,1374.42
+SIP101052,MUS1435,2024-07-02 21:31:00,istanbul,Marmara,Kitap,Veri Bilimi 101,2,271.83,0.05,49.9,Havale/EFT,Yeni,5.0,5.0,Hayır,0.379,566.38
+SIP100168,MUS1093,2024-04-05 18:42:00,İstanbul,Marmara,Kitap,Girişimcilik,4,184.12,0.0,29.9,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.405,766.38
+SIP100599,MUS1316,2025-05-07 16:12:00,Kocaeli,Marmara,Ev ve Yaşam,Masa Lambası,5,658.89,0.15,49.9,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.356,2850.18
+SIP100907,MUS1444,2024-05-21 16:40:00,Gaziantep,Güneydoğu Anadolu,Kozmetik,Nemlendirici,3,377.12,0.0,49.9,Kredi Kartı,Mevcut,2.0,3.0,Hayır,0.369,1181.26
+SIP100404,MUS1154,2025-05-18 21:44:00,Kocaeli,Marmara,Ofis,Mouse Pad,1,171.7,0.0,49.9,Havale/EFT,VIP,3.0,,Hayır,0.339,221.6
+SIP100501,MUS1120,2025-01-02 08:14:00,Trabzon,Karadeniz,kitap,Zaman Yönetimi,2,152.56,0.0,39.9,,Yeni,3.0,4.0,Hayır,0.39,345.02
+SIP100535,MUS1118,2025-05-25 19:12:00,Ankara,İç Anadolu,Kitap,Python Notları,2,234.41,0.1,59.9,Kredi Kartı,Yeni,4.0,3.0,Hayır,0.28,481.84
+SIP100200,MUS1368,2025-07-18 10:39:00,Antalya,Akdeniz,Ofis,Not Tutucu,3,132.34,0.0,39.9,Dijital Cüzdan,Yeni,5.0,3.0,Hayır,0.347,436.92
+SIP101194,MUS1040,2025-09-02 09:06:00,Kayseri,İç Anadolu,Elektronik,Akıllı Saat,1,2756.88,0.0,39.9,Kredi Kartı,Yeni,2.0,5.0,Hayır,0.313,2796.78
+SIP100246,MUS1263,2025-05-15 09:57:00,Adana,Akdeniz,Kitap,Girişimcilik,2,194.41,0.1,39.9,Kredi Kartı,,6.0,2.0,Hayır,0.369,389.84
+SIP101321,MUS1233,2025-08-12 15:40:00,İzmir,Ege,Kozmetik,Nemlendirici,3,360.01,0.05,49.9,Dijital Cüzdan,Yeni,5.0,5.0,Hayır,0.258,1075.93
+SIP101394,MUS1162,2024-11-13 08:24:00,Samsun,Karadeniz,Ev ve Yaşam,Masa Lambası,3,698.44,0.2,29.9,Havale/EFT,Yeni,2.0,5.0,Hayır,0.21,1706.16
+SIP100707,MUS1291,2024-08-19 08:24:00,Gaziantep,Güneydoğu Anadolu,Elektronik,Powerbank,3,841.8,0.05,39.9,Dijital Cüzdan,Mevcut,4.0,5.0,Hayır,0.28,2439.03
+SIP100144,MUS1433,2025-07-23 13:07:00,İstanbul,Marmara,Elektronik,Webcam,2,977.65,0.0,39.9,Havale/EFT,Mevcut,1.0,3.0,Hayır,0.371,1995.2
+SIP100597,MUS1076,2025-09-01 17:32:00,Gaziantep,Güneydoğu Anadolu,Spor,Direnç Bandı,2,237.42,0.1,39.9,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.306,467.26
+SIP101162,MUS1433,2025-02-22 21:39:00,İzmir,Ege,Ofis,Not Tutucu,3,126.98,0.15,29.9,Dijital Cüzdan,Yeni,4.0,,Hayır,0.386,353.7
+SIP100030,MUS1305,2025-06-27 10:03:00,İstanbul,Marmara,Spor,Spor Çantası,3,890.81,0.15,39.9,Dijital Cüzdan,Yeni,4.0,3.0,Hayır,0.314,2311.47
+SIP100226,MUS1153,2025-09-16 15:12:00,Ankara,İç Anadolu,Ofis,Mouse Pad,1,166.47,0.05,49.9,Dijital Cüzdan,Yeni,2.0,5.0,Hayır,0.225,208.05
+SIP100591,MUS1299,2024-06-07 09:02:00,Bursa,Marmara,Kozmetik,Serum,2,500.52,0.15,39.9,Kredi Kartı,Yeni,5.0,4.0,Hayır,0.408,890.78
+SIP101167,MUS1143,2024-11-20 13:38:00,İstanbul,Marmara,Ofis,Defter Seti,2,141.64,0.0,39.9,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.407,323.18
+SIP100272,MUS1272,2025-11-06 15:01:00,Konya,İç Anadolu,Kozmetik,Şampuan,2,203.65,0.05,29.9,Kredi Kartı,Mevcut,1.0,4.0,Evet,0.267,416.84
+SIP100533,MUS1128,2024-11-19 14:22:00,Trabzon,Karadeniz,Kitap,Python Notları,2,225.82,0.0,39.9,Kredi Kartı,Yeni,4.0,5.0,Hayır,0.234,491.54
+SIP101292,MUS1440,2024-03-19 12:34:00,Bursa,Marmara,Elektronik,Kablosuz Kulaklık,3,1587.44,0.0,39.9,Kredi Kartı,mevcut,2.0,4.0,Hayır,0.409,4802.22
+SIP100656,MUS1053,2025-12-04 21:38:00,İstanbul,Marmara,Ofis,Defter Seti,1,153.25,0.05,29.9,Dijital Cüzdan,Yeni,3.0,4.0,Hayır,0.237,175.49
+SIP100655,MUS1268,2025-11-23 10:13:00,Ankara,İç Anadolu,Elektronik,Powerbank,1,807.74,0.15,39.9,Havale/EFT,Mevcut,3.0,5.0,Hayır,0.197,726.48
+SIP101297,MUS1196,2024-03-27 08:17:00,Ankara,İç Anadolu,Spor,Suluk,1,180.8,0.0,49.9,Kapıda Ödeme,Mevcut,3.0,5.0,Evet,0.347,230.7
+SIP100588,MUS1232,2025-07-12 11:24:00,Ankara,İç Anadolu,Ev ve Yaşam,Organizer,2,243.38,0.05,39.9,Havale/EFT,VIP,5.0,4.0,Hayır,0.199,502.32
+SIP101157,MUS1397,2024-10-24 13:39:00,Ankara,İç Anadolu,Ev ve Yaşam,Saklama Kutusu,2,233.52,0.0,29.9,Kapıda Ödeme,Mevcut,3.0,4.0,Hayır,0.352,496.94
+SIP100249,MUS1331,2024-10-20 14:11:00,Trabzon,Karadeniz,Spor,Yoga Matı,2,733.39,0.05,29.9,Havale/EFT,,5.0,4.0,Hayır,0.366,1423.34
+SIP100734,MUS1077,2024-09-10 13:27:00,İstanbul,Marmara,spor,Dambıl Seti,1,1421.17,0.0,49.9,Banka Kartı,VIP,2.0,4.0,Hayır,0.315,1471.07
+SIP100809,MUS1219,2024-04-07 17:21:00,Samsun,Karadeniz,Kitap,Girişimcilik,1,196.56,0.1,0.0,Kredi Kartı,Mevcut,6.0,5.0,Hayır,0.204,176.9
+SIP100306,MUS1033,2024-01-05 19:13:00,,Ege,Spor,Direnç Bandı,5,243.86,0.0,39.9,Kredi Kartı,Mevcut,3.0,,Hayır,0.35,1259.2
+SIP100758,MUS1283,2024-12-12 19:07:00,İstanbul,Marmara,Kozmetik,Şampuan,2,211.01,0.0,49.9,Havale/EFT,VIP,3.0,5.0,Hayır,0.284,471.92
+SIP100302,MUS1232,2024-07-30 16:30:00,Ankara,İç Anadolu,Ofis,Not Tutucu,1,127.34,0.1,39.9,Kredi Kartı,Yeni,3.0,3.0,Hayır,0.41,154.51
+SIP100984,MUS1148,2025-08-05 22:31:00,Mersin,Akdeniz,Kozmetik,Güneş Kremi,1,445.81,0.0,0.0,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.241,445.81
+SIP100214,MUS1373,2024-10-19 16:00:00,Antalya,Akdeniz,Kitap,Zaman Yönetimi,1,152.16,0.0,29.9,Kapıda Ödeme,Mevcut,6.0,5.0,Hayır,0.357,182.06
+SIP101100,MUS1415,2025-12-18 11:42:00,Ankara,İç Anadolu,Elektronik,Webcam,1,977.75,0.05,49.9,Kapıda Ödeme,Yeni,6.0,4.0,Hayır,0.352,978.76
+SIP100800,MUS1254,2025-04-26 15:35:00,Antalya,Akdeniz,Kozmetik,Serum,2,499.87,0.1,39.9,Kapıda Ödeme,Mevcut,3.0,5.0,Hayır,0.261,939.67
+SIP100431,MUS1012,2025-02-17 08:14:00,Ankara,İç Anadolu,Ev ve Yaşam,Masa Lambası,5,645.56,0.05,39.9,Kredi Kartı,VIP,1.0,4.0,Hayır,0.269,3106.31
+SIP101076,MUS1157,2025-01-22 09:50:00,İstanbul,Marmara,Spor,Dambıl Seti,2,1566.82,0.0,59.9,Dijital Cüzdan,Yeni,3.0,5.0,Hayır,0.361,3193.54
+SIP100102,MUS1383,2024-09-06 15:35:00,İzmir,Ege,Spor,Direnç Bandı,2,249.59,0.0,49.9,Kredi Kartı,Yeni,2.0,3.0,Hayır,0.224,549.08
+SIP100577,MUS1010,2025-04-09 08:49:00,Mersin,Akdeniz,Kozmetik,Güneş Kremi,1,423.03,0.1,29.9,Banka Kartı,Mevcut,2.0,2.0,Hayır,0.398,410.63
+SIP100023,MUS1049,2025-08-07 17:30:00,Bursa,Marmara,Kozmetik,Nemlendirici,1,427.55,0.05,39.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.396,446.07
+SIP100896,MUS1322,2025-04-09 13:15:00,İzmir,Ege,Kozmetik,Yüz Temizleme Jeli,1,294.88,0.0,39.9,Kapıda Ödeme,VIP,4.0,5.0,Hayır,0.34,334.78
+SIP100784,MUS1387,2024-01-15 16:13:00,Antalya,Akdeniz,Elektronik ,Powerbank,1,738.2,0.0,49.9,Havale/EFT,VIP,1.0,3.0,Hayır,0.199,788.1
+SIP100237,MUS1152,2025-04-14 18:16:00,,Akdeniz,Ofis,Mekanik Klavye,1,2225.52,0.05,39.9,Havale/EFT,Yeni,5.0,3.0,Hayır,0.326,2154.14
+SIP100739,MUS1171,2025-12-21 18:00:00,Kayseri,İç Anadolu,Kitap,Zaman Yönetimi,2,150.28,0.0,39.9,Kapıda Ödeme,Yeni,4.0,2.0,Hayır,0.184,340.46
+SIP100712,MUS1061,2024-01-17 08:21:00,Ankara,İç Anadolu,Kozmetik,Şampuan,1,202.41,0.1,39.9,Kredi Kartı,Mevcut,6.0,4.0,Evet,0.2,222.07
+SIP100172,MUS1428,2024-08-27 16:15:00,Konya,İç Anadolu,Kitap,Zaman Yönetimi,1,165.02,0.15,29.9,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.381,170.17
+SIP100969,MUS1362,2024-09-13 12:47:00,Ankara,İç Anadolu,Kitap,İş Analitiği Rehberi,3,267.71,0.0,59.9,Kapıda Ödeme,Mevcut,4.0,5.0,Hayır,0.265,863.03
+SIP100444,MUS1313,2025-03-02 22:37:00,Trabzon,Karadeniz,Ev ve Yaşam,Termos,1,536.44,0.15,39.9,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.343,495.87
+SIP101118,MUS1314,2024-03-26 19:56:00,Konya,İç Anadolu,Ofis,Mouse Pad,4,169.19,0.0,39.9,banka karti,Mevcut,5.0,2.0,Hayır,0.332,716.66
+SIP101198,MUS1016,2024-01-06 10:33:00,Trabzon,Karadeniz,Kozmetik,Serum,1,505.0,0.0,29.9,Havale/EFT,VIP,3.0,4.0,Hayır,0.398,534.9
+SIP101235,MUS1349,2025-05-15 21:15:00,Trabzon,Karadeniz,Kozmetik,Yüz Temizleme Jeli,1,328.32,0.0,29.9,,Yeni,5.0,5.0,Evet,0.329,358.22
+SIP101355,MUS1440,2024-06-04 09:47:00,Gaziantep,Güneydoğu Anadolu,Kozmetik,Serum,1,561.01,0.0,39.9,Banka Kartı,Mevcut,6.0,5.0,Hayır,0.396,600.91
+SIP101085,MUS1218,2025-02-19 08:39:00,Eskişehir,İç Anadolu,Kitap,Veri Bilimi 101,1,240.38,0.05,39.9,Kredi Kartı,Mevcut,5.0,4.0,Evet,0.361,268.26
+SIP100858,MUS1352,2024-04-05 08:32:00,İstanbul,Marmara,Kitap,Zaman Yönetimi,1,171.31,0.1,29.9,Kart,Mevcut,2.0,5.0,Hayır,0.317,184.08
+SIP100660,MUS1242,2024-11-14 17:57:00,Antalya,Akdeniz,Ev ve Yaşam,Termos,1,525.0,0.0,49.9,Kredi Kartı,Mevcut,,5.0,Hayır,0.417,574.9
+SIP100764,MUS1269,2025-08-24 17:05:00,Gaziantep,Güneydoğu Anadolu,Spor,Dambıl Seti,3,1551.84,0.0,49.9,Kredi Kartı,,1.0,3.0,Hayır,0.226,4705.42
+SIP101209,MUS1411,2025-11-29 20:27:00,Adana,Akdeniz,Kozmetik,Şampuan,4,206.52,0.0,39.9,Kredi Kartı,Yeni,2.0,5.0,Hayır,0.294,865.98
+SIP100537,MUS1295,2024-02-13 21:30:00,Bursa,Marmara,Elektronik,Powerbank,1,841.62,0.15,59.9,Kredi Kartı,,5.0,4.0,Hayır,0.28,775.28
+SIP100933,MUS1355,2025-06-19 19:50:00,İstanbul,Marmara,Kozmetik,Nemlendirici,4,361.67,,0.0,Kredi Kartı,Mevcut,6.0,3.0,Evet,0.18,1446.68
+SIP100300,MUS1177,2025-01-18 14:29:00,Adana,Akdeniz,Ev ve Yaşam,Kahve Kupası,5,165.47,0.15,39.9,Havale/EFT,Mevcut,3.0,5.0,Hayır,0.394,743.15
+SIP100049,MUS1340,2025-01-07 14:04:00,Samsun,Karadeniz,Kitap,Python Notları,3,211.46,0.05,29.9,Dijital Cüzdan,VIP,1.0,,Hayır,0.264,632.56
+SIP101216,MUS1003,2024-03-31 11:46:00,Gaziantep,Güneydoğu Anadolu,Ev ve Yaşam,Masa Lambası,2,681.51,0.05,39.9,Dijital Cüzdan,Mevcut,3.0,4.0,Hayır,0.189,1334.77
+SIP100260,MUS1069,2025-04-19 22:03:00,İstanbul,Marmara,Kitap,Python Notları,2,225.05,0.0,39.9,Banka Kartı,VIP,,2.0,Hayır,0.253,490.0
+SIP100148,MUS1346,2025-09-02 09:56:00,Ankara,İç Anadolu,Ofis,Kalem Seti,3,107.77,0.1,49.9,Kredi Kartı,Yeni,3.0,3.0,Hayır,0.188,340.88
+SIP100135,MUS1235,2025-09-21 08:46:00,İstanbul,Marmara,kozmetık,Nemlendirici,2,401.04,0.05,39.9,Havale/EFT,Mevcut,5.0,,Hayır,0.343,801.88
+SIP100523,MUS1308,2025-02-02 18:00:00,Adana,Akdeniz,Elektronik,Bluetooth Hoparlör,3,1279.66,0.05,49.9,Kapıda Ödeme,Mevcut,1.0,5.0,Hayır,0.31,3696.93
+SIP101267,MUS1440,2025-11-02 10:22:00,İzmir,Ege,Elektronik,Bluetooth Hoparlör,3,1205.91,0.0,39.9,Banka Kartı,Mevcut,3.0,4.0,Hayır,0.24,3657.63
+SIP100881,MUS1054,2024-09-30 22:09:00,Kocaeli,Marmara,Elektronik,Powerbank,1,788.66,0.05,29.9,Kapıda Ödeme,Mevcut,1.0,5.0,Hayır,0.19,779.13
+SIP100542,MUS1293,2025-12-18 20:23:00,Bursa,Marmara,Ev ve Yaşam,Kahve Kupası,4,174.56,0.0,49.9,Kredi Kartı,mevcut,2.0,4.0,Hayır,0.278,748.14
+SIP100830,MUS1081,2024-01-04 14:12:00,İstanbul,Marmara,Spor,Dambıl Seti,2,1675.39,0.0,39.9,banka karti,Yeni,2.0,,Evet,0.302,3390.68
+SIP100194,MUS1204,2025-01-14 13:28:00,İstanbul,Marmara,Ev ve Yaşam,Kahve Kupası,1,194.98,0.0,49.9,eft,Mevcut,6.0,3.0,Hayır,0.309,244.88
+SIP100639,MUS1034,2025-01-12 22:24:00,İstanbul,Marmara,Ofis,Mouse Pad,2,179.68,0.15,39.9,Kapıda Ödeme,Mevcut,4.0,5.0,Hayır,0.302,345.36
+SIP100031,MUS1215,2024-05-02 22:36:00,İstanbul,Marmara,Ev ve Yaşam,Kahve Kupası,4,185.66,0.0,49.9,Kredi Kartı,Mevcut,5.0,5.0,Hayır,0.347,792.54
+SIP100004,MUS1177,2024-08-08 20:21:00,İzmir,Ege,Ofis,Mekanik Klavye,2,2119.45,0.05,29.9,Kredi Kartı,Mevcut,1.0,2.0,Hayır,0.408,4056.85
+SIP100137,MUS1365,2025-09-14 10:04:00,İstanbul,Marmara,Elektronik,Webcam,3,961.68,0.1,49.9,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.389,2646.44
+SIP101132,MUS1348,2024-02-14 17:09:00,Ankara,İç Anadolu,Ofis,Defter Seti,2,158.69,0.0,29.9,Kredi Kartı,Mevcut,4.0,4.0,Hayır,0.301,347.28
+SIP101397,MUS1107,2024-08-03 19:27:00,İzmir,Ege,Kozmetik,Serum,1,584.54,0.1,49.9,Kredi Kartı,Mevcut,5.0,5.0,Hayır,0.209,575.99
+SIP100116,MUS1152,2024-04-19 11:24:00,Ankara,İç Anadolu,Spor,Direnç Bandı,1,235.2,0.05,49.9,Banka Kartı,Mevcut,4.0,4.0,Hayır,0.365,273.34
+SIP101262,MUS1149,2024-06-23 16:47:00,İstanbul,Marmara,Ev ve Yaşam,Masa Lambası,2,679.73,0.0,39.9,,Yeni,4.0,4.0,Hayır,0.263,1399.36
+SIP100719,MUS1314,2024-09-06 22:37:00,İzmir,Ege,Ev ve Yaşam,Kahve Kupası,4,187.1,0.1,49.9,Kredi Kartı,Yeni,4.0,5.0,Hayır,0.249,723.46
+SIP100078,MUS1157,2025-04-03 20:01:00,Ankara,İç Anadolu,Spor,Direnç Bandı,5,242.93,0.0,29.9,Kredi Kartı,Yeni,1.0,3.0,Hayır,0.219,1244.55
+SIP100279,MUS1386,2024-07-02 22:54:00,Eskişehir,İç Anadolu,Kozmetik,Yüz Temizleme Jeli,1,299.7,0.1,29.9,Kredi Kartı,VIP,2.0,4.0,Hayır,0.209,299.63
+SIP100972,MUS1417,2025-04-30 11:33:00,İstanbul,Marmara,Kitap,Python Notları,1,214.51,0.0,29.9,Banka Kartı,Mevcut,6.0,5.0,Hayır,0.346,244.41
+SIP100694,MUS1273,2025-01-26 18:20:00,İzmir,Ege,Ofis,Not Tutucu,4,127.82,0.15,49.9,Dijital Cüzdan,Mevcut,1.0,4.0,Evet,0.196,484.49
+SIP101359,MUS1160,2025-02-10 20:14:00,,Ege,Kozmetik,Yüz Temizleme Jeli,1,314.79,0.05,29.9,Kredi Kartı,Mevcut,2.0,4.0,Hayır,0.307,328.95
+SIP101199,MUS1071,2024-06-05 11:55:00,Antalya,Akdeniz,Kozmetik ,Serum,1,546.23,0.15,29.9,Kredi Kartı,VIP,1.0,5.0,Evet,0.325,494.2
+SIP100620,MUS1243,2025-09-11 15:45:00,Kocaeli,Marmara,Ev ve Yaşam,Organizer,1,281.31,0.1,39.9,Banka Kartı,Yeni,5.0,3.0,Hayır,0.362,293.08
+SIP101312,MUS1077,2025-04-26 12:39:00,İzmir,Ege,spor,Suluk,1,206.17,0.05,59.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.193,255.76
+SIP101389,MUS1228,2024-07-16 21:48:00,Adana,Akdeniz,Elektronik,Kablosuz Kulaklık,1,1491.08,0.0,49.9,Kredi Kartı,Mevcut,4.0,4.0,Evet,0.28,1540.98
+SIP100724,MUS1058,2024-08-12 15:49:00,Kayseri,İç Anadolu,Kozmetik,Serum,1,529.8,0.1,49.9,Banka Kartı,Yeni,4.0,5.0,Evet,0.3,526.72
+SIP100628,MUS1233,2025-12-13 16:08:00,Bursa,Marmara,Ev ve Yaşam,Organizer,2,275.93,0.0,29.9,Kredi Kartı,Yeni,2.0,4.0,Evet,0.294,581.76
+SIP101374,MUS1378,2024-12-04 17:49:00,Kocaeli,Marmara,Kozmetik,Şampuan,2,199.74,0.0,49.9,Kapida Odeme,Mevcut,4.0,4.0,Hayır,0.416,449.38
+SIP100082,MUS1028,2025-01-04 10:19:00,Mersin,Akdeniz,Ofis,Mekanik Klavye,1,2191.34,0.0,49.9,Kredi Kartı,Mevcut,2.0,3.0,Hayır,0.295,2241.24
+SIP101320,MUS1042,2025-11-12 10:38:00,Eskişehir,İç Anadolu,Kitap,Girişimcilik,1,208.14,0.0,49.9,Kredi Kartı,Yeni,6.0,3.0,Hayır,0.394,258.04
+SIP100017,MUS1158,2025-05-15 08:07:00,Eskişehir,İç Anadolu,Kozmetik,Güneş Kremi,4,448.48,0.1,39.9,Dijital Cüzdan,Mevcut,3.0,4.0,Hayır,0.248,1654.43
+SIP101253,MUS1066,2024-05-23 17:58:00,Samsun,Karadeniz,Spor,Yoga Matı,4,780.96,0.15,29.9,Kredi Kartı,Yeni,5.0,4.0,Hayır,0.324,2685.16
+SIP100857,MUS1315,2024-10-01 17:38:00,Bursa,Marmara,spor,Direnç Bandı,1,224.53,0.0,59.9,Kredi Kartı,,6.0,5.0,Hayır,0.278,284.43
+SIP101027,MUS1231,2024-07-09 19:08:00,İzmir,Ege,Ev ve Yaşam,Saklama Kutusu,1,239.92,0.0,39.9,Kredi Kartı,yeni,1.0,4.0,Hayır,0.282,279.82
+SIP100141,MUS1301,2025-03-18 09:47:00,İstanbul,Marmara,Elektronik,Kablosuz Kulaklık,2,1466.22,0.15,49.9,Havale/EFT,Mevcut,3.0,5.0,Hayır,0.196,2542.47
+SIP101097,MUS1177,2025-02-02 10:07:00,İstanbul,Marmara,Spor,Spor Çantası,2,890.31,0.1,49.9,Dijital Cüzdan,Mevcut,4.0,3.0,Hayır,0.261,1652.46
+SIP100817,MUS1401,2025-11-05 16:11:00,İstanbul,Marmara,Ofis,Mouse Pad,1,189.59,0.0,39.9,Banka Kartı,Yeni,5.0,4.0,Hayır,0.417,229.49
+SIP100767,MUS1135,2025-05-20 16:47:00,Ankara,İç Anadolu,Kozmetik,Güneş Kremi,4,473.37,0.05,0.0,Kredi Kartı,Yeni,3.0,4.0,Evet,0.238,1798.81
+SIP101171,MUS1220,2025-11-16 22:16:00,Kayseri,İç Anadolu,Kozmetik,Nemlendirici,2,360.03,0.1,49.9,Kredi Kartı,Yeni,1.0,4.0,Hayır,0.272,697.95
+SIP101335,MUS1182,2024-09-26 09:55:00,İstanbul,Marmara,Spor,Direnç Bandı,3,264.88,0.0,0.0,Kredi Kartı,Yeni,4.0,5.0,Hayır,0.402,794.64
+SIP100955,MUS1092,2024-08-12 22:16:00,İstanbul,Marmara,Ofis,Mekanik Klavye,1,2401.1,0.0,39.9,Havale/EFT,Yeni,4.0,3.0,Hayır,0.207,2441.0
+SIP101316,MUS1429,2025-09-13 15:42:00,Kayseri,İç Anadolu,Kozmetik,Yüz Temizleme Jeli,1,302.89,0.0,0.0,banka karti,Mevcut,6.0,4.0,Hayır,0.199,302.89
+SIP100208,MUS1213,2025-12-02 14:19:00,,Karadeniz,Spor,Dambıl Seti,1,1696.04,0.1,29.9,,,5.0,4.0,Hayır,0.296,1556.34
+SIP100765,MUS1285,2025-01-19 09:00:00,Trabzon,Karadeniz,Elektronik,Powerbank,2,761.27,0.05,49.9,Kredi Kartı,VIP,3.0,2.0,Hayır,0.246,1496.31
+SIP100665,MUS1237,2024-11-28 15:31:00,İzmir,Ege,Kitap,İş Analitiği Rehberi,1,311.4,0.05,49.9,Kredi Kartı,mevcut,6.0,2.0,Hayır,0.333,345.73
+SIP101190,MUS1322,2025-07-20 10:20:00,Antalya,Akdeniz,Spor,Suluk,5,207.63,0.0,39.9,Kredi Kartı,Yeni,2.0,5.0,Hayır,0.268,1078.05
+SIP101212,MUS1049,2025-06-30 22:33:00,Kayseri,İç Anadolu,Spor,Yoga Matı,1,689.68,0.1,29.9,Kredi Kartı,Mevcut,3.0,5.0,Evet,0.394,650.61
+SIP100044,MUS1447,2024-08-15 11:52:00,,Ege,Elektronik,Akıllı Saat,1,2969.73,0.0,49.9,Dijital Cüzdan,Yeni,4.0,5.0,Hayır,0.391,3019.63
+SIP100019,MUS1277,2025-07-16 10:16:00,İstanbul,Marmara,Kitap,Zaman Yönetimi,1,176.31,0.0,49.9,Banka Kartı,Mevcut,2.0,5.0,Hayır,0.268,226.21
+SIP100905,MUS1035,2024-08-08 10:52:00,Samsun,Karadeniz,Ofis,Mouse Pad,4,155.53,0.15,39.9,Havale/EFT,Yeni,4.0,5.0,Hayır,0.21,568.7
+SIP101225,MUS1236,2024-05-30 15:56:00,Ankara,İç Anadolu,Kozmetik,Yüz Temizleme Jeli,2,330.53,0.0,49.9,Kredi Kartı,Yeni,2.0,1.0,Evet,0.209,710.96
+SIP100457,MUS1388,2025-02-06 11:29:00,Konya,İç Anadolu,Ev ve Yaşam,Termos,1,490.19,0.15,49.9,Kapida Odeme,Yeni,3.0,4.0,Hayır,0.192,466.56
+SIP100318,MUS1072,2025-12-06 13:55:00,Mersin,Akdeniz,Ev ve Yaşam,Organizer,1,276.11,0.1,59.9,Havale/EFT,Mevcut,3.0,3.0,Hayır,0.338,308.4
+SIP100650,MUS1274,2024-03-08 10:17:00,Antalya,Akdeniz,Ofis,Mouse Pad,2,179.2,0.0,0.0,Kapıda Ödeme,Yeni,4.0,5.0,Hayır,0.239,358.4
+SIP100482,MUS1407,2024-01-25 15:45:00,Konya,İç Anadolu,Elektronik,Bluetooth Hoparlör,1,1141.11,0.0,39.9,Kredi Kartı,Yeni,3.0,5.0,Evet,0.226,1181.01
+SIP100114,MUS1347,2025-04-15 12:42:00,Ankara,İç Anadolu,Kitap,İş Analitiği Rehberi,3,276.98,0.0,39.9,Kredi Kartı,Mevcut,1.0,4.0,Hayır,0.265,870.84
+SIP100658,MUS1319,2025-03-27 18:07:00,ankara,İç Anadolu,Kozmetik,Güneş Kremi,1,425.14,0.0,39.9,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.386,465.04
+SIP100616,MUS1430,2024-11-21 09:35:00,İstanbul,Marmara,Kozmetik,Nemlendirici,1,417.12,0.0,39.9,Banka Kartı,Mevcut,7.0,5.0,Hayır,0.326,457.02
+SIP101168,MUS1397,2025-04-26 10:40:00,İzmir,Ege,Kozmetik,Nemlendirici,1,417.47,0.05,39.9,Kredi Kartı,Mevcut,1.0,4.0,Hayır,0.189,436.5
+SIP101305,MUS1327,2025-04-18 08:28:00,Mersin,Akdeniz,Ev ve Yaşam,Kahve Kupası,5,192.89,0.1,49.9,Kredi Kartı,Yeni,5.0,4.0,Hayır,0.377,917.9
+SIP100421,MUS1404,2025-11-01 09:14:00,Kocaeli,Marmara,Ev ve Yaşam,Saklama Kutusu,4,260.1,0.05,59.9,Kredi Kartı,Mevcut,3.0,2.0,Hayır,0.414,1048.28
+SIP100100,MUS1431,2025-12-27 10:19:00,Trabzon,Karadeniz,Kozmetik,Nemlendirici,1,405.02,0.05,49.9,Banka Kartı,Mevcut,4.0,2.0,Hayır,0.36,434.67
+SIP100674,MUS1151,2025-08-19 08:39:00,Gaziantep,Güneydoğu Anadolu,ofis,Defter Seti,5,150.85,0.0,49.9,Dijital Cüzdan,Mevcut,5.0,5.0,Hayır,0.352,804.15
+SIP101369,MUS1241,2025-06-20 19:53:00,Gaziantep,Güneydoğu Anadolu,Ev ve Yaşam,Masa Lambası,1,708.97,0.05,39.9,,Yeni,2.0,3.0,Hayır,0.381,713.42
+SIP100408,MUS1349,2024-10-07 13:52:00,İzmir,Ege,Ofis,Mekanik Klavye,1,2244.72,0.1,49.9,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.419,2070.15
+SIP100370,MUS1144,2024-07-03 08:20:00,Bursa,Marmara,Spor,Suluk,2,187.39,0.05,39.9,Banka Kartı,Yeni,4.0,4.0,Hayır,0.41,395.94
+SIP100879,MUS1017,2024-09-24 13:43:00,Antalya,Akdeniz,Elektronik,Webcam,2,825.5,0.05,39.9,Kredi Kartı,,8.0,4.0,Hayır,0.408,1608.35
+SIP100646,MUS1203,2025-06-02 16:20:00,Kocaeli,Marmara,Ofis,Mouse Pad,5,172.32,0.1,29.9,Havale/EFT,Yeni,1.0,4.0,Hayır,0.263,805.34
+SIP100103,MUS1372,2025-02-28 13:59:00,Kayseri,İç Anadolu,Elektronik,Webcam,4,921.02,0.0,49.9,Havale/EFT,Yeni,3.0,3.0,Evet,0.352,3733.98
+SIP100276,MUS1360,2024-04-05 14:24:00,İstanbul,Marmara,Kitap,Veri Bilimi 101,2,237.76,0.05,59.9,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.349,511.64
+SIP100270,MUS1392,2025-06-20 08:53:00,İstanbul,Marmara,Kozmetik,Yüz Temizleme Jeli,2,321.31,0.15,39.9,Kapıda Ödeme,VIP,7.0,5.0,Hayır,0.332,586.13
+SIP100629,MUS1084,2025-04-10 09:16:00,Antalya,Akdeniz,Kitap,Python Notları,1,215.15,0.0,49.9,Kredi Kartı,Mevcut,6.0,4.0,Hayır,0.348,265.05
+SIP100354,MUS1106,2024-01-02 20:42:00,Adana,Akdeniz,Elektronik,Webcam,2,917.75,0.15,49.9,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.387,1610.08
+SIP100847,MUS1253,2025-05-21 08:28:00,Adana,Akdeniz,Spor,Yoga Matı,2,653.69,0.2,39.9,Kredi Kartı,Mevcut,4.0,4.0,Hayır,0.321,1085.8
+SIP100326,MUS1440,2024-02-17 09:40:00,Kayseri,İç Anadolu,Ofis,Defter Seti,1,162.28,0.1,39.9,Havale/EFT,Mevcut,1.0,4.0,Hayır,0.253,185.95
+SIP101274,MUS1417,2025-05-17 15:43:00,Antalya,Akdeniz,Ev ve Yaşam,Saklama Kutusu,1,245.61,0.2,29.9,Kredi Kartı,Yeni,6.0,5.0,Hayır,0.283,226.39
+SIP101140,MUS1125,2025-04-16 10:53:00,İzmir,Ege,Ev ve Yaşam,Saklama Kutusu,3,225.4,0.1,39.9,Kapıda Ödeme,VIP,5.0,4.0,Hayır,0.251,648.48
+SIP100071,MUS1408,2024-04-14 19:49:00,İstanbul,Marmara,Kozmetik,Nemlendirici,1,373.27,0.0,39.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.331,413.17
+SIP100571,MUS1022,2024-06-20 20:17:00,Konya,İç Anadolu,Ofis,Defter Seti,1,139.54,0.0,39.9,Banka Kartı,Mevcut,2.0,,Hayır,0.342,179.44
+SIP100047,MUS1198,2024-12-19 19:50:00,İstanbul,Marmara,Kozmetik,Şampuan,2,200.17,0.15,39.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.408,380.19
+SIP100819,MUS1341,2024-05-23 11:07:00,Konya,İç Anadolu,Elektronik,Akıllı Saat,4,3166.96,0.05,59.9,Banka Kartı,Mevcut,2.0,4.0,Hayır,0.292,12094.35
+SIP100579,MUS1268,2024-06-06 17:18:00,Bursa,Marmara,Spor,Spor Çantası,1,883.19,0.05,49.9,Kredi Kartı,Mevcut,2.0,4.0,Hayır,0.27,888.93
+SIP100398,MUS1204,2024-11-23 22:46:00,İstanbul,Marmara,Kozmetik,Güneş Kremi,3,435.92,0.1,49.9,Dijital Cüzdan,Yeni,6.0,5.0,Hayır,0.36,1226.88
+SIP100862,MUS1403,2024-03-24 20:32:00,Ankara,İç Anadolu,Ofis,Kalem Seti,3,97.42,0.0,49.9,Kredi Kartı,Mevcut,3.0,,Hayır,0.205,342.16
+SIP100051,MUS1427,2025-11-24 19:57:00,İstanbul,Marmara,Kitap,Zaman Yönetimi,1,178.98,0.0,29.9,Kredi Kartı,Mevcut,5.0,5.0,Hayır,0.417,208.88
+SIP100409,MUS1177,2025-08-31 15:11:00,İstanbul,Marmara,Ofis,Not Tutucu,1,125.14,0.0,29.9,Dijital Cüzdan,Mevcut,,4.0,Hayır,0.255,155.04
+SIP101273,MUS1294,2024-06-27 13:06:00,Kocaeli,Marmara,Kozmetik,Yüz Temizleme Jeli,2,332.05,0.0,39.9,Havale/EFT,Mevcut,4.0,2.0,Hayır,0.394,704.0
+SIP100132,MUS1409,2024-01-03 12:54:00,Ankara,İç Anadolu,Ev ve Yaşam,Organizer,1,257.38,0.05,49.9,Dijital Cüzdan,VIP,5.0,2.0,Hayır,0.391,294.41
+SIP101339,MUS1326,2024-06-04 15:52:00,Adana,Akdeniz,Ofis,Not Tutucu,1,130.93,0.05,39.9,Kredi Kartı,Mevcut,3.0,2.0,Hayır,0.252,164.28
+SIP100273,MUS1092,2024-01-18 16:52:00,Gaziantep,Güneydoğu Anadolu,Kozmetik,Güneş Kremi,2,411.99,0.0,0.0,Havale,Mevcut,3.0,3.0,Hayır,0.327,823.98
+SIP101252,MUS1014,2025-03-13 15:26:00,Gaziantep,Güneydoğu Anadolu,Spor,Suluk,3,186.28,0.1,39.9,Dijital Cüzdan,Mevcut,3.0,3.0,Hayır,0.332,542.86
+SIP100464,MUS1288,2025-05-30 16:44:00,İstanbul,Marmara,Kitap,Python Notları,3,230.76,0.0,39.9,Banka Kartı,Mevcut,2.0,3.0,Hayır,0.265,732.18
+SIP100698,MUS1428,2024-02-04 08:39:00,Gaziantep,Güneydoğu Anadolu,Ofis,Mekanik Klavye,3,2321.68,0.2,29.9,Kredi Kartı,VIP,3.0,4.0,Hayır,0.204,5601.93
+SIP100970,MUS1207,2024-09-24 08:49:00,Konya,İç Anadolu,Ev ve Yaşam,Organizer,2,240.3,0.1,29.9,,mevcut,1.0,4.0,Hayır,0.385,462.44
+SIP100856,MUS1103,2025-12-02 17:08:00,Ankara,İç Anadolu,Spor,Suluk,1,209.34,0.0,39.9,Kredi Kartı,Yeni,2.0,5.0,Hayır,0.327,249.24
+SIP100963,MUS1113,2025-08-18 14:40:00,Samsun,Karadeniz,Spor,Suluk,2,211.45,0.1,49.9,Dijital Cüzdan,Mevcut,2.0,3.0,Evet,0.345,430.51
+SIP100413,MUS1155,2025-03-09 22:24:00,Gaziantep,Güneydoğu Anadolu,Kitap,İş Analitiği Rehberi,1,269.38,0.2,0.0,Kapıda Ödeme,Mevcut,5.0,5.0,Hayır,0.322,215.5
+SIP101260,MUS1420,2025-02-04 08:59:00,İstanbul,Marmara,Kozmetik,Şampuan,1,191.45,0.0,39.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.259,231.35
+SIP100159,MUS1324,2024-11-26 21:40:00,Adana,Akdeniz,Kozmetik,Serum,1,525.14,0.0,39.9,Kredi Kartı,,5.0,5.0,Hayır,0.358,565.04
+SIP100305,MUS1102,2024-07-09 18:42:00,Kocaeli,Marmara,Kitap,Python Notları,1,220.22,0.0,39.9,Kart,Yeni,3.0,5.0,Hayır,0.197,260.12
+SIP100006,MUS1041,2024-07-15 19:04:00,Eskişehir,İç Anadolu,Ofis,Kalem Seti,4,102.17,0.0,39.9,Kredi Kartı,Yeni,3.0,4.0,Hayır,0.224,448.58
+SIP101385,MUS1366,2025-10-25 20:34:00,İzmir,Ege,Ev ve Yaşam,Kahve Kupası,1,168.66,0.0,0.0,Kapıda Ödeme,yeni,3.0,4.0,Evet,0.397,168.66
+SIP100021,MUS1037,2024-03-06 13:01:00,İzmir,Ege,Ev ve Yaşam,Masa Lambası,1,678.97,0.0,39.9,Banka Kartı,Yeni,4.0,3.0,Hayır,0.346,718.87
+SIP101081,MUS1220,2024-07-06 15:22:00,Konya,İç Anadolu,Kitap,Zaman Yönetimi,2,171.45,0.15,39.9,eft,Mevcut,4.0,5.0,Hayır,0.239,331.36
+SIP100549,MUS1414,2025-09-20 12:29:00,İzmir,Ege,Elektronik,Akıllı Saat,1,2902.34,0.0,29.9,Banka Kartı,Yeni,3.0,5.0,Hayır,0.237,2932.24
+SIP100911,MUS1010,2025-05-02 16:57:00,Samsun,Karadeniz,Kozmetik,Nemlendirici,2,386.36,0.0,49.9,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.407,822.62
+SIP100183,MUS1404,2024-02-14 18:24:00,Antalya,Akdeniz,Spor,Direnç Bandı,3,244.65,0.05,49.9,Dijital Cüzdan,Yeni,2.0,3.0,Evet,0.223,747.15
+SIP100814,MUS1212,2025-02-24 13:55:00,Adana,Akdeniz,Ofis,Not Tutucu,5,123.13,0.2,39.9,Kapıda Ödeme,Yeni,2.0,4.0,Hayır,0.314,532.42
+SIP100475,MUS1048,2025-06-17 09:50:00,Ankara,İç Anadolu,Ev ve Yaşam,Masa Lambası,1,601.57,0.15,0.0,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.402,511.33
+SIP100566,MUS1037,2024-03-23 21:48:00,Bursa,Marmara,Elektronik,Webcam,2,883.29,0.1,49.9,Dijital Cüzdan,,2.0,4.0,Hayır,0.29,1639.82
+SIP101051,MUS1415,2024-03-01 20:21:00,Istanbul,Marmara,Ofis,Not Tutucu,1,120.44,0.0,39.9,Kredi Kartı,,1.0,1.0,Hayır,0.305,160.34
+SIP100644,MUS1213,2025-10-02 20:07:00,İstanbul,Marmara,Elektronik,Akıllı Saat,2,3218.45,0.0,39.9,Havale/EFT,Yeni,3.0,4.0,Hayır,0.277,6476.8
+SIP100979,MUS1120,2024-01-28 10:12:00,Mersin,Akdeniz,Kozmetik,Şampuan,1,192.92,0.05,29.9,Kredi Kartı,VIP,6.0,5.0,Hayır,0.3,213.17
+SIP100435,MUS1262,2024-10-03 17:38:00,İzmir,Ege,Elektronik,Powerbank,1,797.62,0.0,29.9,Havale/EFT,Mevcut,4.0,5.0,Hayır,0.36,827.52
+SIP100604,MUS1379,2025-12-11 20:07:00,Mersin,Akdeniz,Elektronik,Webcam,2,1034.78,0.15,39.9,Kredi Kartı,Mevcut,1.0,4.0,Hayır,0.193,1799.03
+SIP100384,MUS1194,2025-01-30 15:46:00,İstanbul,Marmara,Elektronik,Kablosuz Kulaklık,3,1618.21,0.15,49.9,Kredi Kartı,Yeni,1.0,4.0,Hayır,0.327,4176.34
+SIP101058,MUS1207,2025-06-11 18:21:00,İstanbul,Marmara,Elektronik,Kablosuz Kulaklık,1,1547.62,0.0,29.9,Banka Kartı,VIP,6.0,3.0,Hayır,0.204,1577.52
+SIP100802,MUS1177,2025-08-20 08:48:00,İstanbul,Marmara,ofis,Mouse Pad,1,192.27,0.1,59.9,Dijital Cüzdan,Yeni,5.0,2.0,Hayır,0.388,232.94
+SIP100016,MUS1272,2024-07-22 10:23:00,Kayseri,İç Anadolu,Kozmetik,Serum,4,519.68,0.0,39.9,Havale/EFT,,3.0,3.0,Hayır,0.261,2118.62
+SIP101147,MUS1317,2024-04-04 16:24:00,İzmir,Ege,Ev ve Yaşam,Saklama Kutusu,1,228.84,0.0,39.9,Dijital Cüzdan,Yeni,4.0,4.0,Hayır,0.299,268.74
+SIP100477,MUS1319,2024-04-27 18:22:00,Mersin,Akdeniz,Kitap,Veri Bilimi 101,1,249.25,0.0,49.9,Kredi Kartı,vip,4.0,4.0,Hayır,0.246,299.15
+SIP100717,MUS1407,2024-11-28 09:43:00,Mersin,Akdeniz,Kitap,Zaman Yönetimi,1,162.58,0.05,29.9,Banka Kartı,Yeni,1.0,4.0,Hayır,0.365,184.35
+SIP100755,MUS1013,2024-05-31 13:28:00,,Marmara,Ofis,Mouse Pad,2,182.2,0.0,29.9,Banka Kartı,Yeni,3.0,5.0,Hayır,0.382,394.3
+SIP100586,MUS1308,2024-07-03 16:25:00,Adana,Akdeniz,Elektronik,Bluetooth Hoparlör,1,1148.26,0.0,49.9,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.347,1198.16
+SIP100805,MUS1200,2024-01-21 19:30:00,Antalya,Akdeniz,Spor,Suluk,1,190.29,0.1,39.9,Banka Kartı,VIP,4.0,4.0,Hayır,0.313,211.16
+SIP100530,MUS1060,2025-02-20 16:06:00,Antalya,Akdeniz,Ofis,Mekanik Klavye,2,2168.44,0.0,49.9,Banka Kartı,Mevcut,3.0,2.0,Hayır,0.181,4386.78
+SIP101244,MUS1151,2025-09-30 16:42:00,Adana,Akdeniz,Kozmetik,Güneş Kremi,1,418.47,0.0,49.9,Kredi Kartı,Mevcut,2.0,4.0,Evet,0.415,468.37
+SIP100601,MUS1157,2025-01-09 13:12:00,İstanbul,Marmara,Spor,Direnç Bandı,1,260.59,0.05,39.9,Kredi Kartı,Mevcut,5.0,4.0,Evet,0.389,287.46
+SIP101042,MUS1325,2025-11-12 15:57:00,Kocaeli,Marmara,Ev ve Yaşam,Saklama Kutusu,1,242.95,0.2,29.9,Banka Kartı,Mevcut,5.0,1.0,Hayır,0.219,224.26
+SIP100897,MUS1072,2024-12-24 12:18:00,Adana,Akdeniz,Kozmetik,Nemlendirici,1,380.36,0.0,29.9,Banka Kartı,Mevcut,3.0,3.0,Hayır,0.247,410.26
+SIP100024,MUS1331,2025-03-09 14:29:00,İstanbul,Marmara,Spor,Suluk,2,193.64,0.1,59.9,Kapıda Ödeme,Yeni,3.0,5.0,Hayır,0.367,408.45
+SIP100821,MUS1141,2024-08-29 22:27:00,Mersin,Akdeniz,Kitap,Zaman Yönetimi,1,161.46,0.1,49.9,Kredi Kartı,Yeni,1.0,4.0,Hayır,0.366,195.21
+SIP100189,MUS1422,2024-09-30 20:05:00,Adana,Akdeniz,Ofis,Kalem Seti,1,102.85,0.05,39.9,Havale/EFT,Yeni,5.0,4.0,Hayır,0.417,137.61
+SIP101189,MUS1324,2024-06-11 14:14:00,İstanbul,Marmara,Ofis,Kalem Seti,2,106.77,0.1,39.9,Kredi Kartı,Mevcut,5.0,5.0,Hayır,0.386,232.09
+SIP101011,MUS1218,2024-03-21 14:46:00,Samsun,Karadeniz,Ev ve Yaşam,Organizer,3,243.14,0.05,39.9,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.328,732.85
+SIP100995,MUS1194,2025-02-03 19:19:00,Konya,İç Anadolu,Kitap,Veri Bilimi 101,1,262.43,0.05,29.9,Kredi Kartı,Mevcut,6.0,5.0,Evet,0.331,279.21
+SIP101338,MUS1113,2025-10-11 18:00:00,Antalya,Akdeniz,Kitap,Veri Bilimi 101,3,239.7,0.15,49.9,Kredi Kartı,Mevcut,1.0,2.0,Hayır,0.202,661.13
+SIP100473,MUS1166,2024-09-18 08:21:00,Ankara,İç Anadolu,Ev ve Yaşam,Organizer,2,247.95,0.05,39.9,Kredi Kartı,Vip,3.0,4.0,Evet,0.362,511.0
+SIP100344,MUS1086,2024-06-16 15:22:00,İstanbul,Marmara,Ev ve Yaşam,Termos,3,491.29,0.15,0.0,Banka Kartı,Mevcut,6.0,,Hayır,0.281,1252.79
+SIP101224,MUS1352,2025-06-09 11:49:00,İzmir,Ege,Spor,Spor Çantası,1,994.7,0.0,59.9,Kredi Kartı,Yeni,4.0,,Hayır,0.383,1054.6
+SIP100008,MUS1139,2025-09-15 18:10:00,Ankara,İç Anadolu,Kitap,Veri Bilimi 101,1,248.81,0.0,49.9,Banka Kartı,Yeni,1.0,2.0,Hayır,0.417,298.71
+SIP101165,MUS1329,2024-08-16 14:55:00,İstanbul,Marmara,Spor,Yoga Matı,1,706.47,0.0,0.0,Kredi Kartı,Yeni,3.0,1.0,Hayır,0.296,706.47
+SIP101072,MUS1331,2025-07-02 11:04:00,Adana,Akdeniz,Kitap,Python Notları,3,237.8,0.0,49.9,Banka Kartı,yeni,2.0,4.0,Hayır,0.316,763.3
+SIP100908,MUS1024,2025-11-11 17:26:00,Gaziantep,Güneydoğu Anadolu,Elektronik,Powerbank,1,809.98,0.05,49.9,Kredi Kartı,VIP,5.0,4.0,Hayır,0.327,819.38
+SIP100216,MUS1202,2024-10-13 21:39:00,İzmir,Ege,Spor,Spor Çantası,3,822.79,0.0,0.0,Havale/EFT,Yeni,3.0,4.0,Hayır,0.365,2468.37
+SIP100110,MUS1117,2025-07-08 08:39:00,Antalya,Akdeniz,Ofis,Not Tutucu,2,129.38,0.0,59.9,Kredi Kartı,Mevcut,5.0,5.0,Hayır,0.306,318.66
+SIP100220,MUS1372,2024-12-05 18:07:00,Ankara,İç Anadolu,Elektronik,Webcam,2,956.77,0.0,29.9,Dijital Cüzdan,Mevcut,1.0,5.0,Hayır,0.335,1943.44
+SIP101184,MUS1238,2024-04-27 11:54:00,Kocaeli,Marmara,Kozmetik,Şampuan,3,176.14,0.05,29.9,Kredi Kartı,Yeni,2.0,4.0,Hayır,0.304,531.9
+SIP100570,MUS1121,2024-07-22 13:56:00,Ankara,İç Anadolu,Kitap,İş Analitiği Rehberi,1,289.39,0.1,29.9,Kredi Kartı,Mevcut,4.0,2.0,Hayır,0.419,290.35
+SIP101307,MUS1317,2024-09-22 21:31:00,İzmir,Ege,Ofis,Mouse Pad,1,163.1,0.15,0.0,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.366,138.64
+SIP100569,MUS1063,2024-11-26 10:40:00,Bursa,Marmara,Kitap,İş Analitiği Rehberi,3,256.43,0.0,49.9,Havale/EFT,Mevcut,3.0,3.0,Hayır,0.303,819.19
+SIP100028,MUS1339,2025-04-10 12:27:00,İstanbul,Marmara,Spor,Suluk,2,201.97,0.0,49.9,Havale,Mevcut,3.0,4.0,Hayır,0.186,453.84
+SIP100231,MUS1349,2025-10-15 11:03:00,İstanbul,Marmara,Kozmetik,Nemlendirici,2,387.56,0.1,39.9,Kart,,5.0,5.0,Hayır,0.369,737.51
+SIP100507,MUS1083,2024-12-04 19:07:00,İstanbul,Marmara,Ev ve Yaşam,Kahve Kupası,1,190.82,0.0,39.9,Kredi Kartı,Mevcut,5.0,5.0,Hayır,0.32,230.72
+SIP100416,MUS1124,2025-11-02 19:57:00,Ankara,İç Anadolu,Ofis,Mouse Pad,3,178.29,0.15,29.9,Banka Kartı,Yeni,2.0,1.0,Hayır,0.367,484.54
+SIP100053,MUS1420,2025-11-05 09:18:00,İstanbul,Marmara,Spor,Dambıl Seti,1,1428.43,0.05,29.9,Kredi Kartı,Mevcut,5.0,,Hayır,0.411,1386.91
+SIP101200,MUS1334,2024-10-01 12:30:00,İstanbul,Marmara,Kitap,Python Notları,2,207.27,0.0,0.0,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.394,414.54
+SIP100839,MUS1352,2024-03-28 08:30:00,İzmir,Ege,Kitap,Zaman Yönetimi,3,167.22,0.0,0.0,Kredi Kartı,Yeni,1.0,3.0,Hayır,0.382,501.66
+SIP100613,MUS1079,2025-11-25 17:55:00,İstanbul,Marmara,spor,Spor Çantası,1,971.66,0.0,39.9,banka karti,Yeni,3.0,4.0,Hayır,0.317,1011.56
+SIP100197,MUS1342,2025-12-31 15:05:00,Kayseri,İç Anadolu,Spor,Dambıl Seti,1,1708.32,,29.9,Kapıda Ödeme,VIP,2.0,4.0,Hayır,0.201,1738.22
+SIP100690,MUS1075,2025-05-11 10:51:00,İstanbul,Marmara,Kitap,Python Notları,4,221.53,0.1,39.9,Banka Kartı,Yeni,4.0,5.0,Hayır,0.344,837.41
+SIP101156,MUS1394,2024-06-13 16:33:00,Ankara,İç Anadolu,Ev ve Yaşam,Masa Lambası,1,684.55,0.0,39.9,Dijital Cüzdan,Mevcut,3.0,5.0,Hayır,0.394,724.45
+SIP101062,MUS1331,2025-12-11 19:06:00,Trabzon,Karadeniz,Spor,Suluk,1,212.42,0.1,39.9,Havale/EFT,Yeni,1.0,3.0,Hayır,0.386,231.08
+SIP100065,MUS1195,2024-03-26 18:27:00,Antalya,Akdeniz,Kitap,Veri Bilimi 101,2,267.93,0.0,29.9,Kredi Kartı,Mevcut,6.0,,Evet,0.213,565.76
+SIP100580,MUS1293,2024-07-01 21:02:00,Konya,İç Anadolu,Elektronik,Bluetooth Hoparlör,1,1172.82,0.1,29.9,Kredi Kartı,Mevcut,2.0,4.0,Hayır,0.301,1085.44
+SIP100070,MUS1367,2024-01-27 22:19:00,Trabzon,Karadeniz,Elektronik,Powerbank,1,729.48,0.0,39.9,Banka Kartı,VIP,3.0,3.0,Hayır,0.201,769.38
+SIP101129,MUS1115,2025-07-11 12:06:00,İstanbul,Marmara,Elektronik,Kablosuz Kulaklık,2,1547.79,0.0,49.9,Kredi Kartı,Mevcut,6.0,4.0,Hayır,0.382,3145.48
+SIP100939,MUS1122,2025-04-29 11:21:00,Kayseri,İç Anadolu,Ev ve Yaşam,Termos,1,483.8,0.0,39.9,Kapıda Ödeme,Mevcut,3.0,4.0,Hayır,0.289,523.7
+SIP100380,MUS1360,2024-11-10 19:44:00,Adana,Akdeniz,Ev ve Yaşam,Kahve Kupası,1,182.7,0.0,29.9,Kredi Kartı,Yeni,3.0,2.0,Evet,0.225,212.6
+SIP100268,MUS1251,2025-05-26 16:41:00,Ankara,İç Anadolu,kozmetık,Nemlendirici,5,405.35,0.0,59.9,Dijital Cüzdan,Yeni,2.0,5.0,Hayır,0.208,2086.65
+SIP101325,MUS1231,2024-03-16 19:58:00,,İç Anadolu,Elektronik,Kablosuz Kulaklık,1,1478.11,0.0,59.9,Kredi Kartı,,3.0,5.0,Hayır,0.314,1538.01
+SIP100139,MUS1213,2025-03-16 15:56:00,Konya,İç Anadolu,Kozmetik,Nemlendirici,3,362.07,0.0,49.9,Kredi Kartı,Yeni,3.0,4.0,Hayır,0.332,1136.11
+SIP100219,MUS1289,2024-11-02 17:21:00,Ankara,İç Anadolu,Spor,Spor Çantası,3,897.59,0.0,0.0,Kredi Kartı,Mevcut,2.0,4.0,Hayır,0.285,2692.77
+SIP100625,MUS1392,2025-06-15 16:25:00,İzmir,Ege,Elektronik,Bluetooth Hoparlör,1,1312.49,0.15,39.9,Dijital Cüzdan,Yeni,4.0,2.0,Hayır,0.273,1155.52
+SIP100358,MUS1395,2024-11-21 15:17:00,İzmir,Ege,Kitap,İş Analitiği Rehberi,5,267.71,0.1,59.9,Kredi Kartı,VIP,2.0,3.0,Hayır,0.372,1264.6
+SIP100484,MUS1024,2025-07-01 08:41:00,İstanbul,Marmara,Kitap,Veri Bilimi 101,3,274.31,0.0,29.9,Havale/EFT,Yeni,1.0,5.0,Hayır,0.267,852.83
+SIP100943,MUS1220,2025-09-05 20:42:00,Konya,İç Anadolu,Spor,Dambıl Seti,1,1518.37,0.15,39.9,Banka Kartı,Mevcut,1.0,4.0,Hayır,0.241,1330.51
+SIP100236,MUS1099,2025-06-20 15:56:00,İzmir,Ege,Kitap,Girişimcilik,2,224.01,0.0,49.9,Dijital Cüzdan,Mevcut,4.0,4.0,Hayır,0.296,497.92
+SIP100617,MUS1421,2024-11-22 22:26:00,Kayseri,İç Anadolu,Kitap,Veri Bilimi 101,2,240.92,0.15,49.9,Dijital Cüzdan,Yeni,2.0,1.0,Hayır,0.411,459.46
+SIP100987,MUS1342,2024-09-02 22:55:00,İstanbul,Marmara,Kitap,Veri Bilimi 101,1,252.58,0.0,49.9,Kredi Kartı,VIP,3.0,4.0,Hayır,0.333,302.48
+SIP101130,MUS1352,2024-05-30 13:41:00,İstanbul,Marmara,Spor,Direnç Bandı,3,262.05,0.1,59.9,Kredi Kartı,VIP,3.0,5.0,Hayır,0.386,767.44
+SIP100917,MUS1034,2025-05-31 14:07:00,Antalya,Akdeniz,Spor,Spor Çantası,1,966.0,0.15,29.9,Kredi Kartı,Yeni,5.0,3.0,Hayır,0.319,851.0
+SIP100962,MUS1367,2025-06-15 15:11:00,Gaziantep,Güneydoğu Anadolu,Ofis,Not Tutucu,1,140.18,0.2,49.9,Kredi Kartı,Mevcut,2.0,3.0,Hayır,0.397,162.04
+SIP100789,MUS1189,2024-07-12 21:04:00,Antalya,Akdeniz,Ofis,Not Tutucu,2,127.56,,0.0,dijital cüzdan,Mevcut,3.0,2.0,Hayır,0.314,255.12
+SIP100101,MUS1140,2025-10-25 21:09:00,,İç Anadolu,Spor,Yoga Matı,1,693.89,0.0,29.9,,Mevcut,7.0,2.0,Hayır,0.366,723.79
+SIP100333,MUS1072,2025-02-25 17:43:00,İstanbul,Marmara,Kitap,Python Notları,2,203.96,0.0,39.9,Kredi Kartı,Yeni,4.0,3.0,Hayır,0.411,447.82
+SIP100884,MUS1104,2024-04-11 10:41:00,Adana,Akdeniz,Kozmetik,Şampuan,2,196.81,0.0,29.9,Kredi Kartı,Mevcut,6.0,3.0,Hayır,0.357,423.52
+SIP100860,MUS1025,2025-12-01 22:19:00,Bursa,Marmara,Ev ve Yaşam,Masa Lambası,4,643.68,0.1,29.9,Kapıda Ödeme,,,4.0,Hayır,0.357,2347.15
+SIP100649,MUS1107,2025-06-17 12:36:00,Kocaeli,Marmara,Spor,Yoga Matı,2,702.37,0.05,59.9,Havale/EFT,Yeni,6.0,4.0,Hayır,0.202,1394.4
+SIP101017,MUS1037,2025-02-08 19:23:00,İzmir,Ege,Spor,Direnç Bandı,2,247.05,0.2,39.9,Kredi Kartı,Yeni,2.0,0.0,Hayır,0.366,435.18
+SIP100259,MUS1435,2025-02-22 10:19:00,Bursa,Marmara,Kitap,Zaman Yönetimi,2,160.23,0.0,49.9,Kart,Mevcut,3.0,5.0,Hayır,0.247,370.36
+SIP100676,MUS1109,2025-02-07 18:20:00,İstanbul,Marmara,Spor,Spor Çantası,2,901.54,0.1,39.9,Havale/EFT,,4.0,4.0,Hayır,0.381,1662.67
+SIP101109,MUS1176,2024-07-16 19:28:00,İstanbul,Marmara,Kitap,Python Notları,1,215.88,0.0,39.9,Dijital Cüzdan,Yeni,2.0,5.0,Hayır,0.315,255.78
+SIP100785,MUS1095,2024-08-07 22:32:00,Antalya,Akdeniz,Kitap,Veri Bilimi 101,2,228.04,0.1,49.9,Kapıda Ödeme,Mevcut,3.0,5.0,Hayır,0.383,460.37
+SIP101309,MUS1368,2024-09-22 12:01:00,Antalya,Akdeniz,Ev ve Yaşam,Termos,4,487.55,0.0,39.9,Banka Kartı,Mevcut,4.0,4.0,Hayır,0.186,1990.1
+SIP100873,MUS1332,2024-03-03 16:01:00,Eskişehir,İç Anadolu,Spor,Dambıl Seti,1,1480.01,0.05,49.9,Kredi Kartı,Yeni,4.0,4.0,Evet,0.377,1455.91
+SIP100438,MUS1253,2024-01-03 08:42:00,Samsun,Karadeniz,Ofis,Mekanik Klavye,2,2416.92,0.1,39.9,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.221,4390.36
+SIP100553,MUS1281,2024-08-03 10:25:00,Samsun,Karadeniz,Kitap,Veri Bilimi 101,3,246.02,0.0,29.9,Kredi Kartı,Yeni,3.0,4.0,Hayır,0.36,767.96
+SIP100705,MUS1359,2025-10-30 18:00:00,İstanbul,Marmara,Spor,Dambıl Seti,1,1657.39,0.15,39.9,Dijital Cüzdan,Mevcut,2.0,1.0,Hayır,0.185,1448.68
+SIP100073,MUS1091,2025-03-19 13:40:00,İzmir,Ege,Spor,Yoga Matı,1,675.44,0.05,49.9,Dijital Cüzdan,Mevcut,,5.0,Hayır,0.189,691.57
+SIP101128,MUS1064,2025-05-05 10:15:00,Mersin,Akdeniz,Ofis,Mouse Pad,28,166.0,0.0,49.9,Kredi Kartı,Mevcut,5.0,5.0,Hayır,0.364,4697.9
+SIP100085,MUS1061,2024-06-04 10:51:00,Antalya,Akdeniz,Kitap,Veri Bilimi 101,1,280.61,0.0,29.9,Banka Kartı,Yeni,4.0,5.0,Hayır,0.214,310.51
+SIP100545,MUS1354,2025-05-13 12:16:00,Konya,İç Anadolu,Kozmetik,Güneş Kremi,1,450.48,0.05,39.9,Banka Kartı,Mevcut,2.0,2.0,Hayır,0.221,467.86
+SIP100726,MUS1276,2025-09-23 20:56:00,İstanbul,Marmara,Ofis,Mouse Pad,1,158.89,0.15,29.9,Havale/EFT,Yeni,2.0,5.0,Hayır,0.204,164.96
+SIP101105,MUS1144,2024-02-11 08:03:00,Ankara,İç Anadolu,Elektronik,Bluetooth Hoparlör,2,1190.43,0.05,39.9,banka karti,Yeni,6.0,4.0,Hayır,0.265,2301.72
+SIP100998,MUS1203,2024-11-30 13:35:00,İstanbul,Marmara,Kozmetik,Yüz Temizleme Jeli,5,330.05,0.0,29.9,Banka Kartı,Mevcut,6.0,5.0,Hayır,0.185,1680.15
+SIP101055,MUS1248,2025-12-27 12:29:00,Ankara,İç Anadolu,Kozmetik,Yüz Temizleme Jeli,4,300.01,0.1,39.9,Banka Kartı,Mevcut,5.0,5.0,Hayır,0.277,1119.94
+SIP101251,MUS1351,2025-03-23 09:08:00,Bursa,Marmara,Ev ve Yaşam,Kahve Kupası,4,179.51,0.15,39.9,Banka Kartı,Mevcut,7.0,5.0,Hayır,0.206,650.23
+SIP101270,MUS1256,2024-02-16 08:54:00,Antalya,Akdeniz,Spor,Yoga Matı,2,643.02,0.0,29.9,Havale/EFT,Yeni,2.0,5.0,Hayır,0.256,1315.94
+SIP100618,MUS1314,2024-06-04 20:12:00,Eskişehir,İç Anadolu,Kitap,İş Analitiği Rehberi,1,270.73,0.1,0.0,Kredi Kartı,Yeni,3.0,4.0,Hayır,0.21,243.66
+SIP100369,MUS1290,2025-01-26 20:45:00,Trabzon,Karadeniz,Kozmetik,Yüz Temizleme Jeli,1,301.15,0.15,0.0,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.348,255.98
+SIP100451,MUS1061,2025-03-30 20:36:00,Mersin,Akdeniz,Elektronik,Akıllı Saat,4,2932.87,0.1,39.9,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.283,10598.23
+SIP100278,MUS1144,2025-12-09 22:36:00,Eskişehir,İç Anadolu,Ev ve Yaşam,Masa Lambası,1,758.95,0.1,29.9,Kredi Kartı,Yeni,3.0,5.0,Evet,0.192,712.96
+SIP100641,MUS1362,2025-10-06 16:05:00,Konya,İç Anadolu,Elektronik,Powerbank,1,779.14,0.05,29.9,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.242,770.08
+SIP101360,MUS1043,2024-04-07 16:10:00,Ankara,İç Anadolu,Kitap,Veri Bilimi 101,4,241.89,0.0,59.9,kredi kartı,VIP,4.0,3.0,Hayır,0.282,1027.46
+SIP100619,MUS1353,2025-09-19 11:38:00,Konya,İç Anadolu,Kozmetik,Serum,2,537.39,0.15,49.9,Kredi Kartı,mevcut,4.0,3.0,Hayır,0.254,963.46
+SIP101205,MUS1220,2025-10-22 16:22:00,Antalya,Akdeniz,Ofis,Kalem Seti,2,100.25,0.05,49.9,Kredi Kartı,Yeni,,3.0,Hayır,0.196,240.38
+SIP100572,MUS1047,2025-12-05 17:09:00,Antalya,Akdeniz,Kitap,Zaman Yönetimi,2,184.54,0.0,49.9,Kredi Kartı,Yeni,5.0,4.0,Hayır,0.417,418.98
+SIP101088,MUS1174,2024-12-27 08:27:00,İstanbul,Marmara,Ev ve Yaşam,Organizer,5,268.14,0.15,39.9,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.285,1179.49
+SIP101331,MUS1311,2025-05-13 15:14:00,İstanbul,Marmara,Ofis,Mouse Pad,2,168.21,0.0,29.9,Dijital Cüzdan,Yeni,4.0,5.0,Hayır,0.342,366.32
+SIP100133,MUS1090,2024-05-14 08:22:00,İstanbul,Marmara,Kitap,Veri Bilimi 101,1,259.29,0.2,59.9,Havale/EFT,Yeni,4.0,4.0,Hayır,0.201,267.33
+SIP100092,MUS1021,2025-12-17 14:17:00,İzmir,Ege,Spor,Suluk,3,218.23,0.1,49.9,Kredi Kartı,Mevcut,3.0,4.0,Evet,0.263,639.12
+SIP101298,MUS1017,2024-07-29 14:11:00,İzmir,Ege,Elektronik,Bluetooth Hoparlör,1,1211.04,0.0,49.9,Banka Kartı,Mevcut,1.0,4.0,Hayır,0.385,1260.94
+SIP100429,MUS1149,2025-05-30 17:19:00,Ankara,İç Anadolu,Elektronik,Akıllı Saat,4,2756.83,0.05,49.9,Kredi Kartı,mevcut,1.0,5.0,Hayır,0.267,10525.85
+SIP100980,MUS1211,2025-04-10 08:23:00,Ankara,İç Anadolu,Kozmetik,Yüz Temizleme Jeli,1,321.51,0.0,39.9,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.238,361.41
+SIP101106,MUS1007,2024-07-08 12:31:00,Eskişehir,İç Anadolu,Elektronik,Akıllı Saat,1,2980.57,0.05,39.9,Kredi Kartı,Yeni,3.0,3.0,Hayır,0.299,2871.44
+SIP100345,MUS1033,2024-04-30 20:57:00,İzmir,Ege,Kitap,İş Analitiği Rehberi,3,281.15,0.0,49.9,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.23,893.35
+SIP101237,MUS1181,2025-07-12 12:42:00,Ankara,İç Anadolu,Spor,Suluk,1,212.69,0.1,29.9,Kredi Kartı,Mevcut,3.0,4.0,Evet,0.387,221.32
+SIP100737,MUS1083,2024-10-29 11:41:00,Samsun,Karadeniz,Ev ve Yaşam,Saklama Kutusu,5,244.53,0.05,39.9,Dijital Cüzdan,Yeni,5.0,5.0,Hayır,0.244,1201.42
+SIP100611,MUS1416,2024-12-29 18:19:00,İstanbul,Marmara,Kitap,İş Analitiği Rehberi,2,275.54,0.0,29.9,Kredi Kartı,VIP,2.0,4.0,Hayır,0.364,580.98
+SIP100426,MUS1315,2025-08-13 20:10:00,İzmir,Ege,Ev ve Yaşam,Masa Lambası,1,674.3,0.0,49.9,Kredi Kartı,Mevcut,3.0,4.0,Evet,0.297,724.2
+SIP100961,MUS1331,2025-04-26 20:42:00,Eskişehir,İç Anadolu,Ev ve Yaşam,Termos,1,515.01,0.0,29.9,Banka Kartı,Yeni,7.0,2.0,Hayır,0.246,544.91
+SIP101043,MUS1194,2024-08-17 22:36:00,Gaziantep,Güneydoğu Anadolu,Elektronik,Webcam,5,897.57,0.15,29.9,Havale/EFT,Mevcut,1.0,5.0,Hayır,0.248,3844.57
+SIP101375,MUS1412,2024-08-02 10:00:00,Kayseri,İç Anadolu,Kitap,Zaman Yönetimi,1,182.28,0.0,49.9,Havale/EFT,VIP,5.0,4.0,Hayır,0.359,232.18
+SIP100624,MUS1056,2025-08-31 16:33:00,İzmir,Ege,Kitap,Girişimcilik,4,224.8,0.1,39.9,Banka Kartı,Mevcut,4.0,5.0,Evet,0.246,849.18
+SIP100895,MUS1064,2024-09-22 18:32:00,İstanbul,Marmara,Elektronik,Webcam,1,929.18,0.05,39.9,,Yeni,2.0,5.0,Hayır,0.274,922.62
+SIP100107,MUS1433,2024-02-07 10:32:00,Konya,İç Anadolu,Ev ve Yaşam,Kahve Kupası,1,165.14,0.05,39.9,Dijital Cüzdan,Yeni,1.0,4.0,Hayır,0.322,196.78
+SIP100519,MUS1188,2025-03-12 18:37:00,İzmir,Ege,Elektronik,Bluetooth Hoparlör,5,1221.95,0.0,39.9,Kredi Kartı,Mevcut,7.0,5.0,Hayır,0.341,6149.65
+SIP100638,MUS1019,2025-08-09 20:35:00,Adana,Akdeniz,kitap,Girişimcilik,1,194.12,0.1,59.9,Kredi Kartı,Mevcut,2.0,4.0,Hayır,0.309,234.61
+SIP100095,MUS1165,2025-10-12 21:31:00,İstanbul,Marmara,Kozmetik,Şampuan,2,190.17,0.1,0.0,Dijital Cüzdan,Mevcut,3.0,6.0,Hayır,0.416,342.31
+SIP101166,MUS1222,2024-03-28 10:46:00,Antalya,Akdeniz,Spor,Yoga Matı,2,655.05,0.0,49.9,Kredi Kartı,VIP,3.0,5.0,Hayır,0.307,1360.0
+SIP101215,MUS1353,2024-08-17 08:52:00,Samsun,Karadeniz,Elektronik,Kablosuz Kulaklık,3,1494.92,0.0,49.9,Kredi Kartı,Yeni,5.0,4.0,Hayır,0.306,4534.66
+SIP100376,MUS1012,2024-12-14 19:11:00,Eskişehir,İç Anadolu,Ev ve Yaşam,Masa Lambası,3,627.54,0.0,0.0,Dijital Cüzdan,Mevcut,4.0,4.0,Hayır,0.309,1882.62
+SIP100725,MUS1146,2025-05-24 10:10:00,Kocaeli,Marmara,Kitap,Zaman Yönetimi,2,154.18,0.05,49.9,Banka Kartı,Yeni,3.0,5.0,Hayır,0.385,342.84
+SIP100027,MUS1195,2025-02-20 15:30:00,Samsun,Karadeniz,Ev ve Yaşam,Masa Lambası,2,616.19,0.0,39.9,Kredi Kartı,Mevcut,5.0,5.0,Evet,0.371,1272.28
+SIP101114,MUS1112,2025-02-03 14:38:00,Gaziantep,Güneydoğu Anadolu,Spor,Spor Çantası,1,849.87,0.05,59.9,Kredi Kartı,Yeni,4.0,5.0,Hayır,0.211,867.28
+SIP101259,MUS1243,2024-06-05 17:56:00,İstanbul,Marmara,Elektronik,Kablosuz Kulaklık,2,1562.22,0.1,39.9,Kredi Kartı,Yeni,4.0,5.0,Hayır,0.347,2851.9
+SIP100803,MUS1353,2024-02-27 18:15:00,Trabzon,Karadeniz,Spor,Suluk,1,187.7,0.0,39.9,,Mevcut,2.0,4.0,Hayır,0.317,227.6
+SIP101356,MUS1336,2025-06-08 19:01:00,Ankara,İç Anadolu,Ofis,Not Tutucu,4,130.51,0.0,39.9,Kredi Kartı,Mevcut,1.0,3.0,Hayır,0.35,561.94
+SIP101195,MUS1321,2025-02-04 09:31:00,Bursa,Marmara,Ofis,Mekanik Klavye,2,2184.5,0.15,29.9,Havale/EFT,Mevcut,4.0,5.0,Hayır,0.224,3743.55
+SIP101007,MUS1434,2025-06-17 20:26:00,İstanbul,Marmara,Ofis,Defter Seti,4,158.92,0.05,49.9,Banka Kartı,Yeni,5.0,4.0,Evet,0.406,653.8
+SIP100233,MUS1274,2024-10-19 18:03:00,gaziantep,Güneydoğu Anadolu,Ofis,Mouse Pad,2,187.74,0.15,49.9,Dijital Cüzdan,Yeni,6.0,5.0,Hayır,0.208,369.06
+SIP101330,MUS1146,2025-03-16 16:17:00,Mersin,Akdeniz,Kitap,Python Notları,2,222.56,0.15,49.9,Banka Kartı,Mevcut,5.0,4.0,Hayır,0.315,428.25
+SIP101242,MUS1063,2024-11-12 11:02:00,İzmir,Ege,Spor,Suluk,1,219.55,0.05,59.9,Banka Kartı,Mevcut,2.0,4.0,Hayır,0.283,268.47
+SIP100567,MUS1128,2024-09-13 21:24:00,Antalya,Akdeniz,Ev ve Yaşam,Masa Lambası,1,669.96,0.0,49.9,Kapıda Ödeme,Yeni,3.0,5.0,Hayır,0.263,719.86
+SIP101057,MUS1243,2025-01-20 14:43:00,Antalya,Akdeniz,Kitap,Python Notları,1,225.63,0.0,29.9,Kapıda Ödeme,VIP,6.0,,Hayır,0.284,255.53
+SIP100985,MUS1436,2025-12-18 21:45:00,Konya,İç Anadolu,Spor,Suluk,2,203.15,0.15,49.9,Havale/EFT,Mevcut,4.0,4.0,Hayır,0.277,395.26
+SIP101054,MUS1068,2024-10-16 19:59:00,İstanbul,Marmara,Kitap,İş Analitiği Rehberi,1,282.1,0.15,59.9,Kredi Kartı,Mevcut,3.0,,Hayır,0.346,299.68
+SIP100289,MUS1127,2024-10-09 14:19:00,,Marmara,Ev ve Yaşam,Kahve Kupası,2,175.24,0.0,39.9,Kredi Kartı,Yeni,3.0,2.0,Hayır,0.187,390.38
+SIP101293,MUS1137,2025-01-10 20:35:00,Istanbul,Marmara,Kitap,İş Analitiği Rehberi,1,284.18,0.0,39.9,Kredi Kartı,Mevcut,5.0,2.0,Hayır,0.409,324.08
+SIP101008,MUS1352,2024-07-29 16:03:00,Gaziantep,Güneydoğu Anadolu,Ofis,Mekanik Klavye,2,2359.68,0.1,49.9,Dijital Cüzdan,Mevcut,3.0,3.0,Hayır,0.292,4297.32
+SIP101263,MUS1214,2025-01-11 18:17:00,Adana,Akdeniz,Kozmetik,Şampuan,2,205.82,0.2,39.9,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.294,369.21
+SIP100365,MUS1237,2024-04-04 22:54:00,Eskişehir,İç Anadolu,Spor,Dambıl Seti,1,1473.27,0.0,49.9,Kapıda Ödeme,Yeni,2.0,4.0,Evet,0.275,1523.17
+SIP100284,MUS1325,2024-09-09 19:04:00,,Ege,Kozmetik,Güneş Kremi,3,455.24,0.1,39.9,,Yeni,4.0,4.0,Hayır,0.369,1269.05
+SIP100721,MUS1123,2025-12-09 10:13:00,Eskişehir,İç Anadolu,Spor,Direnç Bandı,5,224.82,0.0,49.9,Kredi Kartı,Yeni,4.0,5.0,Hayır,0.183,1174.0
+SIP100801,MUS1024,2025-11-23 13:49:00,Antalya,Akdeniz,Spor,Spor Çantası,4,881.21,0.0,49.9,Dijital Cüzdan,Yeni,3.0,5.0,Evet,0.244,3574.74
+SIP100079,MUS1360,2025-07-20 16:22:00,Adana,Akdeniz,Ofis,Not Tutucu,1,123.3,0.15,29.9,Kredi Kartı,Mevcut,1.0,5.0,Hayır,0.207,134.7
+SIP100940,MUS1032,2025-03-25 20:06:00,Samsun,Karadeniz,Kozmetik,Serum,1,507.46,0.15,39.9,Banka Kartı,Mevcut,3.0,4.0,Evet,0.402,471.24
+SIP100502,MUS1333,2025-01-04 14:30:00,İstanbul,Marmara,Ev ve Yaşam,Organizer,5,276.47,0.0,39.9,Dijital Cüzdan,VIP,4.0,4.0,Evet,0.341,1422.25
+SIP101378,MUS1110,2024-11-15 21:33:00,İzmir,Ege,Spor,Suluk,2,207.21,0.1,49.9,Kredi Kartı,Yeni,3.0,4.0,Hayır,0.311,422.88
+SIP100823,MUS1311,2024-05-28 13:30:00,Bursa,Marmara,Ev ve Yaşam,Saklama Kutusu,3,234.46,0.05,0.0,Havale/EFT,Mevcut,3.0,3.0,Evet,0.342,668.21
+SIP100528,MUS1282,2025-08-23 11:33:00,Ankara,İç Anadolu,Spor,Direnç Bandı,1,228.48,0.0,49.9,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.191,278.38
+SIP101247,MUS1017,2024-05-26 19:12:00,Antalya,Akdeniz,Elektronik,Webcam,5,905.21,0.05,39.9,Kredi Kartı,VIP,4.0,,Hayır,0.313,4339.65
+SIP101031,MUS1390,2024-02-12 09:13:00,Samsun,Karadeniz,Kitap,Girişimcilik,2,191.66,0.1,49.9,Banka Kartı,Yeni,4.0,1.0,Hayır,0.314,394.89
+SIP100713,MUS1037,2025-04-14 18:55:00,İstanbul,Marmara,Kitap,Girişimcilik,5,196.65,0.05,29.9,Dijital Cüzdan,Yeni,1.0,5.0,Hayır,0.366,963.99
+SIP100500,MUS1447,2025-06-10 10:28:00,Trabzon,Karadeniz,Kozmetik,Nemlendirici,3,422.87,0.05,29.9,Kredi Kartı,Mevcut,2.0,4.0,Hayır,0.271,1235.08
+SIP101001,MUS1129,2024-04-14 19:34:00,İzmir,Ege,Kozmetik,Şampuan,1,209.93,0.0,49.9,Havale/EFT,VIP,3.0,1.0,Hayır,0.198,259.83
+SIP100495,MUS1424,2025-07-18 09:11:00,,Ege,Ofis,Not Tutucu,2,139.55,0.0,29.9,Banka Kartı,Yeni,2.0,4.0,Hayır,0.347,309.0
+SIP100851,MUS1338,2024-04-18 21:20:00,İstanbul,Marmara,Ofis,Kalem Seti,3,104.25,0.15,0.0,Kredi Kartı,Yeni,6.0,5.0,Hayır,0.211,265.84
+SIP100038,MUS1327,2025-10-11 14:53:00,Ankara,İç Anadolu,Elektronik,Kablosuz Kulaklık,1,1572.08,0.1,39.9,Kart,Yeni,6.0,5.0,Hayır,0.357,1454.77
+SIP100985,MUS1436,2025-12-18 21:45:00,Konya,İç Anadolu,Spor,Suluk,2,203.15,0.15,49.9,Havale/EFT,Mevcut,4.0,4.0,Hayır,0.277,395.26
+SIP100489,MUS1095,2024-12-18 11:26:00,Samsun,Karadeniz,Ofis,Mekanik Klavye,4,2000.17,0.2,49.9,Dijital Cüzdan,Mevcut,3.0,5.0,Hayır,0.323,6450.44
+SIP101124,MUS1207,2024-07-11 09:09:00,Mersin,Akdeniz,Kitap,Girişimcilik,2,227.67,0.15,49.9,Kredi Kartı,Yeni,1.0,5.0,Hayır,0.204,436.94
+SIP100670,MUS1208,2025-09-02 15:20:00,Mersin,Akdeniz,Elektronik,Powerbank,2,860.27,0.0,39.9,Banka Kartı,Mevcut,4.0,5.0,Hayır,0.186,1760.44
+SIP100647,MUS1243,2024-06-28 11:21:00,Gaziantep,Güneydoğu Anadolu,Kozmetik,Yüz Temizleme Jeli,2,315.59,0.1,49.9,Kapıda Ödeme,VIP,5.0,3.0,Hayır,0.234,617.96
+SIP100106,MUS1421,2025-04-29 19:58:00,Kocaeli,Marmara,Elektronik,Webcam,1,876.65,0.0,59.9,Kapıda Ödeme,Mevcut,2.0,1.0,Hayır,0.201,936.55
+SIP100880,MUS1175,2024-04-26 17:14:00,Mersin,Akdeniz,Ofis,Not Tutucu,3,123.63,0.0,39.9,Kredi Kartı,Yeni,4.0,3.0,Hayır,0.415,410.79
+SIP100833,MUS1046,2024-01-22 08:59:00,İzmir,Ege,Kozmetik,Nemlendirici,1,388.23,0.0,39.9,Banka Kartı,Mevcut,3.0,5.0,Hayır,0.328,428.13
+SIP100126,MUS1276,2024-02-16 08:19:00,Konya,İç Anadolu,Elektronik,Bluetooth Hoparlör,2,1343.4,0.1,39.9,Dijital Cüzdan,Yeni,2.0,4.0,Hayır,0.357,2458.02
+SIP100775,MUS1426,2024-12-14 22:58:00,İzmir,Ege,Spor,Direnç Bandı,1,245.12,0.0,0.0,Kredi Kartı,Yeni,2.0,5.0,Hayır,0.353,245.12
+SIP100924,MUS1165,2025-10-12 12:48:00,Samsun,Karadeniz,Ofis,Mouse Pad,1,173.16,0.1,49.9,Havale/EFT,Yeni,2.0,5.0,Hayır,0.341,205.74
+SIP100385,MUS1232,2025-05-05 20:55:00,Ankara,İç Anadolu,Spor,Yoga Matı,1,678.97,0.1,39.9,Banka Kartı,Mevcut,3.0,,Hayır,0.2,650.97
+SIP100806,MUS1342,2024-04-12 19:43:00,Ankara,İç Anadolu,Elektronik,Akıllı Saat,2,2837.5,0.15,39.9,Kredi Kartı,Mevcut,5.0,5.0,Hayır,0.184,4863.65
+SIP100162,MUS1231,2025-10-29 11:20:00,Eskişehir,İç Anadolu,Spor,Spor Çantası,1,936.13,0.1,29.9,Banka Kartı,Mevcut,2.0,5.0,Hayır,0.398,872.42
+SIP101036,MUS1228,2025-10-10 13:55:00,Trabzon,Karadeniz,Ofis,Defter Seti,2,165.43,0.0,39.9,Kredi Kartı,Mevcut,4.0,4.0,Hayır,0.273,370.76
+SIP100490,MUS1282,2024-04-27 10:42:00,İstanbul,Marmara,Ofis,Mekanik Klavye,2,2280.27,0.0,39.9,Havale/EFT,Mevcut,5.0,5.0,Hayır,0.234,4600.44
+SIP100875,MUS1309,2025-03-24 11:32:00,Gaziantep,Güneydoğu Anadolu,spor,Suluk,1,217.61,0.15,39.9,Kredi Kartı,VIP,3.0,4.0,Hayır,0.192,224.87
+SIP100374,MUS1278,2024-05-25 17:12:00,ankara,İç Anadolu,Kozmetik,Serum,1,503.4,0.0,39.9,Kapıda Ödeme,Mevcut,4.0,5.0,Hayır,0.326,543.3
+SIP100442,MUS1140,2025-01-16 21:21:00,Samsun,Karadeniz,Ofis,Defter Seti,1,144.28,0.1,39.9,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.316,169.75
+SIP100632,MUS1394,2024-05-28 10:49:00,Kayseri,İç Anadolu,Ev ve Yaşam,Masa Lambası,2,10293.87,0.1,29.9,Havale/EFT,Mevcut,4.0,5.0,Hayır,0.295,18558.87
+SIP100818,MUS1344,2025-09-08 12:55:00,İstanbul,Marmara,Elektronik,Webcam,1,894.96,0.05,39.9,Kredi Kartı,vip,2.0,5.0,Hayır,0.39,890.11
+SIP101213,MUS1253,2024-10-08 13:48:00,Mersin,Akdeniz,Spor,Suluk,2,187.61,0.2,59.9,Kredi Kartı,Yeni,4.0,4.0,Hayır,0.394,360.08
+SIP100640,MUS1108,2025-12-12 21:17:00,Ankara,İç Anadolu,Ev ve Yaşam,Termos,2,534.23,0.0,49.9,Kredi Kartı,Mevcut,4.0,4.0,Hayır,0.247,1118.36
+SIP100914,MUS1158,2025-07-08 10:18:00,Ankara,İç Anadolu,Elektronik,Kablosuz Kulaklık,1,1474.27,0.0,49.9,Kredi Kartı,Yeni,6.0,3.0,Evet,0.359,1524.17
+SIP101236,MUS1377,2025-05-30 10:48:00,Trabzon,Karadeniz,Ev ve Yaşam,Organizer,1,245.29,0.1,49.9,Kredi Kartı,Yeni,4.0,5.0,Hayır,0.242,270.66
+SIP100375,MUS1170,2024-04-02 08:14:00,Ankara,İç Anadolu,Spor,Yoga Matı,2,731.88,0.15,49.9,Banka Kartı,Yeni,1.0,5.0,Hayır,0.358,1294.1
+SIP101398,MUS1017,2024-10-02 09:32:00,Ankara,İç Anadolu,Kozmetik,Serum,3,509.74,0.15,39.9,Havale/EFT,Yeni,,5.0,Hayır,0.243,1339.74
+SIP100685,MUS1409,2025-04-09 16:57:00,Antalya,Akdeniz,Elektronik,Akıllı Saat,2,2852.54,0.05,39.9,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.361,5459.73
+SIP100119,MUS1018,2025-10-05 09:57:00,Gaziantep,Güneydoğu Anadolu,Kitap,Python Notları,5,209.15,0.05,59.9,Banka Kartı,yeni,5.0,5.0,Hayır,0.346,1053.36
+SIP100810,MUS1206,2025-05-31 20:19:00,Istanbul,Marmara,Elektronik,Webcam,1,970.83,0.15,39.9,Kredi Kartı,Mevcut,4.0,2.0,Hayır,0.285,865.11
+SIP100720,MUS1304,2025-05-13 09:00:00,İzmir,Ege,Ev ve Yaşam,Termos,5,458.8,0.05,49.9,Kredi Kartı,VIP,2.0,5.0,Hayır,0.184,2229.2
+SIP101373,MUS1065,2024-06-05 09:46:00,Konya,İç Anadolu,Elektronik,Powerbank,1,870.55,0.0,29.9,,Yeni,4.0,4.0,Hayır,0.365,900.45
+SIP101133,MUS1339,2025-10-01 21:18:00,İzmir,Ege,Kitap,İş Analitiği Rehberi,2,302.06,0.05,49.9,Kredi Kartı,Yeni,5.0,4.0,Hayır,0.39,623.81
+SIP100666,MUS1055,2025-09-10 17:08:00,Kayseri,İç Anadolu,Ofis,Mouse Pad,1,164.18,0.05,29.9,Kart,Mevcut,1.0,5.0,Hayır,0.371,185.87
+SIP100415,MUS1328,2024-10-16 12:43:00,Antalya,Akdeniz,Kozmetik,Serum,2,559.48,0.05,39.9,Kredi Kartı,Yeni,4.0,5.0,Hayır,0.223,1102.91
+SIP100772,MUS1322,2024-10-23 12:33:00,İzmir,Ege,Ofis,Defter Seti,3,162.03,0.0,59.9,Banka Kartı,Yeni,1.0,2.0,Hayır,0.393,545.99
+SIP100723,MUS1186,2025-07-25 11:12:00,Ankara,İç Anadolu,Spor,Yoga Matı,2,711.96,0.0,59.9,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.304,1483.82
+SIP100128,MUS1112,2025-05-16 17:26:00,Eskişehir,İç Anadolu,Kitap,Veri Bilimi 101,4,240.3,0.0,59.9,Dijital Cüzdan,Yeni,1.0,,Hayır,0.292,1021.1
+SIP101178,MUS1256,2024-01-17 12:57:00,Samsun,Karadeniz,Ofis,Mouse Pad,1,171.85,0.0,29.9,Kredi Kartı,Mevcut,,5.0,Hayır,0.344,201.75
+SIP101291,MUS1204,2024-12-24 17:41:00,İstanbul,Marmara,Elektronik,Webcam,2,805.77,0.0,49.9,Dijital Cüzdan,VIP,2.0,3.0,Hayır,0.183,1661.44
+SIP100573,MUS1250,2024-03-02 13:41:00,Adana,Akdeniz,Ofis,Defter Seti,2,162.66,0.0,39.9,Kredi Kartı,Mevcut,4.0,4.0,Hayır,0.182,365.22
+SIP101032,MUS1162,2024-12-11 17:27:00,Ankara,İç Anadolu,Spor,Direnç Bandı,3,252.15,0.0,59.9,Kredi Kartı,mevcut,4.0,,Hayır,0.391,816.35
+SIP100841,MUS1259,2025-11-17 20:38:00,Bursa,Marmara,Ofis,Kalem Seti,2,105.42,0.1,49.9,Havale/EFT,,4.0,5.0,Evet,0.382,239.66
+SIP100673,MUS1223,2024-11-02 17:50:00,İstanbul,Marmara,Kitap,İş Analitiği Rehberi,2,264.53,0.05,0.0,Dijital Cüzdan,Yeni,1.0,4.0,Hayır,0.196,502.61
+SIP100400,MUS1055,2024-05-31 17:37:00,İzmir,Ege,Spor,Dambıl Seti,3,1627.64,0.05,49.9,Banka Kartı,VIP,4.0,5.0,Hayır,0.319,4688.67
+SIP100697,MUS1113,2024-03-10 08:26:00,Ankara,İç Anadolu,Elektronik,Kablosuz Kulaklık,1,1676.35,0.0,39.9,Kredi Kartı,Yeni,4.0,5.0,Hayır,0.301,1716.25
+SIP100552,MUS1129,2025-02-27 10:11:00,Gaziantep,Güneydoğu Anadolu,Kozmetik,Şampuan,3,183.02,0.05,39.9,Kapıda Ödeme,Yeni,4.0,4.0,Hayır,0.335,561.51
+SIP100565,MUS1191,2025-05-20 11:21:00,Ankara,İç Anadolu,Ev ve Yaşam,Termos,2,519.61,0.05,29.9,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.28,1017.16
+SIP100175,MUS1224,2024-03-26 20:10:00,Kayseri,İç Anadolu,Elektronik,Webcam,5,942.34,0.0,59.9,Kredi Kartı,VIP,4.0,5.0,Hayır,0.391,4771.6
+SIP100321,MUS1390,2025-12-19 21:08:00,Eskişehir,İç Anadolu,Ofis,Mekanik Klavye,1,1979.57,,39.9,Kredi Kartı,Mevcut,1.0,1.0,Hayır,0.21,2019.47
+SIP100525,MUS1225,2025-12-29 17:03:00,Konya,İç Anadolu,Kozmetik,Güneş Kremi,3,446.11,0.1,29.9,Dijital Cüzdan,Mevcut,1.0,3.0,Hayır,0.229,1234.4
+SIP100470,MUS1227,2024-01-14 19:16:00,Ankara,İç Anadolu,Kozmetik,Yüz Temizleme Jeli,1,295.24,0.0,39.9,Kredi Kartı,Mevcut,3.0,1.0,Hayır,0.415,335.14
+SIP100958,MUS1194,2024-05-01 10:56:00,Trabzon,Karadeniz,Spor,Yoga Matı,1,716.17,0.0,39.9,Dijital Cüzdan,Mevcut,5.0,4.0,Hayır,0.334,756.07
+SIP101345,MUS1401,2025-12-04 11:01:00,Kayseri,İç Anadolu,Kozmetik,Şampuan,2,221.95,0.05,49.9,Kredi Kartı,Mevcut,6.0,3.0,Hayır,0.269,471.6
+SIP100759,MUS1329,2025-09-24 21:14:00,İstanbul,Marmara,Elektronik,Akıllı Saat,5,12774.04,0.0,0.0,Kredi Kartı,yeni,5.0,5.0,Evet,0.264,63870.2
+SIP100080,MUS1391,2024-08-24 09:46:00,İzmir,Ege,Ofis,Mouse Pad,1,192.65,0.1,39.9,Kredi Kartı,Yeni,4.0,3.0,Hayır,0.34,213.29
+SIP100534,MUS1294,2024-03-18 16:59:00,Ankara,İç Anadolu,Spor,Suluk,1,214.82,0.0,49.9,Kredi Kartı,Yeni,3.0,4.0,Hayır,0.355,264.72
+SIP101151,MUS1290,2024-07-25 18:59:00,Eskişehir,İç Anadolu,Ev ve Yaşam,Organizer,1,288.57,0.1,29.9,Kredi Kartı,Yeni,5.0,2.0,Hayır,0.417,289.61
+SIP100458,MUS1069,2024-05-06 20:57:00,İzmir,Ege,kitap,Girişimcilik,1,202.67,0.0,49.9,Kart,Mevcut,4.0,4.0,Hayır,0.319,252.57
+SIP100291,MUS1070,2025-03-26 13:27:00,Kayseri,İç Anadolu,Spor,Suluk,1,202.05,0.15,49.9,Kapıda Ödeme,Mevcut,1.0,4.0,Hayır,0.31,221.64
+SIP100371,MUS1337,2025-01-01 20:37:00,İstanbul,Marmara,Spor,Spor Çantası,1,885.96,0.1,0.0,Dijital Cüzdan,VIP,2.0,5.0,Hayır,0.399,797.36
+SIP100266,MUS1114,2024-11-23 22:13:00,Bursa,Marmara,Kitap,Zaman Yönetimi,2,161.7,0.0,39.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.192,363.3
+SIP100589,MUS1004,2024-02-05 12:38:00,İzmir,Ege,Spor,Yoga Matı,1,649.09,0.15,29.9,Kredi Kartı,Yeni,2.0,4.0,Hayır,0.402,581.63
+SIP100478,MUS1145,2025-01-25 22:50:00,Ankara,İç Anadolu,Elektronik,Webcam,3,949.22,0.0,49.9,Dijital Cüzdan,Mevcut,3.0,2.0,Hayır,0.282,2897.56
+SIP100165,MUS1437,2024-03-08 13:06:00,Kocaeli,Marmara,Kitap,İş Analitiği Rehberi,2,290.05,0.0,0.0,Banka Kartı,Mevcut,1.0,2.0,Hayır,0.221,580.1
+SIP101214,MUS1192,2025-12-14 15:31:00,Konya,İç Anadolu,Spor,Suluk,1,194.76,0.15,29.9,Kapıda Ödeme,,4.0,3.0,Hayır,0.314,195.45
+SIP100094,MUS1143,2025-08-13 08:48:00,Antalya,Akdeniz,Elektronik,Webcam,4,974.87,0.1,0.0,Havale/EFT,,7.0,5.0,Hayır,0.217,3509.53
+SIP100474,MUS1363,2025-11-08 12:31:00,Antalya,Akdeniz,Kitap,Girişimcilik,4,188.61,0.0,29.9,Havale/EFT,Mevcut,3.0,5.0,Evet,0.325,784.34
+SIP100198,MUS1359,2025-07-09 12:57:00,Ankara,İç Anadolu,Elektronik,Powerbank,4,801.53,0.0,39.9,kredi kartı,Yeni,2.0,5.0,Hayır,0.304,3246.02
+SIP100186,MUS1418,2024-07-23 22:02:00,İstanbul,Marmara,Ev ve Yaşam,Termos,4,477.35,0.05,39.9,Kredi Kartı,Yeni,4.0,5.0,Hayır,0.396,1853.83
+SIP101037,MUS1244,2025-09-19 20:05:00,Ankara,İç Anadolu,spor,Direnç Bandı,1,261.14,0.0,49.9,Kredi Kartı,VIP,3.0,2.0,Hayır,0.245,311.04
+SIP100422,MUS1299,2025-08-22 12:29:00,Eskişehir,İç Anadolu,Ofis,Mouse Pad,3,192.64,0.0,39.9,Kapıda Ödeme,Mevcut,3.0,2.0,Hayır,0.231,617.82
+SIP100452,MUS1406,2024-04-15 14:26:00,Trabzon,Karadeniz,Kitap,Veri Bilimi 101,3,253.09,,39.9,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.252,799.17
+SIP100257,MUS1377,2024-08-14 14:19:00,Kayseri,İç Anadolu,Kitap,Girişimcilik,2,205.93,0.0,49.9,Kredi Kartı,Mevcut,2.0,4.0,Hayır,0.288,461.76
+SIP100136,MUS1228,2025-05-05 21:25:00,Konya,İç Anadolu,Elektronik,Kablosuz Kulaklık,2,1576.08,0.1,49.9,kredi kartı,Yeni,4.0,5.0,Hayır,0.388,2886.84
+SIP100982,MUS1159,2025-03-18 21:45:00,İstanbul,Marmara,Ev ve Yaşam,Saklama Kutusu,4,227.87,0.1,49.9,Banka Kartı,Yeni,5.0,5.0,Hayır,0.27,870.23
+SIP100790,MUS1074,2025-11-19 09:25:00,İstanbul,Marmara,Kitap,Zaman Yönetimi,2,153.52,0.0,39.9,,Mevcut,1.0,4.0,Evet,0.182,346.94
+SIP100052,MUS1346,2025-03-16 20:37:00,İstanbul,Marmara,Ofis,Mekanik Klavye,3,2052.67,0.1,49.9,Banka Kartı,Yeni,3.0,4.0,Hayır,0.398,5592.11
+SIP100771,MUS1185,2024-11-23 15:56:00,İstanbul,Marmara,Elektronik,Bluetooth Hoparlör,1,1272.33,0.1,0.0,Havale/EFT,Yeni,3.0,4.0,Evet,0.286,1145.1
+SIP100584,MUS1321,2024-08-24 16:24:00,Trabzon,Karadeniz,Elektronik,Kablosuz Kulaklık,1,1595.41,0.15,59.9,Kredi Kartı,Mevcut,2.0,,Hayır,0.374,1416.0
+SIP101044,MUS1115,2025-10-31 18:50:00,Eskişehir,İç Anadolu,Kitap,Zaman Yönetimi,2,155.55,0.0,39.9,Banka Kartı,Mevcut,4.0,,Hayır,0.374,351.0
+SIP101278,MUS1265,2025-03-13 18:24:00,Kayseri,İç Anadolu,Elektronik,Akıllı Saat,5,2711.22,0.0,49.9,Dijital Cüzdan,Mevcut,5.0,5.0,Hayır,0.284,13606.0
+SIP101323,MUS1217,2025-12-07 10:04:00,İstanbul,Marmara,Spor,Yoga Matı,4,675.21,0.1,39.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.255,2470.66
+SIP100050,MUS1066,2025-06-03 12:42:00,Kayseri,İç Anadolu,Kitap,İş Analitiği Rehberi,1,289.02,0.05,29.9,Kredi Kartı,Mevcut,6.0,2.0,Hayır,0.348,304.47
+SIP100342,MUS1045,2024-11-13 19:27:00,Konya,İç Anadolu,Kitap,Veri Bilimi 101,1,261.03,0.0,39.9,Havale/EFT,Mevcut,1.0,3.0,Evet,0.189,300.93
+SIP101207,MUS1198,2024-08-06 15:36:00,Ankara,İç Anadolu,Elektronik,Webcam,5,916.11,0.05,39.9,Havale/EFT,VIP,1.0,4.0,Hayır,0.188,4391.42
+SIP100527,MUS1205,2024-09-01 18:00:00,İstanbul,Marmara,Elektronik,Webcam,1,844.75,0.0,49.9,Dijital Cüzdan,Yeni,5.0,,Hayır,0.41,894.65
+SIP100852,MUS1232,2025-08-31 18:00:00,Bursa,Marmara,Kitap,İş Analitiği Rehberi,2,274.27,0.0,29.9,Kredi Kartı,Yeni,4.0,4.0,Hayır,0.284,578.44
+SIP101014,MUS1276,2025-01-25 14:54:00,İstanbul,Marmara,Spor,Yoga Matı,2,713.04,0.05,29.9,Kredi Kartı,VIP,2.0,5.0,Hayır,0.202,1384.68
+SIP100683,MUS1242,2024-10-13 15:33:00,İstanbul,Marmara,Kitap,Girişimcilik,3,202.03,0.0,0.0,Kredi Kartı,VIP,3.0,3.0,Evet,0.351,606.09
+SIP100463,MUS1345,2025-10-09 11:12:00,Kayseri,İç Anadolu,Kitap,Girişimcilik,1,198.4,0.15,49.9,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.277,218.54
+SIP100798,MUS1362,2025-04-15 08:02:00,Ankara,İç Anadolu,Spor,Direnç Bandı,1,252.46,0.0,39.9,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.354,292.36
+SIP100861,MUS1417,2024-04-20 16:27:00,Antalya,Akdeniz,Elektronik,Powerbank,4,837.11,0.0,0.0,Kredi Kartı,Mevcut,4.0,4.0,Hayır,0.404,3348.44
+SIP101217,MUS1314,2024-02-14 09:03:00,Samsun,Karadeniz,Elektronik,Webcam,2,838.54,0.1,49.9,Dijital Cüzdan,Yeni,3.0,5.0,Hayır,0.405,1559.27
+SIP100469,MUS1351,2025-12-10 18:03:00,İzmir,Ege,Kozmetik ,Güneş Kremi,2,485.63,0.0,59.9,Dijital Cüzdan,Mevcut,4.0,4.0,Hayır,0.303,1031.16
+SIP100648,MUS1237,2025-05-08 10:40:00,Kocaeli,Marmara,Kitap,Python Notları,2,199.96,0.05,39.9,Kredi Kartı,Mevcut,2.0,4.0,Hayır,0.412,419.82
+SIP101035,MUS1002,2025-09-25 18:42:00,Mersin,Akdeniz,Ofis,Not Tutucu,1,136.97,0.1,29.9,Kapıda Ödeme,Mevcut,,5.0,Hayır,0.296,153.17
+SIP100034,MUS1126,2024-08-06 16:16:00,Trabzon,Karadeniz,Elektronik,Powerbank,1,767.66,0.05,49.9,Kredi Kartı,Yeni,4.0,4.0,Evet,0.322,933.68
+SIP100417,MUS1152,2025-11-07 13:43:00,Eskişehir,İç Anadolu,Kozmetik,Şampuan,2,212.96,0.1,0.0,Kredi Kartı,yeni,2.0,4.0,Hayır,0.217,383.33
+SIP100248,MUS1036,2024-03-15 08:27:00,İstanbul,Marmara,Ev ve Yaşam,Organizer,4,254.18,0.2,49.9,Kredi Kartı,Yeni,3.0,1.0,Hayır,0.196,998.97
+SIP100782,MUS1075,2024-07-29 17:57:00,İstanbul,Marmara,Elektronik,Powerbank,1,828.03,0.05,29.9,Kredi Kartı,Mevcut,5.0,3.0,Evet,0.298,816.53
+SIP101311,MUS1404,2024-03-14 18:27:00,Antalya,Akdeniz,Kitap,Zaman Yönetimi,2,168.52,0.15,49.9,Dijital Cüzdan,Yeni,5.0,4.0,Hayır,0.388,336.38
+SIP100440,MUS1219,2024-06-27 21:02:00,Ankara,İç Anadolu,Elektronik,Kablosuz Kulaklık,1,1536.29,0.15,29.9,Kapıda Ödeme,Mevcut,5.0,1.0,Hayır,0.288,1335.75
+SIP101266,MUS1269,2025-01-01 16:54:00,İzmir,Ege,Elektronik,Bluetooth Hoparlör,1,1176.84,0.1,39.9,Kapıda Ödeme,Yeni,3.0,4.0,Hayır,0.385,1099.06
+SIP101082,MUS1433,2024-11-08 18:54:00,Bursa,Marmara,Kitap,Python Notları,2,229.59,0.0,49.9,Kredi Kartı,yeni,4.0,4.0,Hayır,0.257,509.08
+SIP100217,MUS1024,2025-01-09 20:09:00,İzmir,Ege,Ofis,Kalem Seti,2,94.39,0.0,49.9,Kredi Kartı,Mevcut,4.0,4.0,Hayır,0.19,238.68
+SIP101393,MUS1329,2025-04-16 09:56:00,İstanbul,Marmara,Kitap,İş Analitiği Rehberi,3,298.32,0.0,39.9,Havale/EFT,Yeni,3.0,5.0,Hayır,0.207,934.86
+SIP101034,MUS1385,2024-05-22 08:38:00,İzmir,Ege,Kitap,Zaman Yönetimi,1,155.01,0.05,39.9,Kredi Kartı,mevcut,3.0,4.0,Hayır,0.343,187.16
+SIP100544,MUS1435,2025-04-29 20:00:00,İstanbul,Marmara,Kitap,Python Notları,2,240.47,0.05,29.9,Kredi Kartı,Mevcut,4.0,4.0,Hayır,0.228,486.79
+SIP101329,MUS1022,2025-03-12 12:20:00,Eskişehir,İç Anadolu,Kozmetik,Serum,1,483.56,0.0,59.9,Kredi Kartı,mevcut,5.0,5.0,Hayır,0.384,543.46
+SIP101074,MUS1281,2024-01-27 17:15:00,Trabzon,Karadeniz,Spor,Direnç Bandı,2,235.22,0.1,49.9,Kredi Kartı,Yeni,1.0,5.0,Hayır,0.348,473.3
+SIP100494,MUS1237,2024-10-10 21:23:00,Ankara,İç Anadolu,Ev ve Yaşam,Kahve Kupası,1,188.67,0.05,39.9,Kredi Kartı,Mevcut,2.0,2.0,Hayır,0.202,219.14
+SIP101163,MUS1350,2024-03-26 18:26:00,Konya,İç Anadolu,Ofis,Mouse Pad,2,182.9,0.0,39.9,Kredi Kartı,Yeni,,5.0,Hayır,0.273,405.7
+SIP100465,MUS1414,2025-11-21 19:57:00,Bursa,Marmara,Kozmetik,Şampuan,1,206.36,0.0,39.9,Kapıda Ödeme,Yeni,3.0,5.0,Hayır,0.19,246.26
+SIP100392,MUS1096,2024-04-03 18:34:00,İzmir,Ege,Spor,Suluk,1,205.71,0.15,59.9,Kredi Kartı,Mevcut,5.0,5.0,Hayır,0.296,234.75
+SIP100901,MUS1067,2025-03-02 21:10:00,İzmir,Ege,Spor,Direnç Bandı,4,243.83,0.0,59.9,Kredi Kartı,Yeni,5.0,4.0,Hayır,0.376,1035.22
+SIP100439,MUS1152,2024-03-17 19:46:00,İstanbul,Marmara,Elektronik,Powerbank,1,767.97,0.05,49.9,Kredi Kartı,Yeni,3.0,4.0,Hayır,0.192,779.47
+SIP101022,MUS1301,2024-04-29 20:05:00,Samsun,Karadeniz,Ev ve Yaşam,Termos,3,479.45,0.1,39.9,Banka Kartı,,6.0,5.0,Hayır,0.214,1334.42
+SIP100583,MUS1111,2025-09-23 12:33:00,Mersin,Akdeniz,Kitap,Veri Bilimi 101,4,254.64,0.0,0.0,kredi kartı,Yeni,5.0,4.0,Hayır,0.331,1018.56
+SIP100779,MUS1354,2025-12-05 11:19:00,İstanbul,Marmara,Kitap,Python Notları,4,219.14,0.0,29.9,Kredi Kartı,Yeni,18.0,5.0,Evet,0.408,906.46
+SIP100327,MUS1448,2025-03-14 11:44:00,İstanbul,Marmara,Spor,Yoga Matı,1,662.79,0.05,49.9,Dijital Cüzdan,VIP,2.0,5.0,Hayır,0.406,679.55
+SIP100913,MUS1196,2024-01-24 13:27:00,İzmir,Ege,Elektronik,Akıllı Saat,2,3113.08,0.1,29.9,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.401,5633.44
+SIP101188,MUS1373,2024-02-22 20:59:00,İstanbul,Marmara,Kitap,Zaman Yönetimi,1,168.85,0.1,29.9,Banka Kartı,Yeni,6.0,4.0,Hayır,0.37,181.86
+SIP100466,MUS1083,2025-01-25 10:03:00,İstanbul,Marmara,Elektronik,Kablosuz Kulaklık,1,1563.67,0.05,39.9,Banka Kartı,Yeni,3.0,4.0,Hayır,0.356,1525.39
+SIP100554,MUS1200,2024-03-26 09:16:00,İstanbul,Marmara,Spor,Spor Çantası,4,885.54,0.2,39.9,Banka Kartı,Yeni,3.0,4.0,Hayır,0.195,2873.63
+SIP100062,MUS1437,2025-08-12 14:30:00,İzmir,Ege,Kozmetik,Yüz Temizleme Jeli,4,342.7,0.2,49.9,Kredi Kartı,Yeni,2.0,5.0,Hayır,0.407,1146.54
+SIP100419,MUS1433,2025-10-15 20:30:00,Gaziantep,Güneydoğu Anadolu,Ev ve Yaşam,Organizer,1,242.72,0.05,59.9,Dijital Cüzdan,Mevcut,4.0,3.0,Hayır,0.387,290.48
+SIP101050,MUS1425,2025-12-06 09:17:00,Antalya,Akdeniz,Ofis,Kalem Seti,1,98.85,0.0,49.9,Dijital Cüzdan,Mevcut,3.0,,Hayır,0.321,148.75
+SIP100709,MUS1197,2025-04-15 20:49:00,Antalya,Akdeniz,Ofis,Defter Seti,1,155.9,0.05,49.9,Kredi Kartı,Yeni,6.0,4.0,Hayır,0.298,198.0
+SIP101381,MUS1092,2025-09-23 16:56:00,Ankara,İç Anadolu,spor,Dambıl Seti,4,1560.93,0.05,49.9,Dijital Cüzdan,,5.0,4.0,Hayır,0.204,5981.43
+SIP100539,MUS1062,2025-05-29 13:25:00,,Ege,Kozmetik,Yüz Temizleme Jeli,1,284.4,0.0,49.9,Kapıda Ödeme,Mevcut,1.0,5.0,Hayır,0.316,334.3
+SIP100156,MUS1262,2024-08-14 13:49:00,Kayseri,İç Anadolu,Kitap,İş Analitiği Rehberi,3,297.14,0.0,59.9,Kredi Kartı,,4.0,4.0,Hayır,0.376,951.32
+SIP101149,MUS1040,2024-02-25 20:23:00,Konya,İç Anadolu,Spor,Dambıl Seti,1,1410.25,0.05,39.9,Banka Kartı,Yeni,4.0,4.0,Hayır,0.198,1379.64
+SIP101347,MUS1294,2024-08-12 13:40:00,Eskişehir,İç Anadolu,Ofis,Not Tutucu,3,126.47,0.1,49.9,Kapıda Ödeme,Yeni,3.0,5.0,Hayır,0.345,391.37
+SIP100083,MUS1241,2025-10-15 21:48:00,Antalya,Akdeniz,Kitap,Python Notları,2,207.76,0.0,29.9,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.362,445.42
+SIP100960,MUS1300,2024-09-10 08:40:00,Antalya,Akdeniz,Ev ve Yaşam,Saklama Kutusu,1,216.65,0.15,39.9,Havale/EFT,Mevcut,4.0,5.0,Hayır,0.38,224.05
+SIP100367,MUS1282,2024-02-05 17:39:00,Ankara,İç Anadolu,Spor,Dambıl Seti,2,1363.9,0.2,39.9,Banka Kartı,Mevcut,4.0,5.0,Hayır,0.336,2222.14
+SIP100945,MUS1327,2025-12-31 09:37:00,İstanbul,Marmara,Elektronik,Powerbank,2,937.62,0.0,49.9,Havale/EFT,Yeni,1.0,5.0,Hayır,0.218,1925.14
+SIP100877,MUS1067,2024-06-14 17:13:00,Konya,İç Anadolu,Ofis,Not Tutucu,3,121.15,0.0,39.9,Kredi Kartı,Mevcut,1.0,5.0,Hayır,0.334,403.35
+SIP100612,MUS1071,2024-01-31 16:17:00,İstanbul,Marmara,Ofis,Not Tutucu,1,123.1,0.0,29.9,Kredi Kartı,Yeni,2.0,5.0,Hayır,0.208,153.0
+SIP100349,MUS1040,2024-08-17 13:15:00,Mersin,Akdeniz,Kitap,Zaman Yönetimi,5,154.42,0.0,39.9,Kredi Kartı,Mevcut,5.0,5.0,Hayır,0.281,812.0
+SIP101134,MUS1076,2024-01-03 21:59:00,İzmir,Ege,Ofis,Defter Seti,1,140.06,0.05,39.9,Dijital Cüzdan,Mevcut,2.0,4.0,Hayır,0.39,172.96
+SIP101289,MUS1414,2024-08-25 09:37:00,İzmir,Ege,Elektronik,Bluetooth Hoparlör,5,1344.27,0.1,59.9,Kredi Kartı,Mevcut,1.0,5.0,Hayır,0.284,6109.12
+SIP100167,MUS1417,2025-09-01 19:05:00,Adana,Akdeniz,Spor,Dambıl Seti,1,1364.85,0.1,49.9,Kredi Kartı,Mevcut,5.0,5.0,Hayır,0.32,1278.27
+SIP101091,MUS1370,2025-09-22 15:21:00,Bursa,Marmara,Ofis,Defter Seti,1,154.55,0.0,39.9,Kredi Kartı,Yeni,5.0,3.0,Hayır,0.419,194.45
+SIP101344,MUS1413,2024-12-21 19:25:00,Samsun,Karadeniz,Kitap,Veri Bilimi 101,2,255.13,0.05,39.9,Havale/EFT,Mevcut,2.0,2.0,Hayır,0.284,524.65
+SIP100547,MUS1296,2024-01-21 14:07:00,Antalya,Akdeniz,ofis,Mouse Pad,2,186.83,0.0,29.9,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.339,403.56
+SIP100205,MUS1369,2025-10-18 10:37:00,Konya,İç Anadolu,Elektronik,Powerbank,1,779.29,0.1,0.0,Dijital Cüzdan,Yeni,2.0,3.0,Hayır,0.253,701.36
+SIP101111,MUS1215,2025-01-09 15:40:00,Eskişehir,İç Anadolu,Kozmetik,Güneş Kremi,3,467.16,0.1,59.9,Havale/EFT,VIP,4.0,2.0,Evet,0.357,1321.23
+SIP100710,MUS1377,2024-04-19 18:44:00,Adana,Akdeniz,Ofis,Not Tutucu,1,124.63,0.15,39.9,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.308,145.84
+SIP100606,MUS1103,2025-08-19 22:42:00,Adana,Akdeniz,Elektronik,Akıllı Saat,5,3258.32,0.1,49.9,Banka Kartı,Yeni,4.0,3.0,Evet,0.34,14712.34
+SIP101288,MUS1176,2025-03-24 09:57:00,İzmir,Ege,Ev ve Yaşam,Termos,4,538.82,0.0,29.9,Banka Kartı,VIP,5.0,5.0,Hayır,0.383,2185.18
+SIP100187,MUS1170,2025-10-24 11:18:00,Antalya,Akdeniz,Ofis,Defter Seti,1,153.97,,59.9,Kredi Kartı,Mevcut,6.0,2.0,Hayır,0.33,213.87
+SIP100778,MUS1061,2025-06-19 20:21:00,İstanbul,Marmara,Spor,Spor Çantası,2,894.07,0.15,0.0,Kredi Kartı,Yeni,3.0,4.0,Hayır,0.257,1519.92
+SIP101376,MUS1262,2025-05-01 21:00:00,Konya,İç Anadolu,Ev ve Yaşam,Masa Lambası,2,610.51,0.0,49.9,Kredi Kartı,VIP,3.0,5.0,Evet,0.345,1270.92
+SIP101204,MUS1130,2025-10-09 21:04:00,İstanbul,Marmara,Ofis,Mouse Pad,1,181.1,0.1,39.9,Kredi Kartı,VIP,6.0,4.0,Hayır,0.317,202.89
+SIP100010,MUS1336,2024-03-08 11:58:00,Mersin,Akdeniz,Spor,Suluk,1,210.85,0.0,29.9,Dijital Cüzdan,mevcut,4.0,4.0,Hayır,0.258,240.75
+SIP100011,MUS1300,2024-05-26 12:08:00,Bursa,Marmara,Kitap,Zaman Yönetimi,3,172.4,0.05,29.9,,Mevcut,,4.0,Hayır,0.365,521.24
+SIP100234,MUS1204,2025-03-03 22:53:00,Gaziantep,Güneydoğu Anadolu,Elektronik,Bluetooth Hoparlör,1,1220.47,0.05,49.9,Kredi Kartı,VIP,2.0,3.0,Hayır,0.267,1209.35
+SIP101078,MUS1283,2025-02-02 10:22:00,Eskişehir,İç Anadolu,Ev ve Yaşam,Saklama Kutusu,2,243.74,0.0,49.9,Kapıda Ödeme,Mevcut,4.0,4.0,Hayır,0.189,537.38
+SIP100722,MUS1401,2025-09-02 10:45:00,Samsun,Karadeniz,Kozmetik,Yüz Temizleme Jeli,2,300.97,0.0,49.9,Kredi Kartı,VIP,4.0,4.0,Hayır,0.364,651.84
+SIP100631,MUS1290,2024-06-12 14:35:00,,Marmara,Kozmetik,Serum,5,540.85,0.15,49.9,Kredi Kartı,Mevcut,5.0,5.0,Hayır,0.29,2348.51
+SIP100871,MUS1378,2024-04-15 18:54:00,İzmir,Ege,Ofis,Defter Seti,2,163.77,0.15,0.0,Havale/EFT,VIP,2.0,4.0,Hayır,0.395,278.41
+SIP100747,MUS1085,2024-03-23 14:57:00,İstanbul,Marmara,Spor,Yoga Matı,2,746.28,0.15,49.9,Kredi Kartı,VIP,3.0,5.0,Evet,0.23,1318.58
+SIP101211,MUS1068,2025-10-21 20:54:00,Antalya,Akdeniz,Ofis,Defter Seti,4,148.57,0.0,29.9,Banka Kartı,Yeni,3.0,4.0,Hayır,0.222,624.18
+SIP100556,MUS1358,2025-04-23 21:34:00,Ankara,İç Anadolu,Ofis,Not Tutucu,3,130.5,0.15,49.9,Dijital Cüzdan,Mevcut,4.0,4.0,Hayır,0.3,382.67
+SIP100290,MUS1171,2025-09-23 11:29:00,Gaziantep,Güneydoğu Anadolu,Spor,Spor Çantası,27,816.16,0.1,39.9,Kredi Kartı,Yeni,,4.0,Hayır,0.396,19872.59
+SIP100729,MUS1313,2025-04-27 17:31:00,Istanbul,Marmara,Ev ve Yaşam,Termos,1,529.62,0.15,39.9,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.384,490.08
+SIP100428,MUS1177,2024-01-19 18:00:00,Eskişehir,İç Anadolu,Kozmetik,Nemlendirici,2,424.78,0.0,39.9,Banka Kartı,Yeni,1.0,5.0,Hayır,0.417,889.46
+SIP100562,MUS1036,2024-10-18 18:47:00,Bursa,Marmara,Kozmetik,Güneş Kremi,4,432.97,0.0,59.9,Banka Kartı,Yeni,5.0,2.0,Hayır,0.411,1791.78
+SIP100794,MUS1051,2024-05-05 12:31:00,İstanbul,Marmara,Spor,Yoga Matı,4,671.81,0.1,39.9,Kredi Kartı,Mevcut,1.0,4.0,Hayır,0.192,2458.42
+SIP101046,MUS1434,2025-01-24 17:47:00,Antalya,Akdeniz,Ev ve Yaşam,Saklama Kutusu,2,215.13,0.1,39.9,Kredi Kartı,Yeni,2.0,3.0,Hayır,0.279,427.13
+SIP101343,MUS1238,2024-10-21 14:28:00,Ankara,İç Anadolu,Ev ve Yaşam,Termos,3,504.47,0.15,49.9,Kredi Kartı,Mevcut,5.0,3.0,Hayır,0.369,1336.3
+SIP100966,MUS1140,2025-03-12 15:29:00,Bursa,Marmara,Kozmetik,Güneş Kremi,1,475.23,0.0,0.0,Kredi Kartı,Mevcut,,4.0,Hayır,0.267,475.23
+SIP100122,MUS1371,2024-04-27 15:04:00,Trabzon,Karadeniz,Ofis,Mouse Pad,2,185.26,0.0,59.9,Kredi Kartı,VIP,3.0,2.0,Hayır,0.323,430.42
+SIP100657,MUS1099,2024-01-24 17:48:00,Bursa,Marmara,Kitap,İş Analitiği Rehberi,1,288.94,0.0,39.9,Kredi Kartı,VIP,4.0,5.0,Hayır,0.372,328.84
+SIP100947,MUS1075,2025-06-09 18:48:00,istanbul,Marmara,kozmetık,Şampuan,1,203.96,0.05,59.9,Kredi Kartı,Mevcut,2.0,1.0,Hayır,0.253,253.66
+SIP100768,MUS1353,2024-05-07 18:42:00,Ankara,İç Anadolu,Kitap,Zaman Yönetimi,2,162.13,,29.9,Dijital Cüzdan,Mevcut,4.0,4.0,Hayır,0.379,354.16
+SIP100152,MUS1204,2025-12-21 11:32:00,İstanbul,Marmara,Spor,Spor Çantası,1,868.86,0.0,0.0,banka karti,Mevcut,2.0,3.0,Hayır,0.3,868.86
+SIP100113,MUS1074,2025-09-16 21:24:00,İstanbul,Marmara,Ev ve Yaşam,Termos,2,484.06,0.15,39.9,Banka Kartı,Yeni,4.0,2.0,Hayır,0.22,862.8
+SIP101042,MUS1325,2025-11-12 15:57:00,Kocaeli,Marmara,Ev ve Yaşam,Saklama Kutusu,1,242.95,0.2,29.9,Banka Kartı,Mevcut,5.0,1.0,Hayır,0.219,224.26
+SIP100424,MUS1074,2024-07-24 13:26:00,İzmir,Ege,Ev ve Yaşam,Masa Lambası,1,612.53,0.0,39.9,Dijital Cüzdan,VIP,3.0,5.0,Hayır,0.195,652.43
+SIP101146,MUS1117,2025-07-21 19:53:00,İzmir,Ege,Spor,Direnç Bandı,1,271.94,0.15,49.9,Kredi Kartı,Mevcut,4.0,1.0,Hayır,0.225,281.05
+SIP100131,MUS1446,2024-07-29 09:53:00,Ankara,İç Anadolu,Ev ve Yaşam,Organizer,4,299.85,0.0,39.9,Havale/EFT,Yeni,4.0,3.0,Hayır,0.376,1239.3
+SIP100462,MUS1281,2025-02-26 17:44:00,İzmir,Ege,Ev ve Yaşam,Masa Lambası,1,653.86,0.2,49.9,Dijital Cüzdan,Mevcut,6.0,5.0,Hayır,0.196,572.99
+SIP101177,MUS1296,2025-09-07 14:13:00,İzmir,Ege,Kozmetik,Nemlendirici,1,359.18,0.1,39.9,Kredi Kartı,VIP,4.0,5.0,Hayır,0.345,363.16
+SIP100134,MUS1304,2025-06-22 09:47:00,Ankara,İç Anadolu,Ev ve Yaşam,Kahve Kupası,1,175.09,0.1,39.9,Kredi Kartı,Mevcut,5.0,2.0,Hayır,0.233,197.48
+SIP100001,MUS1045,2024-09-07 11:08:00,Konya,İç Anadolu,Elektronik,Webcam,1,975.31,0.05,29.9,Havale/EFT,Mevcut,4.0,5.0,Hayır,0.185,956.44
+SIP101029,MUS1142,2024-04-21 21:40:00,İzmir,Ege,Kitap,Girişimcilik,4,187.67,0.1,49.9,Kredi Kartı,Yeni,2.0,4.0,Hayır,0.409,725.51
+SIP101340,MUS1020,2024-01-04 14:04:00,Kayseri,İç Anadolu,Kozmetik,Nemlendirici,2,375.92,0.0,49.9,Kredi Kartı,Mevcut,,5.0,Hayır,0.259,801.74
+SIP101352,MUS1118,2025-05-28 14:50:00,Gaziantep,Güneydoğu Anadolu,Kozmetik,Yüz Temizleme Jeli,3,322.28,0.15,49.9,Kredi Kartı,Yeni,1.0,5.0,Hayır,0.414,871.71
+SIP100700,MUS1233,2025-12-13 10:16:00,Antalya,Akdeniz,Ev ve Yaşam,Termos,5,524.67,0.0,29.9,Kredi Kartı,Mevcut,3.0,3.0,Evet,0.319,2653.25
+SIP100938,MUS1172,2024-01-29 15:27:00,Ankara,İç Anadolu,Kitap,Veri Bilimi 101,2,242.33,0.0,49.9,Kapıda Ödeme,Mevcut,2.0,4.0,Hayır,0.35,534.56
+SIP100876,MUS1345,2024-05-14 22:18:00,Kayseri,İç Anadolu,kitap,Zaman Yönetimi,1,161.94,0.0,29.9,Havale/EFT,Mevcut,4.0,5.0,Hayır,0.18,191.84
+SIP100889,MUS1152,2025-08-11 08:40:00,İzmir,Ege,Elektronik,Bluetooth Hoparlör,3,1237.42,0.15,39.9,Dijital Cüzdan,Mevcut,3.0,4.0,Hayır,0.225,3195.32
+SIP101227,MUS1026,2025-05-29 14:32:00,İzmir,Ege,Ev ve Yaşam,Kahve Kupası,2,193.19,0.05,59.9,Kredi Kartı,Mevcut,5.0,3.0,Hayır,0.247,426.96
+SIP100412,MUS1157,2025-10-24 10:38:00,Adana,Akdeniz,Spor,Dambıl Seti,2,1511.59,0.0,49.9,Kapıda Ödeme,Yeni,6.0,5.0,Hayır,0.403,3073.08
+SIP100323,MUS1250,2025-06-11 19:17:00,Kocaeli,Marmara,Elektronik,Akıllı Saat,5,3076.47,0.0,49.9,Havale/EFT,Mevcut,3.0,5.0,Hayır,0.21,15432.25
+SIP100002,MUS1333,2024-04-05 11:14:00,Antalya,Akdeniz,Elektronik,Kablosuz Kulaklık,5,1482.34,0.0,29.9,Kredi Kartı,Yeni,5.0,4.0,Hayır,0.306,7441.6
+SIP100909,MUS1396,2025-10-23 09:55:00,Samsun,Karadeniz,Spor,Suluk,2,206.28,0.0,29.9,Kredi Kartı,Yeni,3.0,,Hayır,0.382,442.46
+SIP100436,MUS1426,2024-04-26 20:06:00,Gaziantep,Güneydoğu Anadolu,Elektronik,Webcam,1,883.45,0.0,39.9,Kredi Kartı,mevcut,4.0,5.0,Hayır,0.19,923.35
+SIP100453,MUS1423,2025-06-04 16:13:00,Konya,İç Anadolu,Kozmetik,Güneş Kremi,2,434.83,0.0,49.9,Banka Kartı,Mevcut,3.0,5.0,Hayır,0.338,919.56
+SIP100039,MUS1354,2025-07-18 19:27:00,Trabzon,Karadeniz,Ev ve Yaşam,Kahve Kupası,2,183.97,0.0,39.9,Banka Kartı,Yeni,3.0,2.0,Hayır,0.298,407.84
+SIP100184,MUS1417,2025-08-18 19:48:00,İstanbul,Marmara,Ev ve Yaşam,Termos,2,500.08,0.1,29.9,Kredi Kartı,Yeni,1.0,4.0,Hayır,0.242,930.04
+SIP100218,MUS1314,2025-04-30 16:29:00,İstanbul,Marmara,Kitap,İş Analitiği Rehberi,5,278.9,0.2,49.9,Kredi Kartı,VIP,5.0,4.0,Hayır,0.36,1165.5
+SIP100887,MUS1016,2025-02-23 22:29:00,İstanbul,Marmara,spor,Direnç Bandı,2,245.08,0.05,49.9,Dijital Cüzdan,Mevcut,3.0,2.0,Hayır,0.299,515.55
+SIP100855,MUS1062,2025-02-01 20:25:00,İstanbul,Marmara,Ev ve Yaşam,Masa Lambası,1,592.49,0.15,49.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.381,553.52
+SIP100307,MUS1271,2025-01-09 13:12:00,Antalya,Akdeniz,Kozmetik ,Nemlendirici,1,373.7,0.0,39.9,Kredi Kartı,Yeni,5.0,5.0,Hayır,0.277,413.6
+SIP100730,MUS1172,2024-05-19 15:46:00,İzmir,Ege,Spor,Suluk,2,200.23,0.15,59.9,Kredi Kartı,Yeni,4.0,4.0,Hayır,0.26,400.29
+SIP100441,MUS1225,2024-01-10 21:08:00,Gaziantep,Güneydoğu Anadolu,Elektronik,Kablosuz Kulaklık,1,1512.45,0.0,49.9,Banka Kartı,,2.0,4.0,Hayır,0.372,1562.35
+SIP100550,MUS1161,2025-08-08 14:54:00,Samsun,Karadeniz,Spor,Spor Çantası,3,920.88,0.0,39.9,Dijital Cüzdan,Yeni,5.0,5.0,Hayır,0.335,2802.54
+SIP100314,MUS1393,2024-08-18 16:18:00,İstanbul,Marmara,Elektronik,Webcam,1,1011.63,0.0,59.9,,Mevcut,2.0,4.0,Hayır,0.411,1071.53
+SIP100209,MUS1177,2025-09-13 10:20:00,Bursa,Marmara,Ev ve Yaşam,Saklama Kutusu,1,236.34,0.0,39.9,Kapıda Ödeme,Yeni,2.0,4.0,Hayır,0.289,276.24
+SIP100701,MUS1038,2025-12-09 22:42:00,Samsun,Karadeniz,Ofis,Not Tutucu,4,140.77,0.0,49.9,Havale/EFT,Yeni,2.0,4.0,Hayır,0.333,612.98
+SIP100332,MUS1370,2024-03-11 16:36:00,İstanbul,Marmara,Ev ve Yaşam,Masa Lambası,1,674.36,0.0,39.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.29,714.26
+SIP100037,MUS1251,2024-08-03 19:21:00,İstanbul,Marmara,Ofis,Kalem Seti,2,104.95,0.0,39.9,,Mevcut,2.0,,Hayır,0.218,249.8
+SIP100111,MUS1015,2025-10-10 19:55:00,Gaziantep,Güneydoğu Anadolu,Spor,Yoga Matı,1,639.84,0.15,29.9,Kredi Kartı,Yeni,1.0,4.0,Hayır,0.336,573.76
+SIP100977,MUS1244,2025-02-04 14:13:00,Kocaeli,Marmara,Kozmetik,Serum,5,505.02,0.15,59.9,Dijital Cüzdan,Yeni,6.0,5.0,Hayır,0.308,2206.24
+SIP101075,MUS1141,2025-01-06 22:21:00,İzmir,Ege,Ofis,Defter Seti,1,140.41,0.15,0.0,Havale/EFT,Yeni,3.0,3.0,Hayır,0.257,119.35
+SIP101143,MUS1241,2024-03-19 08:36:00,İzmir,Ege,Elektronik,Bluetooth Hoparlör,1,1249.08,0.0,39.9,Kapıda Ödeme,Mevcut,4.0,4.0,Hayır,0.344,1288.98
+SIP100746,MUS1034,2025-01-11 20:43:00,Eskişehir,İç Anadolu,Spor,Spor Çantası,5,915.92,0.1,39.9,Dijital Cüzdan,Mevcut,1.0,3.0,Hayır,0.215,4161.54
+SIP100996,MUS1421,2024-09-01 11:05:00,Kocaeli,Marmara,Ev ve Yaşam,Saklama Kutusu,1,241.81,0.0,39.9,kredi kartı,Yeni,4.0,4.0,Evet,0.341,281.71
+SIP100776,MUS1411,2025-12-07 21:33:00,İstanbul,Marmara,Kozmetik,Serum,4,583.25,0.1,49.9,,Mevcut,5.0,4.0,Hayır,0.208,2149.6
+SIP101053,MUS1201,2025-02-05 13:27:00,İstanbul,Marmara,Elektronik,Powerbank,1,760.18,0.05,49.9,Banka Kartı,VIP,2.0,5.0,Hayır,0.373,772.07
+SIP100714,MUS1333,2025-10-31 08:30:00,İstanbul,Marmara,Ev ve Yaşam,Kahve Kupası,21,193.89,0.0,39.9,Dijital Cüzdan,Mevcut,4.0,3.0,Hayır,0.417,4111.59
+SIP100578,MUS1098,2024-09-01 13:46:00,Konya,İç Anadolu,Ofis,Kalem Seti,1,103.27,0.0,0.0,Kredi Kartı,VIP,4.0,3.0,Hayır,0.386,103.27
+SIP101169,MUS1217,2025-04-29 11:03:00,İzmir,Ege,Ofis,Not Tutucu,1,123.2,0.0,49.9,kredi kartı,Yeni,3.0,5.0,Hayır,0.273,173.1
+SIP100434,MUS1155,2024-09-15 15:44:00,İzmir,Ege,Elektronik,Powerbank,1,855.38,0.1,29.9,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.233,799.74
+SIP100164,MUS1027,2025-01-16 22:18:00,Bursa,Marmara,Ev ve Yaşam,Saklama Kutusu,2,232.11,0.0,39.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.242,504.12
+SIP100264,MUS1123,2025-05-05 22:15:00,İstanbul,Marmara,Ev ve Yaşam,Termos,4,539.21,0.0,0.0,Havale/EFT,Mevcut,4.0,5.0,Hayır,0.253,2156.84
+SIP100232,MUS1103,2024-06-10 14:41:00,Kocaeli,Marmara,Elektronik,Powerbank,2,772.04,0.0,39.9,Dijital Cüzdan,Mevcut,2.0,2.0,Hayır,0.233,1583.98
+SIP100303,MUS1085,2025-12-28 09:01:00,Ankara,İç Anadolu,Ofis,Defter Seti,1,171.54,0.1,39.9,Kapıda Ödeme,Mevcut,4.0,3.0,Hayır,0.361,194.29
+SIP101028,MUS1447,2024-07-24 08:47:00,Antalya,Akdeniz,Ev ve Yaşam,Masa Lambası,1,703.66,0.0,49.9,Kredi Kartı,Mevcut,4.0,,Hayır,0.323,753.56
+SIP100176,MUS1198,2024-12-23 22:01:00,,Marmara,Ev ve Yaşam,Kahve Kupası,1,184.83,0.1,49.9,Kredi Kartı,Mevcut,5.0,5.0,Hayır,0.285,216.25
+SIP100999,MUS1007,2024-08-06 09:22:00,Samsun,Karadeniz,Elektronik,Bluetooth Hoparlör,3,1206.27,0.0,49.9,Kredi Kartı,Yeni,2.0,3.0,Hayır,0.197,3668.71
+SIP100150,MUS1029,2025-05-13 16:42:00,İzmir,Ege,Ofis,Kalem Seti,2,97.8,0.0,49.9,Kredi Kartı,Yeni,2.0,4.0,Hayır,0.289,245.5
+SIP101367,MUS1412,2025-01-15 17:41:00,Ankara,İç Anadolu,Ofis,Kalem Seti,2,96.68,0.0,49.9,Kredi Kartı,Yeni,4.0,2.0,Hayır,0.206,243.26
+SIP100976,MUS1323,2024-02-02 22:08:00,Ankara,İç Anadolu,Elektronik,Powerbank,2,749.52,0.0,29.9,Kredi Kartı,VIP,1.0,5.0,Hayır,0.339,1528.94
+SIP100072,MUS1435,2025-06-29 14:42:00,Trabzon,Karadeniz,Elektronik,Webcam,1,1024.17,0.0,39.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.36,1064.07
+SIP100169,MUS1260,2024-07-15 11:08:00,Samsun,Karadeniz,Ofis,Not Tutucu,1,127.02,0.15,39.9,Kredi Kartı,Yeni,2.0,3.0,Hayır,0.417,147.87
+SIP100456,MUS1131,2024-06-17 15:08:00,İzmir,Ege,Elektronik,Kablosuz Kulaklık,1,1617.74,0.0,49.9,Kapıda Ödeme,Mevcut,3.0,4.0,Hayır,0.205,1667.64
+SIP100090,MUS1077,2025-11-08 20:59:00,Adana,Akdeniz,Ofis,Kalem Seti,3,93.69,0.0,49.9,Kredi Kartı,Yeni,5.0,2.0,Hayır,0.317,330.97
+SIP100118,MUS1387,2025-09-13 20:22:00,Gaziantep,Güneydoğu Anadolu,Ofis,Mekanik Klavye,2,2212.39,0.0,29.9,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.213,4454.68
+SIP100488,MUS1281,2025-07-22 10:07:00,Konya,İç Anadolu,elektronik,Powerbank,1,921.36,0.0,39.9,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.241,961.26
+SIP100322,MUS1325,2024-05-25 17:40:00,Kayseri,İç Anadolu,Spor,Direnç Bandı,1,247.5,0.05,49.9,Kredi Kartı,Mevcut,2.0,1.0,Hayır,0.291,285.02
+SIP101332,MUS1307,2024-05-24 09:13:00,gaziantep,Güneydoğu Anadolu,Ev ve Yaşam,Saklama Kutusu,1,238.03,0.2,39.9,Banka Kartı,Mevcut,4.0,5.0,Hayır,0.402,230.32
+SIP100460,MUS1165,2024-06-26 19:52:00,Samsun,Karadeniz,Ev ve Yaşam,Organizer,1,265.15,0.15,39.9,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.374,265.28
+SIP101392,MUS1404,2024-03-29 10:20:00,İstanbul,Marmara,Elektronik,Bluetooth Hoparlör,2,1221.43,0.1,49.9,Banka Kartı,VIP,2.0,4.0,Hayır,0.214,2248.47
+SIP101038,MUS1293,2025-01-29 12:38:00,Trabzon,Karadeniz,Kitap,Veri Bilimi 101,3,247.61,0.05,39.9,,Yeni,2.0,5.0,Hayır,0.363,745.59
+SIP101099,MUS1128,2024-03-25 20:27:00,Bursa,Marmara,Ofis,Not Tutucu,1,130.04,0.0,39.9,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.249,169.94
+SIP100242,MUS1383,2025-01-11 17:14:00,Adana,Akdeniz,Kitap,İş Analitiği Rehberi,1,309.04,0.0,49.9,Kredi Kartı,Yeni,3.0,3.0,Hayır,0.316,358.94
+SIP100699,MUS1332,2025-12-26 09:05:00,İstanbul,Marmara,Kozmetik,Yüz Temizleme Jeli,1,319.19,0.0,39.9,Kapıda Ödeme,Yeni,3.0,4.0,Hayır,0.22,359.09
+SIP100915,MUS1051,2024-03-01 17:20:00,,Karadeniz,Kitap,Python Notları,1,218.17,0.1,59.9,Kredi Kartı,Mevcut,5.0,4.0,Hayır,0.18,256.25
+SIP101371,MUS1099,2024-03-09 13:40:00,Konya,İç Anadolu,Kozmetik,Nemlendirici,1,404.88,0.0,39.9,Banka Kartı,Yeni,3.0,5.0,Hayır,0.267,444.78
+SIP100703,MUS1112,2025-02-06 10:41:00,Bursa,Marmara,Ev ve Yaşam,Organizer,3,279.87,0.0,49.9,Kredi Kartı,Yeni,2.0,3.0,Hayır,0.202,889.51
+SIP100585,MUS1360,2025-03-01 19:06:00,Samsun,Karadeniz,Kozmetik,Serum,1,511.58,0.05,39.9,Havale/EFT,Mevcut,4.0,5.0,Hayır,0.272,525.9
+SIP100693,MUS1446,2024-08-27 14:43:00,Ankara,İç Anadolu,Kitap,Girişimcilik,1,224.37,0.0,49.9,Havale/EFT,,1.0,4.0,Hayır,0.363,274.27
+SIP100271,MUS1317,2024-03-10 19:09:00,,Marmara,ev ve yaşam,Masa Lambası,2,638.03,0.05,29.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.408,1242.16
+SIP100112,MUS1406,2025-01-02 13:27:00,İstanbul,Marmara,Elektronik,Webcam,3,817.49,0.0,59.9,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.323,2512.37
+SIP100596,MUS1345,2025-07-06 17:09:00,Ankara,İç Anadolu,Elektronik ,Webcam,2,958.21,0.0,49.9,Kart,Mevcut,5.0,3.0,Hayır,0.36,1966.32
+SIP100786,MUS1161,2024-12-29 14:27:00,İzmir,Ege,Elektronik,Bluetooth Hoparlör,3,1189.59,0.15,49.9,Kredi Kartı,Yeni,4.0,5.0,Hayır,0.217,3083.35
+SIP100517,MUS1364,2024-03-26 12:38:00,İstanbul,Marmara,Spor,Dambıl Seti,1,1456.36,,29.9,Dijital Cüzdan,Mevcut,5.0,2.0,Hayır,0.294,1486.26
+SIP100227,MUS1408,2025-12-07 19:31:00,Kocaeli,Marmara,Kitap,Python Notları,1,239.29,0.0,49.9,Kredi Kartı,Yeni,1.0,3.0,Hayır,0.253,289.19
+SIP100497,MUS1279,2025-08-15 14:49:00,Bursa,Marmara,Elektronik,Powerbank,1,821.16,0.05,49.9,Banka Kartı,VIP,5.0,4.0,Hayır,0.262,830.0
+SIP100842,MUS1134,2025-11-18 13:08:00,Konya,İç Anadolu,Ofis,Not Tutucu,1,131.35,0.0,29.9,Dijital Cüzdan,Mevcut,3.0,5.0,Hayır,0.238,161.25
+SIP100499,MUS1435,2025-05-28 16:05:00,Kayseri,İç Anadolu,Ev ve Yaşam,Kahve Kupası,3,173.51,0.0,49.9,Kredi Kartı,Mevcut,1.0,1.0,Hayır,0.31,570.43
+SIP100221,MUS1296,2025-09-03 15:16:00,Kayseri,İç Anadolu,Kitap,Veri Bilimi 101,1,272.69,0.15,59.9,Dijital Cüzdan,Mevcut,5.0,4.0,Hayır,0.382,291.69
+SIP101203,MUS1220,2025-09-02 19:17:00,Bursa,Marmara,Spor,Direnç Bandı,1,247.36,0.0,39.9,Kapıda Ödeme,Mevcut,2.0,4.0,Hayır,0.22,287.26
+SIP100196,MUS1070,2024-08-07 17:18:00,Ankara,İç Anadolu,Ofis,Not Tutucu,4,140.69,0.05,49.9,Havale/EFT,VIP,1.0,2.0,Hayır,0.361,584.52
+SIP100337,MUS1163,2025-10-15 17:04:00,İzmir,Ege,Ev ve Yaşam,Kahve Kupası,1,187.68,0.0,49.9,Banka Kartı,VIP,3.0,,Hayır,0.182,237.58
+SIP100978,MUS1017,2025-10-16 22:19:00,İstanbul,Marmara,Kozmetik,Şampuan,4,175.46,0.0,49.9,Kredi Kartı,Yeni,1.0,5.0,Hayır,0.417,751.74
+SIP100921,MUS1349,2024-01-01 08:59:00,Konya,İç Anadolu,Kitap,Python Notları,4,234.28,0.1,39.9,Dijital Cüzdan,Yeni,1.0,5.0,Hayır,0.34,883.31
+SIP101018,MUS1395,2025-01-29 22:36:00,İzmir,Ege,Elektronik,Kablosuz Kulaklık,2,1458.69,0.05,39.9,,Mevcut,3.0,3.0,Hayır,0.183,2811.41
+SIP101089,MUS1324,2024-04-30 12:19:00,Eskişehir,İç Anadolu,Ev ve Yaşam,Organizer,2,250.07,0.05,39.9,Kredi Kartı,Yeni,1.0,4.0,Evet,0.2,515.03
+SIP100946,MUS1031,2025-05-07 19:39:00,Bursa,Marmara,Ofis,Not Tutucu,2,135.41,0.0,59.9,Kredi Kartı,Yeni,3.0,4.0,Hayır,0.285,330.72
+SIP100974,MUS1338,2025-08-14 21:08:00,Antalya,Akdeniz,Ofis,Mekanik Klavye,1,2183.6,0.05,39.9,,Mevcut,5.0,4.0,Hayır,0.317,2114.32
+SIP100138,MUS1437,2024-10-28 15:32:00,Ankara,İç Anadolu,Kozmetik,Serum,1,515.53,0.0,49.9,Banka Kartı,Yeni,4.0,3.0,Hayır,0.376,565.43
+SIP100313,MUS1390,2025-12-28 21:28:00,İzmir,Ege,Spor,Direnç Bandı,3,227.12,0.1,39.9,Kredi Kartı,Yeni,3.0,4.0,Evet,0.382,653.12
+SIP100529,MUS1207,2024-12-22 13:52:00,Ankara,İç Anadolu,Kozmetik,Serum,4,559.47,0.0,29.9,Kredi Kartı,Mevcut,1.0,4.0,Hayır,0.417,2267.78
+SIP100508,MUS1021,2024-09-06 08:08:00,Konya,İç Anadolu,Spor,Yoga Matı,3,714.18,0.05,29.9,Banka Kartı,Yeni,4.0,5.0,Hayır,0.314,2065.31
+SIP100957,MUS1410,2025-04-12 11:23:00,Ankara,İç Anadolu,Ev ve Yaşam,Saklama Kutusu,3,248.32,0.0,59.9,Kapıda Ödeme,Mevcut,4.0,4.0,Hayır,0.243,804.86
+SIP100394,MUS1420,2025-07-08 14:48:00,Adana,Akdeniz,Elektronik,Webcam,3,916.44,0.0,59.9,Banka Kartı,Mevcut,5.0,4.0,Hayır,0.31,2809.22
+SIP100383,MUS1403,2025-04-02 08:16:00,Mersin,Akdeniz,Kitap,İş Analitiği Rehberi,5,271.45,0.05,0.0,Kredi Kartı,Mevcut,5.0,,Hayır,0.227,1289.39
+SIP100222,MUS1076,2025-05-06 10:33:00,İstanbul,Marmara,Elektronik,Powerbank,3,845.27,0.0,49.9,banka karti,Mevcut,2.0,5.0,Hayır,0.405,2585.71
+SIP100757,MUS1342,2025-04-30 22:18:00,Ankara,İç Anadolu,Kitap,İş Analitiği Rehberi,1,287.01,0.1,39.9,Dijital Cüzdan,Mevcut,5.0,3.0,Hayır,0.378,298.21
+SIP100410,MUS1110,2024-10-18 08:24:00,İstanbul,Marmara,ofis,Defter Seti,2,135.85,0.1,49.9,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.189,294.43
+SIP100678,MUS1337,2024-05-17 08:04:00,Trabzon,Karadeniz,kitap,Python Notları,1,228.66,0.0,29.9,Banka Kartı,Yeni,5.0,3.0,Hayır,0.194,258.56
+SIP100953,MUS1016,2025-02-13 10:52:00,Mersin,Akdeniz,Spor,Dambıl Seti,3,1504.72,0.15,49.9,Dijital Cüzdan,Mevcut,1.0,5.0,Evet,0.318,3886.94
+SIP100329,MUS1068,2025-03-15 18:05:00,İzmir,Ege,Ofis,Mekanik Klavye,1,2200.06,0.1,49.9,Havale/EFT,Yeni,4.0,5.0,Hayır,0.273,2029.95
+SIP100013,MUS1284,2025-09-02 09:24:00,İstanbul,Marmara,Ev ve Yaşam,Kahve Kupası,1,192.71,0.0,39.9,Kredi Kartı,VIP,2.0,2.0,Hayır,0.25,232.61
+SIP100086,MUS1227,2025-09-02 20:39:00,Antalya,Akdeniz,Spor,Spor Çantası,3,838.82,0.0,49.9,Kredi Kartı,Mevcut,6.0,5.0,Hayır,0.306,2566.36
+SIP100084,MUS1038,2024-02-22 12:55:00,Bursa,Marmara,Ofis,Mekanik Klavye,2,2184.73,0.0,0.0,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.412,4369.46
+SIP100207,MUS1329,2025-03-02 17:40:00,Ankara,İç Anadolu,Ev ve Yaşam,Organizer,1,265.3,0.0,29.9,Kredi Kartı,VIP,3.0,3.0,Hayır,0.268,295.2
+SIP100104,MUS1283,2025-11-06 15:55:00,Ankara,İç Anadolu,Kozmetik,Serum,2,482.52,0.0,49.9,Kredi Kartı,Mevcut,3.0,1.0,Hayır,0.205,1014.94
+SIP100859,MUS1411,2025-10-06 18:33:00,Gaziantep,Güneydoğu Anadolu,Spor,Spor Çantası,4,885.64,0.15,39.9,Kredi Kartı,Mevcut,2.0,4.0,Evet,0.258,3051.08
+SIP100310,MUS1250,2025-06-07 14:26:00,İstanbul,Marmara,Kitap,Python Notları,2,227.45,0.1,49.9,Banka Kartı,mevcut,1.0,4.0,Hayır,0.305,459.31
+SIP100994,MUS1268,2025-11-22 16:13:00,Ankara,İç Anadolu,Ev ve Yaşam,Termos,4,507.87,0.0,29.9,Kredi Kartı,Yeni,4.0,4.0,Hayır,0.306,2061.38
+SIP100735,MUS1202,2024-02-15 08:30:00,Eskişehir,İç Anadolu,Elektronik,Akıllı Saat,1,2770.35,0.15,29.9,Havale/EFT,mevcut,3.0,5.0,Hayır,0.257,2384.7
+SIP101254,MUS1414,2024-02-24 20:54:00,Konya,İç Anadolu,Kozmetik,Güneş Kremi,2,477.68,0.05,39.9,Kredi Kartı,Mevcut,3.0,5.0,Evet,0.298,947.49
+SIP100181,MUS1124,2025-08-11 11:45:00,Antalya,Akdeniz,Kitap,Girişimcilik,5,185.87,0.0,49.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.194,979.25
+SIP100804,MUS1217,2024-12-11 10:01:00,İstanbul,Marmara,Ofis,Defter Seti,2,156.26,0.15,49.9,Banka Kartı,Yeni,3.0,4.0,Hayır,0.359,315.54
+SIP100695,MUS1336,2025-10-29 21:17:00,Konya,İç Anadolu,Spor,Spor Çantası,1,957.62,0.1,39.9,Kredi Kartı,Yeni,5.0,3.0,Hayır,0.378,901.76
+SIP101341,MUS1093,2025-01-24 18:37:00,İzmir,Ege,Ofis,Kalem Seti,1,104.45,0.0,59.9,Kredi Kartı,Yeni,1.0,5.0,Hayır,0.409,164.35
+SIP101383,MUS1357,2025-09-13 12:02:00,Eskişehir,İç Anadolu,Kozmetik,Yüz Temizleme Jeli,3,301.98,0.15,59.9,Banka Kartı,Mevcut,2.0,4.0,Hayır,0.234,829.95
+SIP100498,MUS1376,2025-10-31 20:09:00,Eskişehir,İç Anadolu,Kozmetik,Şampuan,1,194.56,0.15,49.9,Kredi Kartı,yeni,1.0,3.0,Hayır,0.276,215.28
+SIP100317,MUS1398,2024-09-26 13:55:00,Kayseri,İç Anadolu,Elektronik,Akıllı Saat,1,3107.16,0.05,39.9,Kapıda Ödeme,Mevcut,1.0,4.0,Hayır,0.269,2991.7
+SIP100142,MUS1445,2025-11-17 09:26:00,Samsun,Karadeniz,Kozmetik,Güneş Kremi,2,461.71,0.0,59.9,Kart,Mevcut,3.0,5.0,Hayır,0.413,983.32
+SIP101154,MUS1245,2024-04-13 16:51:00,Ankara,İç Anadolu,Kitap,Girişimcilik,1,180.77,0.05,0.0,Havale/EFT,Yeni,1.0,3.0,Hayır,0.407,171.73
+SIP100328,MUS1027,2025-11-01 13:16:00,Samsun,Karadeniz,Ofis,Defter Seti,3,167.85,0.2,29.9,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.234,432.74
+SIP100625,MUS1392,2025-06-15 16:25:00,İzmir,Ege,Elektronik,Bluetooth Hoparlör,1,1312.49,0.15,39.9,Dijital Cüzdan,Yeni,4.0,2.0,Hayır,0.273,1155.52
+SIP100661,MUS1304,2025-01-27 08:05:00,Eskişehir,İç Anadolu,Elektronik,Kablosuz Kulaklık,1,1560.37,0.15,29.9,Kredi Kartı,Yeni,4.0,4.0,Hayır,0.294,1356.21
+SIP100347,MUS1442,2025-11-21 19:07:00,İstanbul,Marmara,Elektronik,Powerbank,1,890.28,0.1,29.9,Kredi Kartı,mevcut,3.0,4.0,Evet,0.282,697.63
+SIP100829,MUS1329,2025-07-14 19:20:00,İstanbul,Marmara,Spor,Spor Çantası,3,874.88,0.0,49.9,,Yeni,5.0,3.0,Evet,0.257,2674.54
+SIP100928,MUS1064,2025-01-01 14:11:00,Trabzon,Karadeniz,Spor,Spor Çantası,3,897.88,0.0,59.9,Kapıda Ödeme,Mevcut,4.0,2.0,Hayır,0.391,2753.54
+SIP100211,MUS1417,2025-01-28 21:39:00,İstanbul,Marmara,Elektronik,Webcam,1,894.56,0.1,59.9,Kredi Kartı,VIP,5.0,4.0,Hayır,0.241,865.0
+SIP100568,MUS1107,2024-02-04 11:29:00,İzmir,Ege,Spor,Dambıl Seti,1,1459.29,0.0,29.9,Havale/EFT,Yeni,3.0,5.0,Hayır,0.383,1489.19
+SIP100143,MUS1247,2025-09-06 12:22:00,Eskişehir,İç Anadolu,Elektronik,Webcam,3,917.81,0.0,29.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.344,2783.33
+SIP100515,MUS1411,2025-03-06 13:55:00,Adana,Akdeniz,Spor,Spor Çantası,1,881.76,0.0,49.9,Kredi Kartı,Mevcut,5.0,4.0,Hayır,0.263,931.66
+SIP100363,MUS1206,2024-01-13 08:53:00,İstanbul,Marmara,Ev ve Yaşam,Termos,1,534.44,0.05,49.9,Havale/EFT,Yeni,2.0,4.0,Hayır,0.36,557.62
+SIP100005,MUS1317,2025-07-03 09:59:00,Konya,İç Anadolu,Elektronik,Akıllı Saat,5,2979.23,0.0,49.9,,Mevcut,2.0,4.0,Hayır,0.188,14946.05
+SIP100045,MUS1329,2025-02-12 13:17:00,İstanbul,Marmara,Elektronik,Bluetooth Hoparlör,3,1196.85,0.0,49.9,Kapıda Ödeme,VIP,1.0,5.0,Hayır,0.262,3640.45
+SIP100865,MUS1245,2025-03-20 16:01:00,Ankara,İç Anadolu,Kitap,Veri Bilimi 101,1,245.68,0.15,39.9,Kredi Kartı,Yeni,3.0,4.0,Hayır,0.418,248.73
+SIP100282,MUS1016,2025-09-11 20:39:00,ankara,İç Anadolu,Elektronik,Webcam,1,871.94,0.05,29.9,Dijital Cüzdan,Mevcut,4.0,1.0,Hayır,0.281,858.24
+SIP100892,MUS1369,2024-07-21 22:19:00,Adana,Akdeniz,Kitap,Zaman Yönetimi,5,158.42,0.05,29.9,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.309,782.39
+SIP100203,MUS1178,2025-06-14 10:19:00,İzmir,Ege,Elektronik,Kablosuz Kulaklık,5,1667.02,0.0,39.9,Kredi Kartı,Yeni,1.0,3.0,Hayır,0.334,8375.0
+SIP100815,MUS1015,2024-09-19 18:38:00,Ankara,İç Anadolu,Ofis,Mekanik Klavye,1,1976.87,0.0,59.9,Kredi Kartı,Yeni,2.0,3.0,Hayır,0.219,2036.77
+SIP101069,MUS1122,2025-09-12 16:32:00,Adana,Akdeniz,Kozmetik,Güneş Kremi,2,487.21,0.0,49.9,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.185,1024.32
+SIP100878,MUS1108,2025-05-18 09:50:00,İstanbul,Marmara,Ev ve Yaşam,Organizer,1,275.75,0.0,29.9,Kredi Kartı,VIP,2.0,5.0,Hayır,0.325,305.65
+SIP100359,MUS1395,2024-06-17 15:29:00,Antalya,Akdeniz,Ev ve Yaşam,Termos,2,478.83,0.15,29.9,Kredi Kartı,Yeni,2.0,,Hayır,0.341,843.91
+SIP100564,MUS1005,2024-01-23 10:06:00,İstanbul,Marmara,Elektronik,Powerbank,1,871.47,0.0,39.9,Kredi Kartı,Yeni,2.0,4.0,Hayır,0.305,911.37
+SIP101012,MUS1247,2024-10-19 17:28:00,İstanbul,Marmara,Ev ve Yaşam,Saklama Kutusu,1,222.73,0.0,49.9,Dijital Cüzdan,Yeni,,4.0,Hayır,0.273,307.78
+SIP100372,MUS1433,2024-08-12 17:54:00,Ankara,İç Anadolu,Kozmetik,Yüz Temizleme Jeli,2,297.6,0.1,29.9,Dijital Cüzdan,Mevcut,3.0,4.0,Hayır,0.327,565.58
+SIP101110,MUS1130,2025-06-30 19:09:00,Ankara,İç Anadolu,Spor,Dambıl Seti,1,1510.78,0.0,49.9,Kredi Kartı,yeni,2.0,5.0,Hayır,0.353,1560.68
+SIP101103,MUS1032,2024-11-09 19:40:00,İstanbul,Marmara,Spor,Spor Çantası,4,948.87,0.15,39.9,Dijital Cüzdan,Yeni,3.0,5.0,Hayır,0.35,3266.06
+SIP100891,MUS1227,2025-04-01 18:13:00,Konya,İç Anadolu,Ev ve Yaşam,Kahve Kupası,2,181.95,0.0,39.9,Dijital Cüzdan,Mevcut,6.0,4.0,Hayır,0.203,403.8
+SIP101299,MUS1386,2025-09-15 20:57:00,Antalya,Akdeniz,Ofis,Defter Seti,3,148.51,0.0,49.9,Kredi Kartı,Mevcut,1.0,3.0,Hayır,0.22,495.43
+SIP100238,MUS1045,2025-09-17 21:40:00,Antalya,Akdeniz,Ev ve Yaşam,Masa Lambası,1,685.33,0.2,29.9,Dijital Cüzdan,Mevcut,4.0,2.0,Hayır,0.248,578.16
+SIP100524,MUS1206,2024-08-15 13:05:00,İzmir,Ege,Elektronik,Webcam,2,918.95,0.05,29.9,Banka Kartı,Mevcut,6.0,2.0,Hayır,0.325,1775.91
+SIP100684,MUS1176,2025-12-01 18:34:00,Konya,İç Anadolu,Kitap,Veri Bilimi 101,1,246.29,0.15,39.9,Havale/EFT,Yeni,3.0,3.0,Evet,0.362,249.25
+SIP100274,MUS1408,2024-06-01 11:12:00,İstanbul,Marmara,elektronik,Powerbank,1,801.68,0.0,29.9,Banka Kartı,Yeni,1.0,3.0,Hayır,0.189,831.58
+SIP101180,MUS1146,2025-03-14 13:11:00,İstanbul,Marmara,Ev ve Yaşam,Kahve Kupası,3,170.28,0.0,0.0,Banka Kartı,Yeni,4.0,3.0,Hayır,0.318,510.84
+SIP100633,MUS1007,2024-04-30 22:08:00,Trabzon,Karadeniz,Ofis,Mekanik Klavye,1,2200.18,0.15,39.9,dijital cüzdan,Yeni,4.0,2.0,Hayır,0.413,1910.05
+SIP101047,MUS1303,2025-01-08 20:43:00,İzmir,Ege,Spor,Suluk,1,198.16,0.0,39.9,Dijital Cüzdan,Yeni,3.0,5.0,Hayır,0.284,238.06
+SIP100195,MUS1061,2024-04-26 08:47:00,Ankara,İç Anadolu,Ofis,Mekanik Klavye,1,2302.93,0.0,49.9,Kredi Kartı,Mevcut,2.0,3.0,Hayır,0.418,2352.83
+SIP100514,MUS1397,2024-04-05 15:42:00,Kocaeli,Marmara,Kozmetik,Yüz Temizleme Jeli,2,308.41,0.0,39.9,Kredi Kartı,Mevcut,4.0,3.0,Hayır,0.274,656.72
+SIP100615,MUS1395,2025-12-06 19:57:00,Mersin,Akdeniz,Ev ve Yaşam,Saklama Kutusu,5,255.28,0.1,39.9,Banka Kartı,Yeni,2.0,4.0,Hayır,0.362,1188.66
+SIP100432,MUS1395,2025-01-10 19:41:00,Antalya,Akdeniz,Ev ve Yaşam,Termos,2,495.22,0.0,39.9,Havale/EFT,Mevcut,4.0,3.0,Hayır,0.224,1030.34
+SIP100675,MUS1444,2024-01-01 19:35:00,istanbul,Marmara,Kozmetik,Yüz Temizleme Jeli,1,279.74,0.1,29.9,Kapıda Ödeme,Yeni,5.0,5.0,Hayır,0.288,281.67
+SIP101005,MUS1078,2024-09-06 17:05:00,Ankara,İç Anadolu,Kitap,Zaman Yönetimi,1,159.23,0.0,59.9,Kredi Kartı,Mevcut,4.0,4.0,Hayır,0.211,219.13
+SIP100210,MUS1127,2025-06-11 16:06:00,Trabzon,Karadeniz,Ev ve Yaşam,Saklama Kutusu,3,226.24,0.0,39.9,Kredi Kartı,Mevcut,,5.0,Hayır,0.294,718.62
+SIP100973,MUS1437,2024-07-11 14:49:00,Bursa,Marmara,Elektronik,Webcam,3,892.76,0.0,39.9,Dijital Cüzdan,Mevcut,6.0,4.0,Hayır,0.408,2718.18
+SIP100163,MUS1269,2025-05-31 18:11:00,İstanbul,Marmara,Ofis,Defter Seti,1,158.48,0.0,59.9,Kredi Kartı,Mevcut,1.0,5.0,Hayır,0.287,218.38
+SIP100636,MUS1296,2024-05-31 08:41:00,Mersin,Akdeniz,Elektronik,Bluetooth Hoparlör,2,1254.08,0.05,49.9,Kredi Kartı,Yeni,3.0,5.0,Evet,0.192,2432.65
+SIP101206,MUS1005,2024-03-15 11:42:00,Kocaeli,Marmara,Ofis,Mekanik Klavye,5,2139.53,0.0,29.9,Kredi Kartı,Yeni,3.0,4.0,Hayır,0.379,10727.55
+SIP101080,MUS1348,2024-02-24 22:46:00,İstanbul,Marmara,Kozmetik,Güneş Kremi,2,467.93,0.0,59.9,Banka Kartı,Mevcut,4.0,4.0,Hayır,0.255,995.76
+SIP100088,MUS1210,2025-11-07 09:10:00,İstanbul,Marmara,Ev ve Yaşam,Saklama Kutusu,2,241.08,0.0,49.9,Kredi Kartı,Mevcut,1.0,5.0,Hayır,0.33,532.06
+SIP100346,MUS1189,2025-05-23 15:32:00,ankara,İç Anadolu,Kozmetik,Yüz Temizleme Jeli,1,312.25,0.05,39.9,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.381,336.54
+SIP101115,MUS1152,2025-04-11 16:45:00,Antalya,Akdeniz,Elektronik,Powerbank,1,816.87,0.0,59.9,Havale,Yeni,3.0,,Hayır,0.272,876.77
+SIP101290,MUS1225,2024-01-16 21:46:00,Kocaeli,Marmara,Kozmetik,Yüz Temizleme Jeli,2,303.82,0.05,29.9,Kredi Kartı,Yeni,5.0,7.0,Evet,0.287,607.16
+SIP100910,MUS1028,2025-10-21 16:05:00,Adana,Akdeniz,Kozmetik,Yüz Temizleme Jeli,3,301.54,0.0,39.9,Kredi Kartı,Mevcut,3.0,3.0,Hayır,0.195,944.52
+SIP100718,MUS1357,2024-06-26 13:04:00,İstanbul,Marmara,Elektronik,Powerbank,3,873.32,0.0,49.9,Kredi Kartı,Yeni,5.0,4.0,Hayır,0.395,2669.86
+SIP100191,MUS1141,2025-04-02 08:46:00,İstanbul,Marmara,Spor,Suluk,1,201.68,0.05,39.9,Dijital Cüzdan,Yeni,2.0,4.0,Hayır,0.197,231.5
+SIP100753,MUS1079,2024-10-19 10:11:00,Konya,İç Anadolu,Ev ve Yaşam,Organizer,4,254.98,0.1,49.9,Kapıda Ödeme,Mevcut,2.0,5.0,Hayır,0.353,967.83
+SIP100179,MUS1155,2025-07-15 19:38:00,İstanbul,Marmara,Ev ve Yaşam,Masa Lambası,2,653.29,0.15,39.9,Banka Kartı,Yeni,3.0,4.0,Hayır,0.271,1150.49
+SIP100853,MUS1029,2024-05-12 11:55:00,Ankara,İç Anadolu,Kitap,Girişimcilik,2,194.33,0.0,49.9,Kredi Kartı,Mevcut,5.0,5.0,Hayır,0.261,438.56
+SIP100769,MUS1224,2024-10-10 15:04:00,Konya,İç Anadolu,Elektronik,Kablosuz Kulaklık,2,1598.76,0.15,39.9,Banka Kartı,Mevcut,4.0,4.0,Hayır,0.187,2757.79
+SIP100557,MUS1328,2025-04-12 18:47:00,Antalya,Akdeniz,Kozmetik,Serum,2,502.22,0.0,49.9,Banka Kartı,Mevcut,3.0,5.0,Hayır,0.36,1054.34
+SIP101073,MUS1162,2025-11-04 18:52:00,,Marmara,Ofis,Kalem Seti,2,106.61,0.0,49.9,Kredi Kartı,Yeni,2.0,3.0,Hayır,0.32,263.12
+SIP100393,MUS1357,2025-04-21 12:14:00,İzmir,Ege,Ofis,Not Tutucu,1,132.26,0.0,59.9,Kapıda Ödeme,Mevcut,3.0,2.0,Hayır,0.273,192.16
+SIP101220,MUS1286,2025-05-09 11:05:00,Bursa,Marmara,Ofis,Mouse Pad,1,166.56,0.0,29.9,Kredi Kartı,Yeni,3.0,4.0,Evet,0.383,196.46
+SIP100255,MUS1072,2025-02-15 15:14:00,İstanbul,Marmara,kitap,Veri Bilimi 101,1,244.09,0.05,49.9,Banka Kartı,Mevcut,2.0,5.0,Hayır,0.377,281.79
+SIP101370,MUS1032,2025-12-19 11:12:00,İstanbul,Marmara,Elektronik,Webcam,1,925.02,0.15,49.9,Havale/EFT,Mevcut,1.0,3.0,Hayır,0.316,836.17
+SIP100904,MUS1025,2024-10-28 15:01:00,İzmir,Ege,Ofis,Mouse Pad,5,180.5,0.0,39.9,Havale/EFT,Yeni,3.0,4.0,Hayır,0.317,942.4
+SIP101160,MUS1396,2024-03-10 12:36:00,İstanbul,Marmara,Ofis,Mekanik Klavye,1,2135.87,0.05,39.9,Kredi Kartı,Yeni,6.0,3.0,Hayır,0.276,2068.98
+SIP100745,MUS1273,2025-05-28 16:53:00,İzmir,Ege,Spor,Direnç Bandı,2,254.51,0.0,29.9,Kredi Kartı,Mevcut,5.0,3.0,Hayır,0.208,538.92
+SIP101048,MUS1113,2025-07-05 21:29:00,İstanbul,Marmara,Spor,Yoga Matı,1,687.29,0.05,49.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.223,702.83
+SIP100512,MUS1268,2025-08-27 09:14:00,Adana,Akdeniz,Spor,Spor Çantası,2,898.41,0.0,59.9,Kredi Kartı,Yeni,3.0,4.0,Evet,0.273,1856.72
+SIP101283,MUS1289,2025-11-10 22:56:00,İstanbul,Marmara,Kitap,İş Analitiği Rehberi,1,282.03,0.15,39.9,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.36,279.63
+SIP100472,MUS1285,2024-07-10 10:47:00,İzmir,Ege,Kitap,Veri Bilimi 101,1,265.66,0.1,29.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.223,268.99
+SIP100399,MUS1401,2025-04-14 22:55:00,Antalya,Akdeniz,Ofis,Kalem Seti,3,94.37,0.1,49.9,Kredi Kartı,Mevcut,2.0,3.0,Hayır,0.394,304.7
+SIP100036,MUS1284,2025-11-10 09:56:00,Adana,Akdeniz,Kozmetik,Güneş Kremi,1,432.65,0.05,49.9,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.414,460.92
+SIP100206,MUS1296,2024-02-12 21:55:00,Eskişehir,İç Anadolu,Ofis,Kalem Seti,1,94.4,0.05,0.0,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.328,89.68
+SIP100609,MUS1235,2024-11-19 15:55:00,Bursa,Marmara,Kitap,Veri Bilimi 101,4,275.71,0.0,49.9,Banka Kartı,Yeni,3.0,4.0,Hayır,0.401,1152.74
+SIP101226,MUS1182,2025-11-08 16:28:00,İstanbul,Marmara,Elektronik,Akıllı Saat,2,3059.5,0.0,39.9,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.275,6158.9
+SIP100045,MUS1329,2025-02-12 13:17:00,İstanbul,Marmara,Elektronik,Bluetooth Hoparlör,3,1196.85,0.0,49.9,Kapıda Ödeme,VIP,1.0,5.0,Hayır,0.262,3640.45
+SIP100430,MUS1251,2025-06-20 13:27:00,İzmir,Ege,Kozmetik,Serum,3,525.1,0.05,49.9,Dijital Cüzdan,VIP,1.0,3.0,Hayır,0.227,1546.44
+SIP101257,MUS1346,2025-06-12 10:35:00,Gaziantep,Güneydoğu Anadolu,Elektronik,Bluetooth Hoparlör,2,1151.34,0.1,39.9,Havale/EFT,Mevcut,3.0,4.0,Hayır,0.221,2112.31
+SIP100229,MUS1246,2024-10-21 19:05:00,Mersin,Akdeniz,Ofis,Defter Seti,1,154.13,0.0,49.9,Kredi Kartı,Mevcut,5.0,2.0,Hayır,0.321,204.03
+SIP101004,MUS1064,2025-05-30 17:45:00,Bursa,Marmara,Kitap,Python Notları,1,209.96,0.0,39.9,Dijital Cüzdan,Yeni,2.0,4.0,Hayır,0.245,249.86
+SIP101030,MUS1385,2024-08-28 15:31:00,İstanbul,Marmara,Elektronik,Powerbank,4,864.96,0.05,39.9,Banka Kartı,Yeni,5.0,3.0,Evet,0.282,3326.75
+SIP101387,MUS1345,2024-10-11 21:12:00,İstanbul,Marmara,Elektronik,Powerbank,1,781.22,0.15,29.9,Banka Kartı,Mevcut,6.0,3.0,Hayır,0.326,693.94
+SIP100381,MUS1328,2024-02-03 10:38:00,Samsun,Karadeniz,Spor,Spor Çantası,2,982.46,0.1,29.9,Kredi Kartı,Mevcut,2.0,3.0,Hayır,0.304,1798.33
+SIP100728,MUS1446,2024-08-23 20:07:00,İzmir,Ege,Kitap,İş Analitiği Rehberi,4,272.68,0.0,29.9,Kredi Kartı,Yeni,2.0,5.0,Hayır,0.362,1120.62
+SIP100319,MUS1361,2025-08-06 13:34:00,Kocaeli,Marmara,Ev ve Yaşam,Termos,2,508.7,0.1,49.9,Kredi Kartı,mevcut,,5.0,Hayır,0.357,965.56
+SIP100630,MUS1373,2024-04-26 19:28:00,Gaziantep,Güneydoğu Anadolu,Elektronik,Kablosuz Kulaklık,1,1395.16,0.1,49.9,Banka Kartı,Yeni,5.0,2.0,Hayır,0.268,1305.54
+SIP100926,MUS1042,2025-02-27 16:57:00,İstanbul,Marmara,Elektronik,Bluetooth Hoparlör,2,1215.13,0.1,49.9,Havale/EFT,Mevcut,3.0,5.0,Hayır,0.307,2237.13
+SIP100894,MUS1259,2025-07-06 17:16:00,Konya,İç Anadolu,Elektronik,Kablosuz Kulaklık,1,1687.58,0.0,49.9,Kredi Kartı,Mevcut,6.0,4.0,Hayır,0.287,1737.48
+SIP101020,MUS1015,2024-09-05 15:02:00,Samsun,Karadeniz,Kitap,Python Notları,4,219.99,0.05,29.9,Dijital Cüzdan,Mevcut,3.0,5.0,Hayır,0.279,865.86
+SIP101315,MUS1063,2025-08-01 16:36:00,İstanbul,Marmara,Elektronik,Bluetooth Hoparlör,1,1270.45,0.0,29.9,Banka Kartı,Mevcut,5.0,4.0,Hayır,0.398,1300.35
+SIP100035,MUS1005,2025-07-10 19:19:00,İzmir,Ege,Ev ve Yaşam,Kahve Kupası,1,185.18,0.0,29.9,Banka Kartı,VIP,6.0,3.0,Hayır,0.329,215.08
+SIP100076,MUS1306,2024-11-28 10:31:00,İzmir,Ege,Elektronik,Akıllı Saat,4,3133.89,0.1,39.9,Kart,,2.0,2.0,Hayır,0.309,11321.9
+SIP100174,MUS1365,2024-09-13 08:41:00,Mersin,Akdeniz,Kozmetik,Nemlendirici,2,393.8,0.0,49.9,Kredi Kartı,Mevcut,3.0,3.0,Hayır,0.338,837.5
+SIP101144,MUS1356,2025-12-16 12:30:00,Gaziantep,Güneydoğu Anadolu,Kitap,Girişimcilik,1,213.49,0.1,0.0,Kredi Kartı,Yeni,5.0,5.0,Hayır,0.398,192.14
+SIP101264,MUS1331,2024-10-17 15:07:00,Mersin,Akdeniz,Ev ve Yaşam,Termos,5,550.28,0.15,59.9,Banka Kartı,Yeni,6.0,5.0,Hayır,0.29,2398.59
+SIP101353,MUS1068,2024-02-04 12:47:00,Konya,İç Anadolu,Kitap,Python Notları,2,220.6,0.15,49.9,Kredi Kartı,Mevcut,6.0,5.0,Hayır,0.202,424.92
+SIP100748,MUS1214,2025-05-23 10:55:00,Ankara,İç Anadolu,Kitap,Python Notları,1,221.25,0.15,49.9,Kredi Kartı,VIP,2.0,2.0,Evet,0.407,288.66
+SIP101318,MUS1248,2025-01-05 09:22:00,Adana,Akdeniz,Spor,Direnç Bandı,1,252.4,0.05,29.9,banka karti,Yeni,2.0,2.0,Hayır,0.232,269.68
+SIP100509,MUS1289,2024-06-19 12:59:00,Eskişehir,İç Anadolu,Ev ve Yaşam,Termos,1,493.53,0.0,29.9,Kredi Kartı,VIP,4.0,4.0,Hayır,0.342,523.43
+SIP100711,MUS1330,2024-01-26 19:37:00,İstanbul,Marmara,Elektronik,Bluetooth Hoparlör,2,1143.05,0.0,29.9,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.233,2316.0
+SIP100608,MUS1195,2024-04-20 08:18:00,Kayseri,İç Anadolu,Kitap,İş Analitiği Rehberi,1,287.47,0.0,39.9,Kapıda Ödeme,Mevcut,3.0,4.0,Hayır,0.263,327.37
+SIP100388,MUS1357,2025-03-20 10:03:00,Samsun,Karadeniz,Ev ve Yaşam,Organizer,2,256.89,0.05,49.9,Kredi Kartı,Yeni,2.0,5.0,Hayır,0.221,537.99
+SIP101391,MUS1238,2024-04-30 13:29:00,Ankara,İç Anadolu,Kozmetik,Güneş Kremi,1,480.48,0.0,49.9,Banka Kartı,Mevcut,3.0,4.0,Hayır,0.19,530.38
+SIP100752,MUS1086,2025-01-15 12:49:00,Kocaeli,Marmara,Ev ve Yaşam,Kahve Kupası,1,188.88,0.05,49.9,Kapıda Ödeme,Yeni,1.0,5.0,Hayır,0.395,229.34
+SIP100912,MUS1165,2025-12-23 21:56:00,Ankara,İç Anadolu,Ev ve Yaşam,Masa Lambası,1,685.71,0.05,39.9,Banka Kartı,Yeni,3.0,3.0,Hayır,0.302,691.32
+SIP100149,MUS1177,2025-05-12 17:28:00,İstanbul,Marmara,Spor,Direnç Bandı,4,265.86,0.05,29.9,Kredi Kartı,Yeni,4.0,4.0,Hayır,0.228,1040.17
+SIP100754,MUS1363,2024-11-20 17:08:00,İstanbul,Marmara,Elektronik,Kablosuz Kulaklık,1,1461.79,0.0,29.9,Kredi Kartı,Mevcut,4.0,4.0,Hayır,0.312,1491.69
+SIP100403,MUS1419,2024-02-20 19:30:00,Eskişehir,İç Anadolu,ofis,Mekanik Klavye,3,2355.65,0.0,49.9,,VIP,3.0,5.0,Evet,0.258,7116.85
+SIP100341,MUS1428,2024-07-27 20:09:00,İstanbul,Marmara,Elektronik,Powerbank,4,869.6,0.0,49.9,Banka Kartı,Mevcut,4.0,4.0,Hayır,0.338,3528.3
+SIP101175,MUS1267,2025-05-26 21:20:00,İstanbul,Marmara,Spor,Dambıl Seti,1,1476.61,0.05,39.9,Kredi Kartı,VIP,2.0,5.0,Hayır,0.365,1442.68
+SIP100988,MUS1054,2025-05-20 14:48:00,Eskişehir,İç Anadolu,Kitap,Python Notları,1,12631.62,0.0,29.9,Banka Kartı,VIP,5.0,1.0,Evet,0.217,12661.52
+SIP100201,MUS1231,2025-02-23 21:36:00,Gaziantep,Güneydoğu Anadolu,Kozmetik,Şampuan,1,202.55,0.1,29.9,Kredi Kartı,VIP,7.0,5.0,Hayır,0.222,212.2
+SIP100733,MUS1143,2025-06-18 15:55:00,Kayseri,İç Anadolu,Elektronik,Akıllı Saat,2,2919.56,0.2,39.9,Dijital Cüzdan,Mevcut,2.0,4.0,Hayır,0.362,4711.2
+SIP100541,MUS1095,2025-07-15 12:15:00,Konya,İç Anadolu,Ofis,Mekanik Klavye,2,2191.12,0.0,39.9,Kredi Kartı,VIP,5.0,1.0,Hayır,0.32,4422.14
+SIP100692,MUS1244,2025-10-19 12:48:00,Antalya,Akdeniz,Ofis,Defter Seti,2,164.28,0.2,49.9,Kapida Odeme,Yeni,4.0,3.0,Hayır,0.372,312.75
+SIP100610,MUS1081,2024-02-10 11:59:00,Antalya,Akdeniz,Kitap,Veri Bilimi 101,1,262.27,0.05,29.9,banka karti,Yeni,2.0,5.0,Hayır,0.304,279.06
+SIP100116,MUS1152,2024-04-19 11:24:00,Ankara,İç Anadolu,Spor,Direnç Bandı,1,235.2,0.05,49.9,Banka Kartı,Mevcut,4.0,4.0,Hayır,0.365,273.34
+SIP100956,MUS1057,2024-04-13 08:53:00,İstanbul,Marmara,Ev ve Yaşam,Saklama Kutusu,1,241.94,0.0,29.9,Banka Kartı,Mevcut,2.0,5.0,Hayır,0.243,271.84
+SIP100281,MUS1224,2025-12-06 19:05:00,Ankara,İç Anadolu,Kitap,Python Notları,2,224.84,0.0,49.9,Kredi Kartı,VIP,4.0,5.0,Evet,0.354,499.58
+SIP100411,MUS1393,2025-11-24 11:17:00,Kayseri,İç Anadolu,Kitap,Python Notları,3,233.46,0.05,59.9,Banka Kartı,Mevcut,6.0,5.0,Hayır,0.362,725.26
+SIP101384,MUS1324,2025-08-08 21:01:00,Adana,Akdeniz,Ofis,Defter Seti,2,161.37,0.15,39.9,Kapıda Ödeme,VIP,5.0,1.0,Hayır,0.387,314.23
+SIP101219,MUS1339,2025-10-14 15:42:00,İstanbul,Marmara,Kozmetik,Şampuan,1,200.93,0.05,49.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.352,240.78
+SIP101116,MUS1143,2024-06-24 11:02:00,Adana,Akdeniz,Kozmetik,Yüz Temizleme Jeli,3,288.7,0.15,39.9,Banka Kartı,Yeni,4.0,5.0,Hayır,0.268,776.08
+SIP100688,MUS1440,2024-03-19 21:50:00,Bursa,Marmara,Ev ve Yaşam,Organizer,5,279.2,0.1,39.9,Kredi Kartı,Yeni,2.0,3.0,Hayır,0.253,1296.3
+SIP100336,MUS1254,2025-02-05 12:41:00,Bursa,Marmara,Kozmetik,Nemlendirici,5,423.61,0.1,29.9,Kredi Kartı,VIP,2.0,4.0,Hayır,0.352,1936.15
+SIP100643,MUS1100,2025-05-19 20:11:00,Bursa,Marmara,Kitap,Zaman Yönetimi,4,161.98,0.15,29.9,Dijital Cüzdan,Yeni,3.0,4.0,Hayır,0.288,580.63
+SIP100315,MUS1422,2025-08-09 09:17:00,Bursa,Marmara,Kozmetik,Yüz Temizleme Jeli,1,313.25,0.0,49.9,Havale/EFT,Mevcut,4.0,5.0,Hayır,0.412,363.15
+SIP100783,MUS1259,2024-12-22 13:10:00,Kayseri,İç Anadolu,Ofis,Kalem Seti,5,99.29,0.1,49.9,Kapıda Ödeme,Mevcut,2.0,3.0,Hayır,0.412,496.71
+SIP101121,MUS1229,2024-10-02 11:37:00,Mersin,Akdeniz,Ev&Yaşam,Saklama Kutusu,1,220.51,0.05,49.9,Banka Kartı,Mevcut,5.0,4.0,Hayır,0.25,259.38
+SIP101361,MUS1130,2025-06-19 19:53:00,İstanbul,Marmara,Kozmetik,Şampuan,1,199.02,0.0,39.9,Banka Kartı,Yeni,4.0,5.0,Hayır,0.395,238.92
+SIP101358,MUS1056,2024-01-18 15:46:00,Antalya,Akdeniz,Ev ve Yaşam,Kahve Kupası,1,196.84,0.0,39.9,Kredi Kartı,Mevcut,6.0,5.0,Hayır,0.406,236.74
+SIP100093,MUS1295,2025-09-10 12:01:00,Eskişehir,İç Anadolu,Kitap,İş Analitiği Rehberi,1,294.79,0.0,39.9,Kredi Kartı,VIP,4.0,5.0,Hayır,0.184,334.69
+SIP100835,MUS1233,2025-08-03 09:00:00,İstanbul,Marmara,Ofis,Mekanik Klavye,1,2370.59,0.05,39.9,Havale/EFT,Mevcut,3.0,3.0,Hayır,0.407,2291.96
+SIP100593,MUS1020,2025-12-07 19:36:00,Kocaeli,Marmara,Ev ve Yaşam,Kahve Kupası,3,195.61,0.0,0.0,Kapıda Ödeme,Yeni,2.0,4.0,Hayır,0.398,586.83
+SIP101390,MUS1002,2025-12-06 16:26:00,İstanbul,Marmara,Kozmetik,Nemlendirici,3,408.71,0.0,39.9,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.42,1266.03
+SIP100395,MUS1366,2025-08-09 22:15:00,Bursa,Marmara,Kozmetik,Şampuan,5,190.9,0.0,39.9,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.314,994.4
+SIP101230,MUS1052,2024-10-09 11:56:00,Ankara,İç Anadolu,Kozmetik,Yüz Temizleme Jeli,2,285.02,0.05,39.9,Banka Kartı,Mevcut,2.0,3.0,Hayır,0.196,581.44
+SIP101070,MUS1374,2024-08-08 10:38:00,İstanbul,Marmara,Ev ve Yaşam,Saklama Kutusu,3,251.97,0.0,29.9,Banka Kartı,Mevcut,4.0,5.0,Hayır,0.293,785.81
+SIP100576,MUS1152,2025-09-05 22:55:00,Ankara,İç Anadolu,spor,Suluk,4,195.42,0.0,0.0,Banka Kartı,Yeni,1.0,2.0,Hayır,0.251,781.68
+SIP100574,MUS1129,2025-03-25 19:12:00,Ankara,İç Anadolu,Kozmetik,Güneş Kremi,1,466.61,0.0,59.9,Kredi Kartı,Mevcut,2.0,1.0,Hayır,0.254,526.51
+SIP101314,MUS1333,2025-01-22 21:37:00,Antalya,Akdeniz,Ofis,Mekanik Klavye,2,2241.02,0.0,39.9,Kredi Kartı,Mevcut,4.0,2.0,Hayır,0.413,4521.94
+SIP100736,MUS1209,2025-04-08 15:15:00,Bursa,Marmara,Kitap,Veri Bilimi 101,4,231.5,0.05,29.9,Kredi Kartı,Mevcut,5.0,3.0,Hayır,0.407,909.6
+SIP101269,MUS1179,2025-11-05 16:16:00,Konya,İç Anadolu,Kozmetik,Serum,2,509.93,0.0,39.9,Kredi Kartı,Yeni,4.0,3.0,Hayır,0.307,1059.76
+SIP100280,MUS1277,2024-11-02 10:36:00,Mersin,Akdeniz,Spor,Yoga Matı,1,701.61,0.0,39.9,kredi kartı,Mevcut,1.0,5.0,Hayır,0.34,741.51
+SIP100338,MUS1038,2025-01-09 16:43:00,İstanbul,Marmara,Kozmetik,Şampuan,1,188.77,0.05,39.9,Kredi Kartı,Mevcut,6.0,,Hayır,0.384,219.23
+SIP100228,MUS1396,2025-08-10 18:34:00,Gaziantep,Güneydoğu Anadolu,Ofis,Defter Seti,4,157.48,0.0,49.9,Kredi Kartı,VIP,2.0,5.0,Hayır,0.322,679.82
+SIP100009,MUS1017,2024-08-12 18:20:00,Trabzon,Karadeniz,Kitap,Girişimcilik,3,183.23,0.1,49.9,Kapıda Ödeme,Mevcut,5.0,2.0,Hayır,0.266,544.62
+SIP101231,MUS1306,2025-05-22 11:10:00,İstanbul,Marmara,Kitap,İş Analitiği Rehberi,3,285.85,0.1,49.9,Havale/EFT,Yeni,1.0,4.0,Hayır,0.334,821.7
+SIP101117,MUS1324,2025-10-19 11:52:00,Samsun,Karadeniz,Ofis,Defter Seti,1,145.64,0.1,39.9,Kredi Kartı,,5.0,5.0,Hayır,0.298,170.98
+SIP100069,MUS1084,2024-06-20 17:38:00,Bursa,Marmara,ofis,Mouse Pad,1,158.47,0.05,29.9,Dijital Cüzdan,Mevcut,4.0,4.0,Hayır,0.34,180.45
+SIP101303,MUS1316,2024-03-28 11:49:00,Ankara,İç Anadolu,Kitap,İş Analitiği Rehberi,3,288.7,0.0,39.9,Banka Kartı,,2.0,5.0,Hayır,0.284,906.0
+SIP101233,MUS1243,2024-06-19 10:21:00,Ankara,İç Anadolu,Ofis,Defter Seti,1,152.3,0.15,49.9,Dijital Cüzdan,Yeni,2.0,3.0,Evet,0.305,179.36
+SIP101136,MUS1407,2024-12-27 13:31:00,Trabzon,Karadeniz,Ev ve Yaşam,Kahve Kupası,2,170.78,0.1,39.9,Kredi Kartı,Mevcut,5.0,4.0,Hayır,0.252,347.3
+SIP100025,MUS1143,2024-04-21 11:12:00,İstanbul,Marmara,Spor,Suluk,2,183.85,0.15,49.9,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.336,362.44
+SIP100634,MUS1233,2024-01-06 17:56:00,İzmir,Ege,Spor,Spor Çantası,2,888.58,0.15,39.9,Kredi Kartı,Yeni,5.0,3.0,Hayır,0.211,1550.49
+SIP100471,MUS1151,2025-08-25 16:47:00,Mersin,Akdeniz,Kitap,İş Analitiği Rehberi,5,294.84,0.0,49.9,Banka Kartı,Mevcut,5.0,4.0,Hayır,0.418,1524.1
+SIP100558,MUS1080,2025-07-06 11:51:00,Antalya,Akdeniz,Ofis,Not Tutucu,3,134.47,0.15,29.9,,Yeni,4.0,5.0,Hayır,0.358,372.8
+SIP100294,MUS1108,2025-11-29 20:35:00,İstanbul,Marmara,Kozmetik,Nemlendirici,1,406.97,0.05,39.9,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.391,426.52
+SIP100773,MUS1155,2024-06-20 16:20:00,İstanbul,Marmara,Elektronik,Powerbank,1,809.72,0.15,29.9,Dijital Cüzdan,Mevcut,5.0,4.0,Hayır,0.228,718.16
+SIP101348,MUS1370,2025-10-02 09:39:00,Kayseri,İç Anadolu,Kozmetik,Nemlendirici,5,429.57,0.0,49.9,Banka Kartı,Yeni,2.0,1.0,Hayır,0.341,2197.75
+SIP101023,MUS1257,2024-07-12 22:27:00,Trabzon,Karadeniz,Elektronik,Powerbank,2,873.0,0.0,0.0,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.419,1746.0
+SIP100121,MUS1247,2025-05-28 22:17:00,Antalya,Akdeniz,Ofis,Kalem Seti,3,98.08,0.05,59.9,Kapıda Ödeme,Yeni,4.0,5.0,Hayır,0.407,339.43
+SIP100906,MUS1428,2025-08-09 12:36:00,Kayseri,İç Anadolu,Spor,Direnç Bandı,1,276.3,0.0,39.9,Kredi Kartı,Yeni,6.0,5.0,Hayır,0.403,316.2
+SIP100511,MUS1371,2025-08-19 21:49:00,Mersin,Akdeniz,Kozmetik,Nemlendirici,2,18145.23,0.0,39.9,Kredi Kartı,Mevcut,1.0,5.0,Hayır,0.419,36330.36
+SIP100180,MUS1306,2025-10-16 20:39:00,İstanbul,Marmara,Ev ve Yaşam,Kahve Kupası,1,182.92,0.05,49.9,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.352,223.67
+SIP101094,MUS1383,2024-10-02 09:28:00,İzmir,Ege,Ev ve Yaşam,Organizer,2,271.7,0.1,49.9,Banka Kartı,Mevcut,1.0,2.0,Hayır,0.256,538.96
+SIP100816,MUS1140,2025-05-12 16:27:00,Ankara,İç Anadolu,Ofis,Not Tutucu,1,141.97,0.2,39.9,Kredi Kartı,VIP,2.0,5.0,Hayır,0.259,153.48
+SIP100864,MUS1310,2024-12-15 22:55:00,Adana,Akdeniz,Kozmetik,Güneş Kremi,1,489.71,0.1,29.9,Kapıda Ödeme,Yeni,3.0,5.0,Evet,0.29,470.64
+SIP101083,MUS1253,2024-09-02 09:10:00,İstanbul,Marmara,Elektronik,Kablosuz Kulaklık,2,1583.33,0.15,39.9,Banka Kartı,Yeni,1.0,1.0,Hayır,0.314,2731.56
+SIP101249,MUS1350,2024-06-26 17:27:00,Samsun,Karadeniz,Kozmetik,Güneş Kremi,2,495.45,0.05,29.9,Banka Kartı,Yeni,2.0,5.0,Hayır,0.24,971.25
+SIP100381,MUS1328,2024-02-03 10:38:00,Samsun,Karadeniz,Spor,Spor Çantası,2,982.46,0.1,29.9,Kredi Kartı,Mevcut,2.0,3.0,Hayır,0.304,1798.33
+SIP100605,MUS1356,2025-06-19 20:16:00,Antalya,Akdeniz,Ev ve Yaşam,Organizer,3,248.85,0.05,49.9,Banka Kartı,mevcut,2.0,4.0,Hayır,0.328,759.12
+SIP101170,MUS1232,2024-03-26 10:04:00,Ankara,İç Anadolu,Kitap,Python Notları,1,222.21,0.15,29.9,Kredi Kartı,Yeni,6.0,4.0,Hayır,0.259,218.78
+SIP101245,MUS1181,2024-10-16 21:37:00,İstanbul,Marmara,Elektronik,Bluetooth Hoparlör,4,1110.39,0.15,59.9,Kredi Kartı,Mevcut,3.0,5.0,Evet,0.242,3835.23
+SIP100551,MUS1186,2025-09-11 18:25:00,Ankara,İç Anadolu,Ofis,Mouse Pad,4,175.61,0.1,49.9,Kredi Kartı,Mevcut,3.0,3.0,Hayır,0.341,682.1
+SIP100252,MUS1127,2025-04-19 18:46:00,İstanbul,Marmara,elektronik,Webcam,4,960.95,0.0,39.9,Banka Kartı,Mevcut,4.0,3.0,Hayır,0.395,3883.7
+SIP101324,MUS1303,2024-09-04 19:18:00,Ankara,İç Anadolu,Spor,Spor Çantası,1,922.29,0.0,0.0,Kredi Kartı,VIP,3.0,3.0,Hayır,0.42,922.29
+SIP100213,MUS1254,2025-06-01 15:15:00,Bursa,Marmara,Elektronik,Akıllı Saat,2,2809.67,0.05,29.9,Kredi Kartı,Yeni,3.0,5.0,Evet,0.19,5368.27
+SIP101218,MUS1442,2025-12-16 10:59:00,Kocaeli,Marmara,Spor,Suluk,3,203.94,0.2,39.9,Kredi Kartı,Mevcut,6.0,3.0,Hayır,0.286,529.36
+SIP100331,MUS1154,2025-01-27 09:46:00,İstanbul,Marmara,Elektronik,Bluetooth Hoparlör,3,1103.03,0.0,49.9,Kapıda Ödeme,Yeni,2.0,5.0,Hayır,0.307,3358.99
+SIP100433,MUS1214,2024-02-19 18:06:00,Antalya,Akdeniz,Elektronik,Powerbank,3,847.51,,49.9,Banka Kartı,Yeni,3.0,5.0,Hayır,0.268,2592.43
+SIP100277,MUS1271,2025-10-22 20:21:00,İstanbul,Marmara,Spor,Direnç Bandı,5,235.35,0.0,39.9,banka karti,Mevcut,5.0,5.0,Hayır,0.326,1216.65
+SIP101268,MUS1311,2025-02-07 09:58:00,Kocaeli,Marmara,Ofis,Mouse Pad,2,167.21,0.0,59.9,Kapıda Ödeme,Mevcut,2.0,1.0,Hayır,0.405,394.32
+SIP100292,MUS1356,2025-05-05 13:11:00,Ankara,İç Anadolu,Kozmetik,Nemlendirici,1,397.19,0.1,59.9,Dijital Cüzdan,,1.0,4.0,Hayır,0.253,417.37
+SIP100902,MUS1287,2024-04-30 19:13:00,Trabzon,Karadeniz,Kozmetik,Serum,1,551.1,0.0,39.9,Kredi Kartı,Yeni,6.0,5.0,Hayır,0.183,591.0
+SIP100449,MUS1446,2024-01-12 18:59:00,Eskişehir,İç Anadolu,Kozmetik,Yüz Temizleme Jeli,1,309.1,0.1,49.9,Kredi Kartı,Mevcut,5.0,5.0,Hayır,0.362,328.09
+SIP101197,MUS1248,2025-10-08 17:54:00,İstanbul,Marmara,Ev ve Yaşam,Organizer,3,279.36,0.0,29.9,Kredi Kartı,VIP,2.0,4.0,Hayır,0.4,867.98
+SIP101241,MUS1170,2025-04-05 22:33:00,Trabzon,Karadeniz,Kitap,Girişimcilik,3,192.8,0.0,39.9,Kredi Kartı,VIP,1.0,4.0,Hayır,0.415,618.3
+SIP100304,MUS1119,2025-06-12 10:35:00,Samsun,Karadeniz,Kitap,Python Notları,3,238.79,0.15,49.9,Kredi Kartı,Mevcut,4.0,2.0,Hayır,0.297,658.81
+SIP100240,MUS1032,2025-08-19 19:36:00,Gaziantep,Güneydoğu Anadolu,Ofis,Mouse Pad,2,154.56,0.15,29.9,Kredi Kartı,Mevcut,6.0,4.0,Hayır,0.279,292.65
+SIP101333,MUS1293,2024-07-18 08:31:00,Eskişehir,İç Anadolu,Kozmetik,Serum,2,558.41,0.2,49.9,Kapıda Ödeme,Yeni,1.0,4.0,Hayır,0.216,943.36
+SIP100941,MUS1155,2025-12-11 09:50:00,Eskişehir,İç Anadolu,Spor,Suluk,1,11843.95,0.0,39.9,Kredi Kartı,VIP,5.0,1.0,Hayır,0.405,11883.85
+SIP100068,MUS1112,2024-01-21 17:09:00,Gaziantep,Güneydoğu Anadolu,Ev ve Yaşam,Masa Lambası,5,637.16,0.05,39.9,Kredi Kartı,Mevcut,4.0,2.0,Hayır,0.211,3066.41
+SIP100020,MUS1265,2025-12-31 12:25:00,Gaziantep,Güneydoğu Anadolu,Kitap,Python Notları,2,232.96,0.0,59.9,dijital cüzdan,Mevcut,4.0,4.0,Hayır,0.225,525.82
+SIP100325,MUS1290,2025-05-21 12:20:00,İstanbul,Marmara,Spor,Dambıl Seti,3,1479.29,0.0,29.9,Kapıda Ödeme,Yeni,5.0,,Hayır,0.383,4467.77
+SIP100055,MUS1205,2025-02-28 22:40:00,Kayseri,İç Anadolu,Elektronik,Akıllı Saat,1,3032.08,0.2,29.9,Banka Kartı,Mevcut,4.0,4.0,Hayır,0.331,2455.56
+SIP100964,MUS1432,2025-02-09 11:19:00,Eskişehir,İç Anadolu,Spor,Dambıl Seti,1,1574.62,0.1,39.9,Kart,Mevcut,4.0,5.0,Hayır,0.381,1457.06
+SIP100932,MUS1034,2025-11-19 18:38:00,Istanbul,Marmara,Ev ve Yaşam,Organizer,4,285.37,0.05,0.0,Banka Kartı,Yeni,3.0,1.0,Hayır,0.36,1084.41
+SIP101336,MUS1263,2024-03-17 13:10:00,Mersin,Akdeniz,Kitap,Python Notları,3,226.34,0.0,39.9,Kredi Kartı,Yeni,5.0,,Hayır,0.22,718.92
+SIP100151,MUS1221,2024-05-20 20:16:00,İstanbul,Marmara,ofis,Mekanik Klavye,1,12326.35,0.05,49.9,Kredi Kartı,Yeni,5.0,5.0,Hayır,0.367,11759.93
+SIP101187,MUS1201,2024-11-21 13:10:00,Kayseri,İç Anadolu,Kozmetik,Serum,5,516.46,0.1,39.9,Dijital Cüzdan,VIP,4.0,4.0,Hayır,0.267,2363.97
+SIP101122,MUS1418,2025-01-12 10:57:00,Ankara,İç Anadolu,Kitap,Zaman Yönetimi,2,144.14,0.0,0.0,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.201,288.28
+SIP101196,MUS1153,2025-01-19 22:20:00,İstanbul,Marmara,Kitap,Zaman Yönetimi,1,152.49,0.1,49.9,Banka Kartı,Mevcut,4.0,5.0,Hayır,0.204,187.14
+SIP101131,MUS1316,2024-06-22 09:14:00,Eskişehir,İç Anadolu,Elektronik,Akıllı Saat,1,3119.01,0.0,29.9,Kredi Kartı,VIP,4.0,3.0,Hayır,0.385,3148.91
+SIP100744,MUS1033,2024-11-24 13:57:00,İstanbul,Marmara,Kitap,Python Notları,5,198.1,0.0,49.9,Kredi Kartı,Mevcut,2.0,2.0,Hayır,0.381,1040.4
+SIP100750,MUS1249,2025-10-22 13:26:00,İstanbul,Marmara,Ev ve Yaşam,Organizer,3,248.98,0.0,29.9,Banka Kartı,Mevcut,2.0,5.0,Hayır,0.35,776.84
+SIP100756,MUS1260,2025-04-14 22:20:00,İzmir,Ege,Spor,Dambıl Seti,2,1470.47,0.0,49.9,Kredi Kartı,VIP,4.0,4.0,Hayır,0.403,2990.84
+SIP101049,MUS1018,2025-09-07 12:09:00,Bursa,Marmara,Spor,Dambıl Seti,1,1662.24,0.0,39.9,Havale,Mevcut,2.0,5.0,Hayır,0.308,1702.14
+SIP100812,MUS1415,2025-11-07 21:47:00,İstanbul,Marmara,Spor,Dambıl Seti,1,1751.14,0.05,39.9,Dijital Cüzdan,Yeni,1.0,5.0,Hayır,0.263,1703.48
+SIP100662,MUS1415,2025-09-23 13:19:00,Konya,İç Anadolu,Kitap,Zaman Yönetimi,1,171.66,0.05,49.9,Kredi Kartı,Yeni,6.0,4.0,Hayır,0.192,212.98
+SIP101306,MUS1033,2024-02-29 17:05:00,Kayseri,İç Anadolu,Ev ve Yaşam,Kahve Kupası,1,171.63,0.0,39.9,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.203,211.53
+SIP101107,MUS1191,2025-01-04 19:51:00,Adana,Akdeniz,Ev ve Yaşam,Saklama Kutusu,1,239.98,0.05,49.9,Kredi Kartı,Mevcut,5.0,5.0,Hayır,0.365,277.88
+SIP100256,MUS1155,2025-08-12 13:36:00,Bursa,Marmara,Ofis,Mekanik Klavye,2,2242.55,0.05,59.9,Banka Kartı,Mevcut,4.0,4.0,Hayır,0.266,4320.74
+SIP100935,MUS1389,2025-02-20 12:07:00,İstanbul,Marmara,Ofis,Not Tutucu,2,131.61,0.0,39.9,Havale/EFT,Mevcut,2.0,5.0,Hayır,0.253,303.12
+SIP100870,MUS1427,2024-01-21 21:28:00,İzmir,Ege,Spor,Direnç Bandı,3,237.42,0.0,39.9,Banka Kartı,Yeni,2.0,3.0,Hayır,0.327,752.16
+SIP101319,MUS1398,2024-08-23 17:52:00,Konya,İç Anadolu,Spor,Direnç Bandı,1,252.38,0.05,49.9,Kapıda Ödeme,Yeni,5.0,4.0,Hayır,0.294,289.66
+SIP100893,MUS1388,2025-07-07 12:13:00,Gaziantep,Güneydoğu Anadolu,Ev ve Yaşam,Organizer,1,241.62,0.15,49.9,Kredi Kartı,Mevcut,4.0,4.0,Hayır,0.267,255.28
+SIP100874,MUS1148,2025-05-21 17:41:00,İzmir,Ege,Spor,Yoga Matı,4,688.23,0.0,29.9,Kredi Kartı,Mevcut,5.0,5.0,Evet,0.387,2782.82
+SIP100614,MUS1351,2024-12-03 15:34:00,İzmir,Ege,Ofis,Kalem Seti,1,93.11,0.0,29.9,Kredi Kartı,Mevcut,2.0,,Hayır,0.412,123.01
+SIP101101,MUS1118,2025-09-17 10:12:00,İstanbul,Marmara,Kitap,Girişimcilik,1,186.43,0.1,39.9,,,4.0,4.0,Hayır,0.31,207.69
+SIP100389,MUS1282,2024-09-28 18:18:00,Antalya,Akdeniz,Kitap,Girişimcilik,2,211.42,0.05,39.9,Kredi Kartı,Yeni,4.0,3.0,Hayır,0.261,441.6
+SIP100937,MUS1169,2024-08-19 19:27:00,Ankara,İç Anadolu,Kozmetik,Yüz Temizleme Jeli,1,339.41,0.0,49.9,Dijital Cüzdan,VIP,3.0,5.0,Hayır,0.338,389.31
+SIP100407,MUS1017,2024-01-30 10:12:00,İzmir,Ege,Kozmetik,Serum,1,585.35,0.0,59.9,Dijital Cüzdan,Yeni,3.0,4.0,Evet,0.196,645.25
+SIP100795,MUS1319,2025-11-25 08:11:00,Gaziantep,Güneydoğu Anadolu,Elektronik,Akıllı Saat,1,3120.48,0.0,39.9,Kredi Kartı,Mevcut,4.0,4.0,Hayır,0.208,3160.38
+SIP100716,MUS1173,2025-05-24 17:51:00,Mersin,Akdeniz,Elektronik,Kablosuz Kulaklık,4,1530.03,0.0,29.9,Banka Kartı,Yeni,1.0,5.0,Hayır,0.378,6150.02
+SIP101135,MUS1166,2024-03-09 09:36:00,İzmir,Ege,Kitap,Zaman Yönetimi,4,156.66,0.05,0.0,Kredi Kartı,,2.0,1.0,Hayır,0.182,595.31
+SIP101024,MUS1046,2025-08-23 12:46:00,Trabzon,Karadeniz,Kitap,Zaman Yönetimi,1,163.29,0.0,29.9,Kredi Kartı,Mevcut,4.0,3.0,Hayır,0.248,193.19
+SIP101056,MUS1439,2024-08-11 20:47:00,Ankara,İç Anadolu,Ev ve Yaşam,Masa Lambası,1,636.35,0.0,49.9,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.289,686.25
+SIP101250,MUS1322,2025-03-02 16:12:00,Kocaeli,Marmara,Ofis,Mekanik Klavye,1,2320.68,0.0,49.9,Kredi Kartı,Yeni,4.0,3.0,Hayır,0.349,2370.58
+SIP100247,MUS1419,2025-07-26 15:43:00,İzmir,Ege,Kozmetik,Yüz Temizleme Jeli,1,284.62,0.0,49.9,Kapıda Ödeme,Mevcut,1.0,,Hayır,0.391,334.52
+SIP100146,MUS1036,2024-12-13 13:00:00,İstanbul,Marmara,Ofis,Mouse Pad,2,165.76,0.2,39.9,Kredi Kartı,yeni,2.0,5.0,Hayır,0.235,305.12
+SIP101327,MUS1225,2024-01-08 17:37:00,Samsun,Karadeniz,Elektronik,Bluetooth Hoparlör,1,1249.07,0.0,39.9,Kredi Kartı,Mevcut,5.0,4.0,Hayır,0.405,1288.97
+SIP101153,MUS1050,2024-11-18 20:25:00,Samsun,Karadeniz,Kozmetik,Nemlendirici,2,389.38,0.05,29.9,,,1.0,4.0,Hayır,0.26,769.72
+SIP101310,MUS1167,2024-04-21 09:32:00,İstanbul,Marmara,Ev ve Yaşam,Saklama Kutusu,4,238.66,0.0,29.9,Kredi Kartı,Mevcut,2.0,4.0,Hayır,0.241,984.54
+SIP100623,MUS1161,2025-03-13 14:49:00,Ankara,İç Anadolu,Spor,Dambıl Seti,2,1647.62,0.0,39.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.212,3335.14
+SIP101396,MUS1300,2025-04-05 21:40:00,Antalya,Akdeniz,Ofis,Kalem Seti,2,98.39,0.05,0.0,Havale/EFT,Yeni,4.0,4.0,Hayır,0.409,186.94
+SIP100461,MUS1151,2025-09-15 22:44:00,Bursa,Marmara,Spor,Direnç Bandı,3,247.56,0.0,0.0,Havale/EFT,Yeni,4.0,2.0,Hayır,0.294,742.68
+SIP100487,MUS1374,2025-10-11 10:19:00,Kocaeli,Marmara,Kozmetik,Güneş Kremi,3,473.55,0.1,59.9,Banka Kartı,VIP,6.0,1.0,Hayır,0.376,1338.48
+SIP101350,MUS1411,2024-07-22 10:53:00,Bursa,Marmara,Ofis,Kalem Seti,1,100.9,0.1,49.9,Banka Kartı,mevcut,5.0,4.0,Hayır,0.258,140.71
+SIP100091,MUS1148,2024-03-02 10:50:00,Eskişehir,İç Anadolu,Ev ve Yaşam,Termos,3,505.92,0.1,29.9,Kredi Kartı,Mevcut,5.0,3.0,Hayır,0.235,1395.88
+SIP100493,MUS1003,2024-06-05 17:36:00,Konya,İç Anadolu,Ofis,Kalem Seti,1,99.34,0.0,49.9,Kredi Kartı,Yeni,,5.0,Hayır,0.412,149.24
+SIP100171,MUS1228,2024-06-18 19:28:00,İstanbul,Marmara,Kitap,Girişimcilik,2,196.28,0.0,39.9,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.413,432.46
+SIP100057,MUS1163,2025-04-12 10:51:00,İstanbul,Marmara,Ev ve Yaşam,Termos,5,515.88,0.05,39.9,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.32,2490.33
+SIP100405,MUS1422,2024-10-02 19:26:00,Trabzon,Karadeniz,Spor,Suluk,3,213.99,0.0,29.9,Banka Kartı,Yeni,2.0,4.0,Hayır,0.187,671.87
+SIP100600,MUS1046,2024-09-05 09:17:00,Trabzon,Karadeniz,Kozmetik,Nemlendirici,3,412.48,0.0,49.9,Havale/EFT,Yeni,2.0,2.0,Hayır,0.395,1287.34
+SIP101016,MUS1372,2024-07-19 10:58:00,İstanbul,Marmara,Ev ve Yaşam,Kahve Kupası,4,187.0,0.05,39.9,Kredi Kartı,Yeni,3.0,1.0,Hayır,0.238,750.5
+SIP100098,MUS1227,2025-02-27 08:12:00,Konya,İç Anadolu,Kozmetik,Şampuan,1,192.99,0.0,39.9,Kredi Kartı,Mevcut,1.0,3.0,Hayır,0.222,232.89
+SIP100827,MUS1252,2025-10-21 14:50:00,Eskişehir,İç Anadolu,Kitap,İş Analitiği Rehberi,2,294.91,0.05,29.9,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.274,590.23
+SIP101141,MUS1218,2024-05-21 09:44:00,İstanbul,Marmara,Ev ve Yaşam,Termos,3,453.82,0.1,29.9,Havale/EFT,Mevcut,3.0,4.0,Evet,0.294,1255.21
+SIP100480,MUS1323,2024-06-20 20:34:00,Ankara,İç Anadolu,Elektronik,Kablosuz Kulaklık,1,1468.25,0.05,39.9,Banka Kartı,Mevcut,2.0,4.0,Hayır,0.275,1434.74
+SIP100324,MUS1204,2025-04-14 18:42:00,Ankara,İç Anadolu,Elektronik,Kablosuz Kulaklık,1,1622.38,0.0,39.9,Havale/EFT,Mevcut,6.0,1.0,Hayır,0.25,1662.28
+SIP101272,MUS1227,2024-03-06 08:39:00,Gaziantep,Güneydoğu Anadolu,Spor,Direnç Bandı,2,254.18,0.05,49.9,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.349,526.9
+SIP100099,MUS1015,2025-07-16 10:59:00,Gaziantep,Güneydoğu Anadolu,Ev ve Yaşam,Saklama Kutusu,2,249.55,0.0,49.9,Kredi Kartı,VIP,,5.0,Hayır,0.216,549.0
+SIP100681,MUS1280,2025-05-25 21:46:00,İzmir,Ege,Elektronik,Powerbank,1,749.85,0.0,49.9,Kredi Kartı,Mevcut,2.0,3.0,Hayır,0.375,799.75
+SIP100425,MUS1003,2024-03-23 15:21:00,Ankara,İç Anadolu,Kitap,Python Notları,1,213.8,0.0,59.9,Banka Kartı,Yeni,1.0,4.0,Hayır,0.373,273.7
+SIP100297,MUS1056,2025-01-03 19:57:00,Adana,Akdeniz,Kozmetik,Yüz Temizleme Jeli,1,297.94,0.15,0.0,Kapida Odeme,Mevcut,3.0,5.0,Hayır,0.296,253.25
+SIP100738,MUS1405,2024-01-25 15:29:00,Adana,Akdeniz,Kozmetik,Serum,2,483.48,0.0,0.0,Havale/EFT,Mevcut,5.0,5.0,Hayır,0.369,966.96
+SIP101342,MUS1247,2025-11-15 15:31:00,Kayseri,İç Anadolu,Ev ve Yaşam,Saklama Kutusu,3,213.23,0.05,39.9,Havale/EFT,Mevcut,6.0,5.0,Hayır,0.378,647.61
+SIP100903,MUS1061,2025-02-22 09:07:00,İzmir,Ege,Elektronik,Powerbank,4,783.4,0.0,39.9,Kredi Kartı,Yeni,1.0,5.0,Hayır,0.281,3173.5
+SIP100602,MUS1351,2025-03-28 17:09:00,İstanbul,Marmara,Ofis,Kalem Seti,1,107.86,0.0,39.9,Kredi Kartı,VIP,3.0,3.0,Hayır,0.35,147.76
+SIP101000,MUS1112,2024-03-08 18:52:00,İzmir,Ege,spor,Dambıl Seti,2,1575.23,0.05,39.9,Kredi Kartı,Mevcut,,4.0,Evet,0.186,3032.84
+SIP101287,MUS1360,2025-07-19 15:03:00,Adana,Akdeniz,Kitap,Veri Bilimi 101,1,247.68,0.2,39.9,Kredi Kartı,Mevcut,5.0,4.0,Hayır,0.317,238.04
+SIP100396,MUS1086,2025-08-08 18:39:00,İstanbul,Marmara,Kozmetik,Serum,1,517.39,0.0,29.9,Kredi Kartı,VIP,5.0,4.0,Hayır,0.291,547.29
+SIP100427,MUS1008,2025-03-15 15:24:00,İzmir,Ege,Spor,Direnç Bandı,1,242.92,0.1,29.9,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.318,248.53
+SIP101284,MUS1283,2024-12-20 09:26:00,Eskişehir,İç Anadolu,Kitap,Veri Bilimi 101,4,269.71,0.0,39.9,Banka Kartı,Mevcut,2.0,4.0,Evet,0.303,1118.74
+SIP101039,MUS1281,2024-02-02 10:31:00,Kocaeli,Marmara,Kitap,Girişimcilik,2,215.03,0.0,39.9,Havale/EFT,Yeni,4.0,4.0,Hayır,0.307,469.96
+SIP100253,MUS1215,2024-07-12 22:56:00,Bursa,Marmara,Ev ve Yaşam,Saklama Kutusu,2,225.73,0.05,29.9,Havale/EFT,Yeni,4.0,4.0,Hayır,0.412,458.79
+SIP100239,MUS1229,2024-05-23 15:20:00,İzmir,Ege,Elektronik,Bluetooth Hoparlör,1,1263.86,0.0,39.9,Dijital Cüzdan,Yeni,3.0,5.0,Hayır,0.196,1303.76
+SIP101145,MUS1006,2024-03-02 22:41:00,İstanbul,Marmara,Elektronik,Bluetooth Hoparlör,2,1190.88,0.1,59.9,Kart,Mevcut,3.0,,Hayır,0.207,2203.48
+SIP100845,MUS1078,2024-11-16 14:57:00,Mersin,Akdeniz,Ofis,Kalem Seti,1,93.66,0.1,39.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.238,124.19
+SIP100846,MUS1084,2024-02-24 11:09:00,Antalya,Akdeniz,Kitap,Zaman Yönetimi,1,165.05,0.05,49.9,kredi kartı,Yeni,1.0,5.0,Hayır,0.37,206.7
+SIP100555,MUS1340,2025-03-29 18:08:00,Ankara,İç Anadolu,Ev ve Yaşam,Saklama Kutusu,2,215.11,0.0,49.9,Kredi Kartı,Mevcut,3.0,5.0,Evet,0.386,480.12
+SIP101221,MUS1111,2025-12-12 09:04:00,Mersin,Akdeniz,Ev ve Yaşam,Masa Lambası,3,668.18,0.1,39.9,Dijital Cüzdan,Yeni,4.0,4.0,Evet,0.349,1843.99
+SIP100546,MUS1185,2025-05-02 21:40:00,İstanbul,Marmara,Ev ve Yaşam,Saklama Kutusu,2,218.21,0.0,49.9,Kredi Kartı,Mevcut,4.0,1.0,Hayır,0.336,486.32
+SIP100251,MUS1428,2024-05-01 10:34:00,Kayseri,İç Anadolu,Ev ve Yaşam,Saklama Kutusu,3,244.62,0.05,29.9,Kredi Kartı,Yeni,5.0,,Hayır,0.386,727.07
+SIP100740,MUS1042,2024-10-03 19:39:00,Antalya,Akdeniz,Ofis,Not Tutucu,1,138.33,0.05,49.9,Banka Kartı,Mevcut,6.0,4.0,Hayır,0.267,181.31
+SIP100965,MUS1022,2024-05-17 20:05:00,İzmir,Ege,Kozmetik,Yüz Temizleme Jeli,2,284.81,0.0,29.9,Kredi Kartı,Mevcut,2.0,4.0,Hayır,0.398,599.52
+SIP100199,MUS1185,2024-08-17 09:12:00,Konya,İç Anadolu,Ofis,Kalem Seti,4,109.97,0.15,39.9,Havale/EFT,Yeni,3.0,5.0,Hayır,0.388,413.8
+SIP100898,MUS1051,2024-04-17 13:33:00,,Güneydoğu Anadolu,Kozmetik,Nemlendirici,1,370.22,0.0,49.9,Banka Kartı,Mevcut,4.0,4.0,Hayır,0.35,420.12
+SIP101261,MUS1326,2025-09-19 18:28:00,Ankara,İç Anadolu,Kozmetik,Güneş Kremi,3,452.58,0.15,29.9,Kapida Odeme,Mevcut,3.0,,Hayır,0.334,1183.98
+SIP100368,MUS1323,2025-01-27 10:26:00,Bursa,Marmara,Elektronik,Webcam,1,938.08,0.0,49.9,Kredi Kartı,VIP,2.0,5.0,Hayır,0.326,987.98
+SIP100990,MUS1129,2025-01-25 13:47:00,Adana,Akdeniz,Kitap,Zaman Yönetimi,1,151.07,0.0,39.9,Kredi Kartı,Yeni,4.0,5.0,Evet,0.249,190.97
+SIP101041,MUS1197,2024-04-18 14:45:00,Samsun,Karadeniz,Kitap,Veri Bilimi 101,2,257.15,0.0,49.9,Kredi Kartı,VIP,3.0,5.0,Hayır,0.418,481.32
+SIP101183,MUS1115,2025-05-30 17:51:00,Samsun,Karadeniz,Elektronik,Akıllı Saat,2,2993.71,0.05,39.9,Kredi Kartı,Yeni,6.0,5.0,Hayır,0.31,5727.95
+SIP100244,MUS1058,2024-03-24 16:28:00,Kocaeli,Marmara,Kitap,Girişimcilik,2,188.95,0.15,49.9,Banka Kartı,Mevcut,2.0,2.0,Hayır,0.35,371.11
+SIP100067,MUS1021,2025-07-06 08:22:00,Mersin,Akdeniz,Spor,Yoga Matı,2,727.55,0.05,59.9,Kredi Kartı,Yeni,3.0,4.0,Hayır,0.29,1442.24
+SIP101362,MUS1138,2024-06-03 08:20:00,İzmir,Ege,Kitap,İş Analitiği Rehberi,4,303.04,0.0,39.9,Havale/EFT,Mevcut,5.0,5.0,Hayır,0.246,1252.06
+SIP100934,MUS1333,2025-11-28 16:56:00,Adana,Akdeniz,Kozmetik,Güneş Kremi,3,442.51,0.15,39.9,Kredi Kartı,VIP,7.0,,Hayır,0.199,1168.3
+SIP100360,MUS1361,2024-09-28 21:07:00,İstanbul,Marmara,Ofis,Not Tutucu,3,130.27,0.05,59.9,Kredi Kartı,Mevcut,31.0,5.0,Hayır,0.183,431.17
+SIP100096,MUS1282,2025-02-25 19:31:00,Adana,Akdeniz,Ev ve Yaşam,Saklama Kutusu,3,239.52,0.15,39.9,Kredi Kartı,VIP,4.0,5.0,Hayır,0.276,650.68
+SIP101386,MUS1364,2024-05-14 09:26:00,İstanbul,Marmara,Kitap,Python Notları,4,202.08,0.05,39.9,Kapıda Ödeme,Yeni,2.0,5.0,Hayır,0.188,807.8
+SIP101400,MUS1173,2025-10-06 13:55:00,Eskişehir,İç Anadolu,Ofis,Defter Seti,1,162.41,0.1,49.9,Dijital Cüzdan,Yeni,3.0,3.0,Hayır,0.24,196.07
+SIP100522,MUS1357,2024-04-12 11:32:00,Gaziantep,Güneydoğu Anadolu,Spor,Dambıl Seti,1,1398.2,0.1,59.9,Kredi Kartı,Yeni,2.0,4.0,Hayır,0.265,1318.28
+SIP100975,MUS1154,2025-03-05 14:43:00,Mersin,Akdeniz,Ofis,Mekanik Klavye,2,2288.15,0.1,59.9,Havale/EFT,Mevcut,4.0,4.0,Hayır,0.269,4178.57
+SIP100666,MUS1055,2025-09-10 17:08:00,Kayseri,İç Anadolu,Ofis,Mouse Pad,1,164.18,0.05,29.9,Kart,Mevcut,1.0,5.0,Hayır,0.371,185.87
+SIP100362,MUS1237,2024-02-01 14:54:00,Adana,Akdeniz,Ofis,Mekanik Klavye,1,2242.44,0.0,39.9,Kredi Kartı,Mevcut,1.0,5.0,Hayır,0.26,2282.34
+SIP100485,MUS1392,2025-05-29 09:18:00,Adana,Akdeniz,Elektronik,Webcam,2,831.76,0.2,29.9,Havale/EFT,Yeni,4.0,4.0,Evet,0.388,1360.72
+SIP101176,MUS1097,2025-10-11 15:40:00,Gaziantep,Güneydoğu Anadolu,Spor,Dambıl Seti,2,1597.79,0.0,0.0,dijital cüzdan,Yeni,3.0,5.0,Hayır,0.229,3195.58
+SIP100312,MUS1254,2025-05-11 10:12:00,İstanbul,Marmara,Ofis,Defter Seti,1,144.79,0.0,39.9,Kapıda Ödeme,VIP,2.0,5.0,Hayır,0.195,184.69
+SIP100843,MUS1060,2025-04-24 10:05:00,İstanbul,Marmara,Spor,Suluk,1,207.68,0.05,49.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.189,247.2
+SIP100414,MUS1192,2025-08-21 09:00:00,Adana,Akdeniz,Kozmetik,Şampuan,1,199.24,0.1,39.9,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.22,219.22
+SIP101158,MUS1050,2025-09-17 17:04:00,Adana,Akdeniz,Ev ve Yaşam,Masa Lambası,3,603.96,0.0,49.9,Dijital Cüzdan,Mevcut,3.0,3.0,Hayır,0.212,1861.78
+SIP100032,MUS1203,2024-11-19 22:16:00,Konya,İç Anadolu,Kozmetik,Serum,3,517.21,0.1,49.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.399,1446.37
+SIP100766,MUS1424,2024-07-23 10:53:00,Bursa,Marmara,Kozmetik,Nemlendirici,5,417.99,0.0,39.9,Kredi Kartı,Mevcut,5.0,2.0,Evet,0.317,2129.85
+SIP100459,MUS1400,2024-02-19 16:59:00,Trabzon,Karadeniz,Elektronik,Powerbank,1,870.14,0.05,39.9,Kredi Kartı,Mevcut,5.0,4.0,Hayır,0.23,866.53
+SIP101186,MUS1192,2024-01-05 22:58:00,Ankara,İç Anadolu,Spor,Dambıl Seti,1,1511.06,0.05,49.9,Kredi Kartı,Yeni,6.0,5.0,Hayır,0.33,1485.41
+SIP100340,MUS1143,2025-03-09 19:25:00,Konya,İç Anadolu,Kozmetik,Şampuan,4,183.91,0.1,39.9,Kredi Kartı,Mevcut,4.0,4.0,Hayır,0.361,701.98
+SIP100287,MUS1372,2024-11-28 21:24:00,Antalya,Akdeniz,Kozmetik,Serum,4,504.15,0.0,49.9,Kredi Kartı,Mevcut,1.0,2.0,Hayır,0.278,2066.5
+SIP100868,MUS1276,2025-10-26 10:41:00,Kayseri,İç Anadolu,Ev ve Yaşam,Kahve Kupası,1,186.51,0.0,49.9,Kredi Kartı,Mevcut,6.0,5.0,Hayır,0.407,236.41
+SIP100950,MUS1172,2025-12-12 19:29:00,İstanbul,Marmara,Ev ve Yaşam,Kahve Kupası,1,166.71,0.15,29.9,Banka Kartı,Yeni,5.0,5.0,Hayır,0.394,171.6
+SIP100140,MUS1035,2024-11-16 18:16:00,Gaziantep,Güneydoğu Anadolu,Ofis,Not Tutucu,2,130.87,0.1,49.9,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.262,285.47
+SIP100849,MUS1293,2025-11-10 17:13:00,Bursa,Marmara,Ofis,Kalem Seti,3,103.05,0.0,0.0,Banka Kartı,VIP,5.0,1.0,Hayır,0.229,309.15
+SIP101026,MUS1376,2024-04-09 09:49:00,Trabzon,Karadeniz,Spor,Yoga Matı,1,780.38,0.1,49.9,Havale/EFT,Mevcut,5.0,2.0,Hayır,0.303,752.24
+SIP101232,MUS1353,2024-07-08 16:58:00,Ankara,İç Anadolu,Elektronik,Kablosuz Kulaklık,2,1692.01,,29.9,Havale/EFT,Mevcut,2.0,5.0,Hayır,0.252,3413.92
+SIP101139,MUS1179,2024-01-18 13:35:00,Ankara,İç Anadolu,Elektronik,Bluetooth Hoparlör,4,1231.84,0.0,0.0,Kredi Kartı,yeni,2.0,5.0,Hayır,0.284,4927.36
+SIP100901,MUS1067,2025-03-02 21:10:00,İzmir,Ege,Spor,Direnç Bandı,4,243.83,0.0,59.9,Kredi Kartı,Yeni,5.0,4.0,Hayır,0.376,1035.22
+SIP100732,MUS1284,2024-06-09 20:50:00,Ankara,İç Anadolu,Ofis,Kalem Seti,1,98.07,0.0,29.9,Banka Kartı,mevcut,,4.0,Hayır,0.311,127.97
+SIP100265,MUS1255,2025-04-22 16:41:00,Antalya,Akdeniz,Ofis,Not Tutucu,3,135.67,0.0,49.9,Kredi Kartı,Yeni,2.0,3.0,Hayır,0.183,456.91
+SIP100275,MUS1435,2025-04-15 17:15:00,İzmir,Ege,Ofis,Not Tutucu,1,134.85,0.05,39.9,Dijital Cüzdan,Yeni,4.0,4.0,Hayır,0.201,168.01
+SIP101095,MUS1017,2024-04-23 11:18:00,İzmir,Ege,Ofis,Mekanik Klavye,2,2432.43,0.0,39.9,Kredi Kartı,Mevcut,4.0,4.0,Hayır,0.301,4904.76
+SIP100445,MUS1248,2024-01-30 21:43:00,İzmir,Ege,Ofis,Kalem Seti,1,110.1,0.15,49.9,Dijital Cüzdan,Mevcut,2.0,5.0,Hayır,0.182,143.48
+SIP100040,MUS1408,2025-01-13 17:35:00,Eskişehir,İç Anadolu,Kozmetik,Yüz Temizleme Jeli,2,291.06,0.0,49.9,Kredi Kartı,Yeni,,5.0,Hayır,0.191,632.02
+SIP101123,MUS1091,2025-05-17 19:11:00,Kayseri,İç Anadolu,Ev ve Yaşam,Organizer,3,271.13,0.1,39.9,Banka Kartı,Yeni,3.0,4.0,Hayır,0.309,771.95
+SIP101265,MUS1371,2025-03-31 08:58:00,Konya,İç Anadolu,Kitap,Girişimcilik,1,183.66,0.05,39.9,Dijital Cüzdan,VIP,4.0,5.0,Hayır,0.219,214.38
+SIP100022,MUS1343,2024-03-10 22:02:00,Adana,Akdeniz,Elektronik,Bluetooth Hoparlör,1,1180.22,0.0,29.9,Kapıda Ödeme,Yeni,1.0,5.0,Hayır,0.391,1210.12
+SIP100706,MUS1433,2024-01-04 16:45:00,Ankara,İç Anadolu,Spor,Spor Çantası,2,907.39,0.0,39.9,Dijital Cüzdan,Mevcut,4.0,5.0,Hayır,0.286,1854.68
+SIP100518,MUS1162,2025-06-19 09:33:00,Gaziantep,Güneydoğu Anadolu,Elektronik,Powerbank,2,887.75,0.0,0.0,Kredi Kartı,Mevcut,4.0,3.0,Hayır,0.39,1775.5
+SIP101174,MUS1163,2024-11-27 18:52:00,Adana,Akdeniz,Kozmetik,Nemlendirici,1,366.82,0.0,49.9,Dijital Cüzdan,Mevcut,2.0,3.0,Hayır,0.386,416.72
+SIP100355,MUS1433,2025-05-18 08:09:00,Bursa,Marmara,Ev ve Yaşam,Kahve Kupası,1,176.16,0.0,39.9,Havale/EFT,Yeni,5.0,4.0,Hayır,0.407,216.06
+SIP100298,MUS1205,2024-06-19 18:39:00,Kocaeli,Marmara,kitap,İş Analitiği Rehberi,4,284.06,0.0,39.9,Kredi Kartı,VIP,2.0,,Hayır,0.273,1176.14
+SIP101077,MUS1051,2025-06-25 13:44:00,Antalya,Akdeniz,Spor,Yoga Matı,2,744.93,0.05,49.9,Banka Kartı,Yeni,4.0,3.0,Hayır,0.2,1465.27
+SIP100840,MUS1121,2025-09-03 12:04:00,İstanbul,Marmara,Spor,Direnç Bandı,1,253.5,0.0,49.9,Kredi Kartı,Yeni,5.0,2.0,Hayır,0.279,303.4
+SIP101223,MUS1187,2025-11-02 10:54:00,Ankara,İç Anadolu,Ofis,Not Tutucu,3,124.69,0.0,29.9,Kredi Kartı,VIP,2.0,5.0,Hayır,0.185,403.97
+SIP100925,MUS1244,2024-12-02 08:58:00,Ankara,İç Anadolu,Spor,Spor Çantası,2,881.88,0.05,49.9,Havale/EFT,Mevcut,1.0,4.0,Evet,0.334,1725.47
+SIP100123,MUS1189,2025-01-09 09:50:00,Adana,Akdeniz,Spor,Spor Çantası,1,821.09,0.1,39.9,Kredi Kartı,Yeni,3.0,4.0,Hayır,0.309,778.88
+SIP101228,MUS1253,2024-07-17 12:12:00,Konya,İç Anadolu,Kitap,Zaman Yönetimi,1,166.23,0.0,39.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.38,206.13
+SIP101092,MUS1211,2024-04-13 14:31:00,İstanbul,Marmara,Ofis,Defter Seti,2,153.68,0.0,59.9,Kredi Kartı,Mevcut,1.0,4.0,Hayır,0.353,367.26
+SIP101248,MUS1134,2025-11-25 18:24:00,Bursa,Marmara,Ofis,Mekanik Klavye,1,2261.79,0.0,39.9,Kredi Kartı,VIP,2.0,,Hayır,0.236,2301.69
+SIP101152,MUS1145,2024-02-19 13:05:00,İstanbul,Marmara,Spor,Yoga Matı,4,729.73,0.0,59.9,,Yeni,3.0,4.0,Hayır,0.286,2978.82
+SIP101164,MUS1193,2024-09-07 19:52:00,İstanbul,Marmara,Kitap,Veri Bilimi 101,1,268.48,0.0,39.9,Banka Kartı,Yeni,2.0,3.0,Hayır,0.347,308.38
+SIP100418,MUS1176,2025-02-01 19:02:00,Ankara,İç Anadolu,Spor,Direnç Bandı,2,263.7,0.05,49.9,Banka Kartı,VIP,8.0,4.0,Hayır,0.192,550.93
+SIP100967,MUS1257,2024-08-27 12:41:00,İzmir,Ege,Ev ve Yaşam,Kahve Kupası,3,185.6,0.0,59.9,Kredi Kartı,VIP,6.0,3.0,Hayır,0.342,616.7
+SIP101243,MUS1239,2024-12-21 12:07:00,İzmir,Ege,Spor,Spor Çantası,1,973.37,0.1,29.9,Dijital Cüzdan,Mevcut,3.0,2.0,Hayır,0.329,905.93
+SIP100158,MUS1230,2024-06-30 20:40:00,İstanbul,Marmara,Kitap,Veri Bilimi 101,2,266.89,0.0,0.0,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.336,533.78
+SIP101119,MUS1276,2024-12-30 11:46:00,Ankara,İç Anadolu,Elektronik,Kablosuz Kulaklık,1,1566.62,0.0,39.9,Dijital Cüzdan,Yeni,4.0,3.0,Hayır,0.289,1606.52
+SIP101280,MUS1274,2025-12-21 13:04:00,Samsun,Karadeniz,Ofis,Not Tutucu,4,131.84,0.0,0.0,Dijital Cüzdan,Yeni,3.0,4.0,Hayır,0.313,489.47
+SIP101064,MUS1266,2025-02-07 16:52:00,İzmir,Ege,Kitap,Veri Bilimi 101,1,252.8,0.0,39.9,Banka Kartı,Mevcut,4.0,3.0,Hayır,0.302,292.7
+SIP101155,MUS1368,2024-06-14 10:43:00,Antalya,Akdeniz,Elektronik,Webcam,3,960.14,0.1,29.9,Kredi Kartı,VIP,6.0,4.0,Hayır,0.38,2622.28
+SIP100079,MUS1360,2025-07-20 16:22:00,Adana,Akdeniz,Ofis,Not Tutucu,1,123.3,0.15,29.9,Kredi Kartı,Mevcut,1.0,5.0,Hayır,0.207,134.7
+SIP100190,MUS1219,2024-04-15 09:20:00,İstanbul,Marmara,Ofis,Mouse Pad,1,170.67,0.0,49.9,Banka Kartı,Yeni,1.0,5.0,Hayır,0.418,220.57
+SIP100590,MUS1284,2024-11-18 08:49:00,Ankara,İç Anadolu,Ev ve Yaşam,Masa Lambası,1,689.07,0.1,49.9,Kapıda Ödeme,Mevcut,3.0,,Hayır,0.313,670.06
+SIP100761,MUS1185,2025-05-17 13:38:00,Trabzon,Karadeniz,Spor,Dambıl Seti,1,1477.31,0.0,39.9,Banka Kartı,VIP,3.0,4.0,Hayır,0.341,1517.21
+SIP101063,MUS1095,2024-05-08 09:20:00,Adana,Akdeniz,Ofis,Kalem Seti,1,102.32,0.05,39.9,Kredi Kartı,VIP,3.0,5.0,Hayır,0.395,137.1
+SIP100243,MUS1112,2025-12-19 16:58:00,Trabzon,Karadeniz,Ofis,Not Tutucu,2,146.36,0.0,29.9,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.384,322.62
+SIP100885,MUS1137,2024-09-08 21:51:00,İzmir,Ege,Spor,Yoga Matı,1,677.75,0.15,0.0,Kredi Kartı,Yeni,1.0,3.0,Hayır,0.192,576.09
+SIP100621,MUS1114,2024-02-03 14:48:00,İstanbul,Marmara,Ev ve Yaşam,Masa Lambası,2,653.22,0.0,39.9,Dijital Cüzdan,VIP,2.0,5.0,Hayır,0.23,1346.34
+SIP100651,MUS1440,2025-02-02 10:38:00,Kayseri,İç Anadolu,Kozmetik,Serum,1,592.17,0.0,39.9,Kredi Kartı,Mevcut,6.0,4.0,Hayır,0.357,632.07
+SIP100504,MUS1115,2025-08-24 18:57:00,İzmir,Ege,Spor,Suluk,4,212.52,0.05,29.9,Kapıda Ödeme,,4.0,1.0,Hayır,0.248,837.48
+SIP100923,MUS1259,2024-05-23 19:35:00,Ankara,İç Anadolu,spor,Yoga Matı,2,655.56,0.1,39.9,Dijital Cüzdan,Mevcut,2.0,5.0,Hayır,0.197,1219.91
+SIP100160,MUS1189,2024-02-27 13:32:00,Ankara,İç Anadolu,Ofis,Kalem Seti,2,96.73,0.2,29.9,Kredi Kartı,Mevcut,3.0,5.0,Evet,0.319,184.67
+SIP100883,MUS1150,2024-06-20 18:07:00,Antalya,Akdeniz,Kozmetik,Yüz Temizleme Jeli,1,282.78,0.2,29.9,Dijital Cüzdan,VIP,2.0,5.0,Hayır,0.239,256.12
+SIP100538,MUS1410,2025-06-07 12:25:00,Kayseri,İç Anadolu,Spor,Dambıl Seti,1,1576.87,0.0,39.9,Kredi Kartı,Mevcut,2.0,4.0,Evet,0.317,1616.77
+SIP100241,MUS1160,2024-06-12 14:43:00,Adana,Akdeniz,Spor,Suluk,1,196.64,0.1,0.0,Kredi Kartı,VIP,4.0,,Hayır,0.281,176.98
+SIP100014,MUS1151,2025-11-29 22:34:00,Kayseri,İç Anadolu,Elektronik,Kablosuz Kulaklık,1,1742.85,0.05,59.9,Havale/EFT,Mevcut,4.0,5.0,Hayır,0.225,1715.61
+SIP100476,MUS1288,2024-12-05 13:18:00,Ankara,İç Anadolu,Ev ve Yaşam,Saklama Kutusu,1,203.34,0.05,39.9,Kredi Kartı,Mevcut,3.0,1.0,Hayır,0.32,233.07
+SIP101354,MUS1008,2024-03-19 09:32:00,Mersin,Akdeniz,Ofis,Defter Seti,2,151.22,0.05,29.9,Havale/EFT,Mevcut,5.0,3.0,Hayır,0.329,317.22
+SIP100929,MUS1184,2024-01-10 11:47:00,Bursa,Marmara,Ev ve Yaşam,Kahve Kupası,1,194.83,0.1,39.9,Kredi Kartı,Yeni,2.0,4.0,Hayır,0.419,215.25
+SIP100796,MUS1134,2025-05-19 20:29:00,Konya,İç Anadolu,Elektronik,Powerbank,1,844.77,0.05,49.9,Kredi Kartı,Mevcut,4.0,4.0,Hayır,0.374,852.43
+SIP100356,MUS1202,2025-04-14 19:05:00,Bursa,Marmara,Kitap,İş Analitiği Rehberi,2,264.07,0.1,49.9,Banka Kartı,Mevcut,5.0,4.0,Hayır,0.186,525.23
+SIP101059,MUS1193,2025-02-10 15:19:00,Ankara,İç Anadolu,Elektronik,Bluetooth Hoparlör,2,1134.87,0.0,0.0,Havale/EFT,VIP,3.0,4.0,Hayır,0.23,2269.74
+SIP100335,MUS1106,2024-10-18 20:44:00,Antalya,Akdeniz,Kozmetik,Serum,2,501.48,0.05,0.0,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.406,952.81
+SIP100689,MUS1414,2025-09-10 10:58:00,Ankara,İç Anadolu,kitap,Veri Bilimi 101,1,228.94,0.0,49.9,banka karti,Yeni,2.0,2.0,Hayır,0.22,278.84
+SIP100185,MUS1235,2025-12-13 15:40:00,Konya,İç Anadolu,Kitap,Zaman Yönetimi,5,172.16,0.05,29.9,Kredi Kartı,Yeni,4.0,5.0,Hayır,0.377,847.66
+SIP100824,MUS1328,2025-12-08 22:50:00,İstanbul,Marmara,Kitap,Veri Bilimi 101,1,257.83,0.05,59.9,Banka Kartı,Yeni,4.0,5.0,Hayır,0.218,304.84
+SIP101337,MUS1431,2024-02-09 14:06:00,Adana,Akdeniz,Elektronik,Webcam,1,903.43,0.1,0.0,Dijital Cüzdan,Mevcut,5.0,5.0,Hayır,0.22,813.09
+SIP101002,MUS1171,2025-10-08 19:24:00,Samsun,Karadeniz,Kozmetik,Güneş Kremi,2,484.89,0.0,29.9,Banka Kartı,VIP,5.0,5.0,Hayır,0.382,999.68
+SIP100188,MUS1255,2025-02-13 19:28:00,Ankara,İç Anadolu,ofis,Not Tutucu,2,124.22,0.1,59.9,,Mevcut,2.0,3.0,Hayır,0.203,283.5
+SIP100942,MUS1050,2024-04-14 18:03:00,Konya,İç Anadolu,Spor,Yoga Matı,1,664.94,0.0,29.9,Banka Kartı,Yeni,5.0,5.0,Hayır,0.256,694.84
+SIP100285,MUS1139,2025-01-04 09:05:00,İstanbul,Marmara,Spor,Suluk,2,216.35,0.15,59.9,Kredi Kartı,Yeni,1.0,4.0,Hayır,0.269,427.69
+SIP100900,MUS1326,2025-08-25 16:33:00,İzmir,Ege,Kozmetik,Şampuan,5,193.71,0.0,39.9,Havale/EFT,Mevcut,3.0,4.0,Hayır,0.268,1008.45
+SIP101395,MUS1182,2024-07-23 10:18:00,İzmir,Ege,Ev ve Yaşam,Saklama Kutusu,1,259.77,0.05,49.9,Kredi Kartı,Mevcut,5.0,3.0,Hayır,0.374,296.68
+SIP100166,MUS1336,2024-12-07 09:37:00,Konya,İç Anadolu,Kozmetik,Nemlendirici,2,412.45,0.0,39.9,Banka Kartı,vip,3.0,5.0,Hayır,0.35,864.8
+SIP100348,MUS1284,2025-01-07 14:58:00,İstanbul,Marmara,Elektronik,Akıllı Saat,1,2962.42,0.0,39.9,Kredi Kartı,VIP,5.0,4.0,Hayır,0.193,3002.32
+SIP100299,MUS1298,2024-04-18 08:06:00,Trabzon,Karadeniz,ofis,Not Tutucu,2,131.82,0.15,0.0,Kredi Kartı,Mevcut,5.0,5.0,Hayır,0.318,224.09
+SIP100536,MUS1340,2024-12-30 10:49:00,İstanbul,Marmara,Ev ve Yaşam,Organizer,2,264.61,0.2,29.9,Kredi Kartı,VIP,3.0,5.0,Hayır,0.275,453.28
+SIP100230,MUS1125,2025-07-29 19:17:00,İstanbul,Marmara,Kozmetik,Güneş Kremi,2,436.22,0.05,49.9,Kredi Kartı,Mevcut,2.0,4.0,Hayır,0.325,878.72
+SIP100042,MUS1013,2024-08-30 21:10:00,İzmir,Ege,Kozmetik,Nemlendirici,2,405.41,0.05,49.9,Dijital Cüzdan,Mevcut,3.0,5.0,Hayır,0.273,820.18
+SIP100869,MUS1360,2024-05-31 15:27:00,İstanbul,Marmara,Ofis,Not Tutucu,1,126.9,0.0,0.0,Kredi Kartı,Yeni,2.0,4.0,Hayır,0.272,126.9
+SIP100749,MUS1033,2025-04-30 13:26:00,Trabzon,Karadeniz,Kozmetik,Nemlendirici,1,381.76,0.0,39.9,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.365,421.66
+SIP101372,MUS1329,2024-11-09 13:39:00,Ankara,İç Anadolu,Spor,Spor Çantası,5,941.93,0.0,59.9,Havale/EFT,VIP,2.0,4.0,Hayır,0.181,4769.55
+SIP100447,MUS1317,2025-08-01 11:42:00,Bursa,Marmara,Kitap,Girişimcilik,2,195.2,0.15,0.0,Dijital Cüzdan,Mevcut,3.0,5.0,Hayır,0.195,331.84
+SIP100350,MUS1206,2025-11-20 22:03:00,Antalya,Akdeniz,Elektronik,Powerbank,1,830.56,0.1,29.9,Kredi Kartı,,5.0,4.0,Hayır,0.396,777.4
+SIP100046,MUS1136,2024-12-05 08:07:00,Bursa,Marmara,Kitap,Girişimcilik,4,215.61,0.1,49.9,Dijital Cüzdan,Yeni,1.0,3.0,Hayır,0.397,826.1
+SIP101377,MUS1397,2024-11-30 12:32:00,Mersin,Akdeniz,Spor,Direnç Bandı,1,238.2,0.1,0.0,Havale/EFT,Yeni,3.0,3.0,Hayır,0.337,214.38
+SIP101399,MUS1302,2025-05-01 10:29:00,Samsun,Karadeniz,Kozmetik,Nemlendirici,1,367.63,0.1,39.9,Banka Kartı,Mevcut,2.0,4.0,Hayır,0.368,370.77
+SIP100109,MUS1440,2025-09-30 19:25:00,Kocaeli,Marmara,Ofis,Mouse Pad,3,175.6,0.05,59.9,Banka Kartı,Mevcut,3.0,1.0,Hayır,0.244,560.36
+SIP100030,MUS1305,2025-06-27 10:03:00,İstanbul,Marmara,Spor,Spor Çantası,3,890.81,0.15,39.9,Dijital Cüzdan,Yeni,4.0,3.0,Hayır,0.314,2311.47
+SIP100182,MUS1260,2025-06-20 13:04:00,Antalya,Akdeniz,Ev ve Yaşam,Termos,4,474.26,0.05,39.9,Dijital Cüzdan,Mevcut,4.0,4.0,Hayır,0.254,1842.09
+SIP100622,MUS1353,2024-03-08 10:59:00,Gaziantep,Güneydoğu Anadolu,Ev ve Yaşam,Masa Lambası,1,667.65,0.0,49.9,Dijital Cüzdan,Mevcut,3.0,1.0,Hayır,0.188,717.55
+SIP100635,MUS1420,2025-09-06 08:15:00,İzmir,Ege,Elektronik,Powerbank,1,821.15,0.0,29.9,Dijital Cüzdan,Yeni,4.0,4.0,Hayır,0.417,851.05
+SIP100105,MUS1439,2024-11-25 21:12:00,Kocaeli,Marmara,Spor,Direnç Bandı,3,250.07,0.0,29.9,Dijital Cüzdan,Yeni,5.0,5.0,Hayır,0.379,780.11
+SIP100061,MUS1427,2024-03-06 14:26:00,Adana,Akdeniz,Kitap,Python Notları,2,235.58,0.15,59.9,,Mevcut,1.0,4.0,Evet,0.194,460.39
+SIP100659,MUS1146,2025-07-09 13:35:00,Antalya,Akdeniz,Elektronik,Bluetooth Hoparlör,3,1254.64,0.0,29.9,Kredi Kartı,Yeni,1.0,5.0,Hayır,0.364,3793.82
+SIP101108,MUS1062,2025-08-21 14:05:00,Ankara,İç Anadolu,Ofis,Mekanik Klavye,23,2487.45,0.15,29.9,Dijital Cüzdan,Yeni,3.0,4.0,Hayır,0.249,48659.55
+SIP100491,MUS1170,2024-10-24 18:04:00,Bursa,Marmara,Kozmetik,Yüz Temizleme Jeli,2,301.54,0.1,39.9,Kredi Kartı,Yeni,5.0,2.0,Hayır,0.356,582.67
+SIP100316,MUS1153,2025-07-13 11:27:00,Gaziantep,Güneydoğu Anadolu,Kitap,Zaman Yönetimi,3,176.48,0.0,29.9,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.335,559.34
+SIP100382,MUS1046,2024-12-05 19:04:00,Antalya,Akdeniz,Spor,Dambıl Seti,2,1479.55,0.1,49.9,Kredi Kartı,VIP,2.0,4.0,Hayır,0.399,2713.09
+SIP100423,MUS1153,2025-04-28 22:12:00,Antalya,Akdeniz,Kozmetik,Yüz Temizleme Jeli,1,290.1,0.0,29.9,,Mevcut,1.0,5.0,Hayır,0.258,320.0
+SIP101382,MUS1189,2025-03-28 13:33:00,Samsun,Karadeniz,Elektronik,Bluetooth Hoparlör,2,1159.17,0.0,49.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.291,2368.24
+SIP100446,MUS1348,2025-03-27 08:04:00,Samsun,Karadeniz,Elektronik,Akıllı Saat,3,3034.24,0.2,39.9,Kredi Kartı,Yeni,2.0,4.0,Hayır,0.199,7322.08
+SIP100664,MUS1187,2025-04-26 11:14:00,Adana,Akdeniz,Kitap,Zaman Yönetimi,4,170.76,0.0,49.9,Kredi Kartı,VIP,2.0,5.0,Hayır,0.364,732.94
+SIP101025,MUS1004,2024-05-26 12:47:00,İstanbul,Marmara,Kozmetik,Güneş Kremi,2,468.05,0.1,29.9,Kredi Kartı,Mevcut,,5.0,Hayır,0.181,872.39
+SIP100780,MUS1407,2024-01-20 20:30:00,,Marmara,Elektronik,Kablosuz Kulaklık,1,1440.97,0.05,29.9,Havale/EFT,Yeni,2.0,5.0,Hayır,0.364,1398.82
+SIP100627,MUS1370,2025-12-07 16:57:00,İzmir,Ege,Kozmetik,Yüz Temizleme Jeli,3,324.24,0.0,0.0,Kredi Kartı,Mevcut,2.0,5.0,Hayır,0.275,972.72
+SIP101113,MUS1225,2025-02-11 15:43:00,İstanbul,Marmara,Kitap,Python Notları,4,213.8,0.1,49.9,Banka Kartı,Mevcut,5.0,5.0,Evet,0.195,819.58
+SIP101102,MUS1443,2024-10-07 11:59:00,İstanbul,Marmara,Spor,Yoga Matı,2,693.54,0.05,0.0,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.387,1317.73
+SIP100269,MUS1251,2025-04-16 10:46:00,Trabzon,Karadeniz,Kitap,Zaman Yönetimi,1,170.29,0.1,59.9,Havale/EFT,Yeni,4.0,4.0,Hayır,0.256,213.16
+SIP100930,MUS1361,2024-08-14 11:31:00,İstanbul,Marmara,Kozmetik,Güneş Kremi,3,458.11,0.0,29.9,Dijital Cüzdan,Yeni,5.0,4.0,Hayır,0.363,1404.23
+SIP101148,MUS1335,2025-07-26 17:53:00,İstanbul,Marmara,Spor,Dambıl Seti,2,1538.74,0.05,49.9,Kredi Kartı,Mevcut,2.0,4.0,Hayır,0.403,2973.51
+SIP101322,MUS1446,2024-09-26 20:35:00,İstanbul,Marmara,Elektronik,Akıllı Saat,1,2849.73,0.15,39.9,Havale/EFT,Mevcut,2.0,4.0,Hayır,0.39,2462.17
+SIP101120,MUS1106,2025-12-05 14:41:00,Konya,İç Anadolu,Kozmetik,Yüz Temizleme Jeli,2,325.79,0.1,29.9,Kredi Kartı,Mevcut,2.0,4.0,Hayır,0.247,616.32
+SIP100012,MUS1057,2025-01-05 11:08:00,Izmir,Ege,Kozmetik,Şampuan,2,189.02,0.0,29.9,Kredi Kartı,Yeni,4.0,2.0,Evet,0.333,407.94
+SIP100115,MUS1433,2024-12-19 17:19:00,Antalya,Akdeniz,Elektronik,Akıllı Saat,3,2931.3,0.05,49.9,Banka Kartı,Mevcut,3.0,3.0,Hayır,0.187,8404.11
+SIP100844,MUS1314,2024-10-14 19:23:00,Ankara,İç Anadolu,Ev ve Yaşam,Kahve Kupası,1,193.45,0.0,39.9,Dijital Cüzdan,Yeni,4.0,4.0,Hayır,0.18,233.35
+SIP101282,MUS1072,2024-02-03 13:26:00,Bursa,Marmara,Ofis,Defter Seti,1,159.74,0.05,49.9,Kredi Kartı,Yeni,24.0,2.0,Hayır,0.294,201.65
+SIP100353,MUS1430,2024-06-03 08:59:00,Gaziantep,Güneydoğu Anadolu,Kozmetik,Nemlendirici,1,425.96,0.0,39.9,Kredi Kartı,Yeni,1.0,5.0,Hayır,0.379,465.86
+SIP100221,MUS1296,2025-09-03 15:16:00,Kayseri,İç Anadolu,Kitap,Veri Bilimi 101,1,272.69,0.15,59.9,Dijital Cüzdan,Mevcut,5.0,4.0,Hayır,0.382,291.69
+SIP100774,MUS1145,2024-04-08 16:37:00,Ankara,İç Anadolu,Kitap,İş Analitiği Rehberi,2,297.8,0.1,39.9,Kredi Kartı,Yeni,3.0,5.0,Hayır,0.292,575.94
+SIP100691,MUS1108,2025-02-26 20:24:00,Antalya,Akdeniz,Ev ve Yaşam,Kahve Kupası,2,164.35,0.05,59.9,Kredi Kartı,Mevcut,5.0,5.0,Hayır,0.219,372.16
+SIP100791,MUS1102,2024-04-14 19:59:00,İzmir,Ege,Kitap,Girişimcilik,3,200.01,0.0,49.9,Dijital Cüzdan,Yeni,2.0,4.0,Hayır,0.217,649.93
+SIP100532,MUS1404,2025-08-23 21:01:00,Gaziantep,Güneydoğu Anadolu,Spor,Direnç Bandı,1,233.8,0.0,49.9,Kredi Kartı,Yeni,4.0,5.0,Hayır,0.311,283.7
+SIP100868,MUS1276,2025-10-26 10:41:00,Kayseri,İç Anadolu,Ev ve Yaşam,Kahve Kupası,1,186.51,0.0,49.9,Kredi Kartı,Mevcut,6.0,5.0,Hayır,0.407,236.41
+SIP100170,MUS1079,2024-02-08 18:21:00,Kocaeli,Marmara,Kitap,Girişimcilik,5,207.07,0.05,59.9,Dijital Cüzdan,Mevcut,3.0,4.0,Hayır,0.304,1043.48
+SIP100240,MUS1032,2025-08-19 19:36:00,Gaziantep,Güneydoğu Anadolu,Ofis,Mouse Pad,2,154.56,0.15,29.9,Kredi Kartı,Mevcut,6.0,4.0,Hayır,0.279,292.65
+SIP101302,MUS1008,2024-06-15 14:29:00,Antalya,Akdeniz,Kozmetik,Güneş Kremi,3,470.53,0.0,39.9,Havale/EFT,VIP,4.0,5.0,Hayır,0.234,1451.49
+SIP101185,MUS1136,2024-01-08 13:50:00,İzmir,Ege,Kitap,Zaman Yönetimi,1,157.95,0.05,0.0,Kredi Kartı,Yeni,2.0,5.0,Hayır,0.368,150.05
+SIP100074,MUS1375,2025-09-22 20:58:00,Gaziantep,Güneydoğu Anadolu,Kitap,İş Analitiği Rehberi,1,304.67,0.05,39.9,Banka Kartı,Mevcut,1.0,,Hayır,0.287,329.34
+SIP101087,MUS1090,2025-04-04 10:43:00,Adana,Akdeniz,Elektronik,Powerbank,3,780.38,0.0,39.9,Dijital Cüzdan,Mevcut,1.0,4.0,Hayır,0.22,2381.04
+SIP100762,MUS1229,2025-01-13 14:23:00,İzmir,Ege,Kitap,Zaman Yönetimi,1,168.7,0.1,49.9,Kredi Kartı,Yeni,5.0,5.0,Hayır,0.187,201.73
+SIP100741,MUS1239,2025-06-11 22:43:00,Konya,İç Anadolu,Ofis,Defter Seti,1,166.28,0.0,39.9,Kredi Kartı,Yeni,7.0,5.0,Hayır,0.319,206.18
+SIP100751,MUS1088,2025-07-15 15:29:00,Antalya,Akdeniz,Kitap,Girişimcilik,1,189.56,0.05,29.9,Kredi Kartı,Yeni,5.0,5.0,Hayır,0.313,209.98
+SIP100742,MUS1071,2024-06-28 18:35:00,Konya,İç Anadolu,Ofis,Mouse Pad,2,154.83,0.0,29.9,Havale/EFT,Mevcut,3.0,5.0,Hayır,0.354,355.03
+SIP100831,MUS1377,2025-08-31 18:26:00,Ankara,İç Anadolu,Kitap,Python Notları,2,250.47,0.0,39.9,Havale/EFT,Yeni,1.0,3.0,Hayır,0.189,540.84
+SIP100048,MUS1369,2024-02-15 19:27:00,Eskişehir,İç Anadolu,Ev ve Yaşam,Saklama Kutusu,2,231.78,0.0,39.9,Kredi Kartı,VIP,2.0,5.0,Hayır,0.361,503.46
+SIP100763,MUS1218,2025-03-30 19:26:00,Kayseri,İç Anadolu,Elektronik,Bluetooth Hoparlör,2,1220.77,0.0,29.9,Kapıda Ödeme,Yeni,2.0,2.0,Hayır,0.189,2471.44
+SIP100592,MUS1167,2024-04-04 17:25:00,Ankara,İç Anadolu,Ofis,Mouse Pad,3,182.49,0.0,39.9,Banka Kartı,Yeni,2.0,4.0,Evet,0.234,587.37
+SIP100808,MUS1381,2024-09-28 08:19:00,Kayseri,İç Anadolu,Ev ve Yaşam,Saklama Kutusu,3,228.84,0.1,39.9,,Mevcut,2.0,4.0,Hayır,0.359,657.77
+SIP101084,MUS1347,2025-11-24 16:59:00,Mersin,Akdeniz,Elektronik,Akıllı Saat,2,3160.91,0.05,29.9,Havale/EFT,Mevcut,5.0,3.0,Hayır,0.323,6035.63
+SIP100506,MUS1419,2025-10-20 12:13:00,İstanbul,Marmara,Elektronik,Powerbank,1,792.48,0.05,39.9,Kart,Yeni,2.0,,Hayır,0.377,792.76
+SIP101045,MUS1060,2024-04-24 09:21:00,Ankara,İç Anadolu,Ofis,Defter Seti,3,152.53,0.05,59.9,Havale/EFT,vip,1.0,4.0,Hayır,0.309,494.61
+SIP100653,MUS1260,2024-04-24 13:50:00,İstanbul,Marmara,Ofis,Mekanik Klavye,1,2353.69,0.0,39.9,Kredi Kartı,Yeni,4.0,3.0,Hayır,0.344,2393.59
+SIP100193,MUS1291,2024-02-05 10:04:00,İstanbul,Marmara,Kozmetik,Şampuan,2,183.2,0.1,0.0,Kredi Kartı,Mevcut,4.0,5.0,Hayır,0.292,329.76
+SIP101240,MUS1056,2025-01-03 11:47:00,Ankara,İç Anadolu,Kitap,Zaman Yönetimi,2,154.33,0.1,49.9,Kredi Kartı,VIP,3.0,5.0,Hayır,0.406,327.69
+SIP100245,MUS1060,2024-07-26 17:34:00,İstanbul,Marmara,Kozmetik,Serum,2,519.26,0.05,29.9,Kredi Kartı,Yeni,3.0,4.0,Hayır,0.336,1016.49
+SIP101388,MUS1429,2025-08-23 19:23:00,Kayseri,İç Anadolu,Ofis,Mekanik Klavye,3,2341.22,0.05,39.9,Kredi Kartı,VIP,2.0,4.0,Hayır,0.318,6712.38
+SIP100060,MUS1197,2024-10-05 13:20:00,İstanbul,Marmara,Ofis,Mekanik Klavye,4,1978.74,0.0,49.9,Dijital Cüzdan,Yeni,6.0,5.0,Hayır,0.216,7964.86
+SIP101246,MUS1394,2024-09-14 10:22:00,Adana,Akdeniz,Elektronik,Kablosuz Kulaklık,3,1496.83,0.15,39.9,Dijital Cüzdan,Mevcut,4.0,5.0,Hayır,0.248,3856.82
+SIP100177,MUS1075,2024-01-29 13:59:00,Trabzon,Karadeniz,Ofis,Mekanik Klavye,3,2169.51,0.0,39.9,Kredi Kartı,Mevcut,1.0,,Hayır,0.273,6548.43
+SIP100450,MUS1207,2024-09-03 13:17:00,İstanbul,Marmara,Spor,Suluk,1,184.25,0.1,39.9,Kredi Kartı,Yeni,4.0,4.0,Hayır,0.392,205.73
+SIP100056,MUS1238,2024-04-19 20:27:00,Ankara,İç Anadolu,Kitap,Veri Bilimi 101,2,255.7,0.05,59.9,Kredi Kartı,Mevcut,3.0,2.0,Hayır,0.247,545.73
+SIP101279,MUS1149,2024-08-24 08:38:00,Ankara,İç Anadolu,Elektronik,Akıllı Saat,4,3074.8,0.15,39.9,Banka Kartı,Yeni,4.0,5.0,Hayır,0.414,10494.22
+SIP100920,MUS1425,2025-07-04 14:58:00,İzmir,Ege,Ev ve Yaşam,Masa Lambası,2,699.19,0.0,49.9,Banka Kartı,Yeni,2.0,4.0,Hayır,0.336,1448.28
+SIP100480,MUS1323,2024-06-20 20:34:00,Ankara,İç Anadolu,Elektronik,Kablosuz Kulaklık,1,1468.25,0.05,39.9,Banka Kartı,Mevcut,2.0,4.0,Hayır,0.275,1434.74
+SIP101222,MUS1440,2025-05-14 09:21:00,Bursa,Marmara,Spor,Dambıl Seti,1,1488.18,0.0,29.9,Kredi Kartı,Mevcut,3.0,4.0,Hayır,0.189,1518.08
+SIP101093,MUS1187,2024-06-08 20:42:00,İstanbul,Marmara,Spor,Yoga Matı,1,772.23,0.0,29.9,Kredi Kartı,Mevcut,3.0,2.0,Hayır,0.275,802.13
+SIP101193,MUS1297,2025-11-06 08:17:00,Gaziantep,Güneydoğu Anadolu,Spor,Suluk,2,187.03,0.0,59.9,Kredi Kartı,Yeni,2.0,4.0,Evet,0.243,433.96
+SIP101210,MUS1122,2025-03-07 09:07:00,,Marmara,Elektronik,Webcam,4,894.47,0.1,49.9,Kredi Kartı,Mevcut,3.0,5.0,Hayır,0.355,3269.99
+SIP101060,MUS1189,2025-04-19 21:52:00,Kocaeli,Marmara,Kitap,Veri Bilimi 101,2,248.55,0.05,59.9,banka karti,Yeni,4.0,3.0,Hayır,0.373,532.14
+SIP100642,MUS1289,2024-09-22 16:36:00,Ankara,İç Anadolu,Kozmetik,Güneş Kremi,1,424.84,0.2,0.0,Dijital Cüzdan,Yeni,2.0,4.0,Hayır,0.317,339.87
