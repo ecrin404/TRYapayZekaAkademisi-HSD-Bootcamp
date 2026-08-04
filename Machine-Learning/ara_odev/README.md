@@ -11,6 +11,7 @@ tahmin etmek.
 
 Veri seti; yaş, gelir, abonelik süresi, destek talebi sayısı, şehir ve
 üyelik tipi gibi sütunlar içeren, kod içinde otomatik olarak üretilen
+sentetik (yapay) bir veri setidir. Harici bir CSV dosyasına ihtiyaç yoktur.
 
 ## Proje İçeriği
 - `musteri_ayrilma_tahmini.py` → Tüm akışı içeren tek Python dosyası
