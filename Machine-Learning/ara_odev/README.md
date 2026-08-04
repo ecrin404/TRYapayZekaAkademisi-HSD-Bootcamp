@@ -10,8 +10,7 @@ Problem: Bir müşterinin abonelikten ayrılıp ayrılmayacağını (**churn**)
 tahmin etmek.
 
 Veri seti; yaş, gelir, abonelik süresi, destek talebi sayısı, şehir ve
-üyelik tipi gibi sütunlar içeren, kod içinde otomatik olarak üretilen ve
-kaydedilen sentetik (yapay) bir veri setidir.
+üyelik tipi gibi sütunlar içeren, kod içinde otomatik olarak üretilen
 
 ## Proje İçeriği
 - `musteri_ayrilma_tahmini.py` → Tüm akışı içeren tek Python dosyası
