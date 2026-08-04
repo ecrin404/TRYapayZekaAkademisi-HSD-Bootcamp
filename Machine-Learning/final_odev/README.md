@@ -1,10 +1,9 @@
 # Makine Öğrenmesi Final Ödevi
 
 ## Projenin Amacı
-Bu proje, Türkiye Yapay Zeka Akademisi Makine Öğrenmesi dersi final ödevi kapsamında
-hazırlanmıştır. Amaç; veri inceleme, veri ön işleme, öznitelik mühendisliği, model
+Bu proje; veri inceleme, veri ön işleme, öznitelik mühendisliği, model
 eğitimi, model karşılaştırma, hiperparametre ayarlama ve sonuç yorumlama adımlarını
-içeren uçtan uca bir makine öğrenmesi projesi geliştirmektir.
+içeren uçtan uca bir makine öğrenmesi projesi geliştirmeyi amaçlamaktadır.
 
 ## Veri Seti Açıklaması
 `scikit-learn` kütüphanesi içinde hazır bulunan **Breast Cancer Wisconsin** veri
